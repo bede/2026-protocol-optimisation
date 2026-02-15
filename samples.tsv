@@ -1,0 +1,48 @@
+run	barcode	condition	replicate	name	run_name	full_name
+DS_NEBtagged_sequenase_Zepto_18_11_2025	barcode05	full/neb	1	full/neb/1	Round A/B	roundab/full/neb/1
+DS_NEBtagged_sequenase_Zepto_18_11_2025	barcode06	full/neb	2	full/neb/2	Round A/B	roundab/full/neb/2
+DS_NEBtagged_sequenase_Zepto_18_11_2025	barcode07	full/neb	neg	full/neb/neg	Round A/B	roundab/full/neb/neg
+DS_NEBtagged_sequenase_Zepto_18_11_2025	barcode20	frag/neb	1	frag/neb/1	Round A/B	roundab/frag/neb/1
+DS_NEBtagged_sequenase_Zepto_18_11_2025	barcode21	frag/neb	neg	frag/neb/neg	Round A/B	roundab/frag/neb/neg
+DS_NEBtagged_sequenase_Zepto_18_11_2025	barcode22	frag/rlb	1	frag/rlb/1	Round A/B	roundab/frag/rlb/1
+DS_NEBtagged_sequenase_Zepto_18_11_2025	barcode23	frag/rlb	2	frag/rlb/2	Round A/B	roundab/frag/rlb/2
+DS_NEBtagged_sequenase_Zepto_18_11_2025	barcode24	frag/rlb	neg	frag/rlb/neg	Round A/B	roundab/frag/rlb/neg
+DS_NEBtagged_sequenase_Zepto_18_11_2025	barcode28	frag/neb+rlb	1	frag/neb+rlb/1	Round A/B	roundab/frag/neb+rlb/1
+DS_NEBtagged_sequenase_Zepto_18_11_2025	barcode29	frag/neb+rlb	2	frag/neb+rlb/2	Round A/B	roundab/frag/neb+rlb/2
+DS_NEBtagged_sequenase_Zepto_18_11_2025	barcode30	frag/neb+rlb	neg	frag/neb+rlb/neg	Round A/B	roundab/frag/neb+rlb/neg
+MW_FRM_cDNA_NEB_RLB_04092025	barcode15	full/neb	1	full/neb/1	SMART-9N	smart9n/full/neb/1
+MW_FRM_cDNA_NEB_RLB_04092025	barcode16	full/neb	2	full/neb/2	SMART-9N	smart9n/full/neb/2
+MW_FRM_cDNA_NEB_RLB_04092025	barcode19	full/neb	neg	full/neb/neg	SMART-9N	smart9n/full/neb/neg
+MW_FRM_cDNA_NEB_RLB_04092025	barcode17	full/rlb	1	full/rlb/1	SMART-9N	smart9n/full/rlb/1
+MW_FRM_cDNA_NEB_RLB_04092025	barcode18	full/rlb	2	full/rlb/2	SMART-9N	smart9n/full/rlb/2
+MW_FRM_cDNA_NEB_RLB_04092025	barcode20	full/rlb	neg	full/rlb/neg	SMART-9N	smart9n/full/rlb/neg
+MW_FRM_cDNA_NEB_RLB_04092025	barcode13	full/neb+rlb	1	full/neb+rlb/1	SMART-9N	smart9n/full/neb+rlb/1
+MW_FRM_cDNA_NEB_RLB_04092025	barcode14	full/neb+rlb	2	full/neb+rlb/2	SMART-9N	smart9n/full/neb+rlb/2
+MW_FRM_cDNA_NEB_RLB_04092025	barcode09	frag/neb	1	frag/neb/1	SMART-9N	smart9n/frag/neb/1
+MW_FRM_cDNA_NEB_RLB_04092025	barcode10	frag/neb	2	frag/neb/2	SMART-9N	smart9n/frag/neb/2
+MW_FRM_cDNA_NEB_RLB_04092025	barcode11	frag/rlb	1	frag/rlb/1	SMART-9N	smart9n/frag/rlb/1
+MW_FRM_cDNA_NEB_RLB_04092025	barcode12	frag/rlb	2	frag/rlb/2	SMART-9N	smart9n/frag/rlb/2
+MW_FRM_cDNA_NEB_RLB_04092025	barcode07	frag/neb+rlb	1	frag/neb+rlb/1	SMART-9N	smart9n/frag/neb+rlb/1
+MW_FRM_cDNA_NEB_RLB_04092025	barcode08	frag/neb+rlb	2	frag/neb+rlb/2	SMART-9N	smart9n/frag/neb+rlb/2
+MW_FRM_cDNA_NEB_RLB_04092025	barcode03	full+frag/neb	1	full+frag/neb/1	SMART-9N	smart9n/full+frag/neb/1
+MW_FRM_cDNA_NEB_RLB_04092025	barcode04	full+frag/neb	2	full+frag/neb/2	SMART-9N	smart9n/full+frag/neb/2
+MW_FRM_cDNA_NEB_RLB_04092025	barcode05	full+frag/rlb	1	full+frag/rlb/1	SMART-9N	smart9n/full+frag/rlb/1
+MW_FRM_cDNA_NEB_RLB_04092025	barcode06	full+frag/rlb	2	full+frag/rlb/2	SMART-9N	smart9n/full+frag/rlb/2
+MW_FRM_cDNA_NEB_RLB_04092025	barcode01	full+frag/neb+rlb	1	full+frag/neb+rlb/1	SMART-9N	smart9n/full+frag/neb+rlb/1
+MW_FRM_cDNA_NEB_RLB_04092025	barcode02	full+frag/neb+rlb	2	full+frag/neb+rlb/2	SMART-9N	smart9n/full+frag/neb+rlb/2
+DS_BRC-zepto_roundAB_2_02_2026	barcode09	full/neb	1	full/neb/1	Round A/B (spike)	roundabspike/full/neb/1
+DS_BRC-zepto_roundAB_2_02_2026	barcode10	full/neb	2	full/neb/2	Round A/B (spike)	roundabspike/full/neb/2
+DS_BRC-zepto_roundAB_2_02_2026	barcode11	full/neb	3	full/neb/3	Round A/B (spike)	roundabspike/full/neb/3
+DS_BRC-zepto_roundAB_2_02_2026	barcode12	full/neb	neg	full/neb/neg	Round A/B (spike)	roundabspike/full/neb/neg
+DS_BRC-zepto_roundAB_2_02_2026	barcode13	frag/neb	1	frag/neb/1	Round A/B (spike)	roundabspike/frag/neb/1
+DS_BRC-zepto_roundAB_2_02_2026	barcode14	frag/neb	2	frag/neb/2	Round A/B (spike)	roundabspike/frag/neb/2
+DS_BRC-zepto_roundAB_2_02_2026	barcode15	frag/neb	3	frag/neb/3	Round A/B (spike)	roundabspike/frag/neb/3
+DS_BRC-zepto_roundAB_2_02_2026	barcode16	frag/neb	neg	frag/neb/neg	Round A/B (spike)	roundabspike/frag/neb/neg
+DS_BRC-zepto_roundAB_2_02_2026	barcode17	frag/rlb	1	frag/rlb/1	Round A/B (spike)	roundabspike/frag/rlb/1
+DS_BRC-zepto_roundAB_2_02_2026	barcode18	frag/rlb	2	frag/rlb/2	Round A/B (spike)	roundabspike/frag/rlb/2
+DS_BRC-zepto_roundAB_2_02_2026	barcode19	frag/rlb	3	frag/rlb/3	Round A/B (spike)	roundabspike/frag/rlb/3
+DS_BRC-zepto_roundAB_2_02_2026	barcode20	frag/rlb	neg	frag/rlb/neg	Round A/B (spike)	roundabspike/frag/rlb/neg
+DS_BRC-zepto_roundAB_2_02_2026	barcode21	frag/neb+rlb	1	frag/neb+rlb/1	Round A/B (spike)	roundabspike/frag/neb+rlb/1
+DS_BRC-zepto_roundAB_2_02_2026	barcode22	frag/neb+rlb	2	frag/neb+rlb/2	Round A/B (spike)	roundabspike/frag/neb+rlb/2
+DS_BRC-zepto_roundAB_2_02_2026	barcode23	frag/neb+rlb	3	frag/neb+rlb/3	Round A/B (spike)	roundabspike/frag/neb+rlb/3
+DS_BRC-zepto_roundAB_2_02_2026	barcode24	frag/neb+rlb	neg	frag/neb+rlb/neg	Round A/B (spike)	roundabspike/frag/neb+rlb/neg
