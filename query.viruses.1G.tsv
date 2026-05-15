@@ -1,800 +1,1565 @@
-target	sample	containment1	containment1_hits	containment10	containment10_hits	target_length	target_kmers	median_nz_abundance
-HPIV-2	roundab/full/neb/1	0.99702	669	0.97019	651	15654	671	795
-HRV-1A	roundab/full/neb/1	0.96178	302	0.93949	295	7096	314	208
-HPIV-3	roundab/full/neb/1	0.95082	638	0.94635	635	15382	671	686
-RSV-A	roundab/full/neb/1	0.93769	602	0.86760	557	14855	642	84
-HMPV	roundab/full/neb/1	0.91873	520	0.67491	382	13149	566	82
-HPIV-4	roundab/full/neb/1	0.85170	626	0.80136	589	17132	735	202
-AdV-3	roundab/full/neb/1	0.85084	1312	0.73541	1134	35072	1542	405
-Flu-A-H1N1-NC	roundab/full/neb/1	0.81565	469	0.79304	456	13292	575	735
-HPIV-1	roundab/full/neb/1	0.81443	553	0.78792	535	15412	679	250
-Flu-A-H1N1-NY	roundab/full/neb/1	0.73427	420	0.70979	406	13130	572	598
-AdV-1	roundab/full/neb/1	0.71930	1107	0.60039	924	35676	1539	225
-Flu-B	roundab/full/neb/1	0.64344	397	0.54457	336	14222	617	197
-Flu-A-H3N2	roundab/full/neb/1	0.59240	343	0.57340	332	13290	579	1183
-AdV-31	roundab/full/neb/1	0.43333	637	0.38707	569	33755	1470	413
-HCoV-229E	roundab/full/neb/1	0.13758	160	0.10146	118	26841	1163	85
-SARS-CoV-2	roundab/full/neb/1	0.02812	37	0.02356	31	29778	1316	107
-TOTAL	roundab/full/neb/1	0.64406	8792	0.58230	7949	0	13651	356
-HPIV-2	roundab/full/neb/2	0.99702	669	0.98808	663	15654	671	1070
-HPIV-3	roundab/full/neb/2	0.98808	663	0.98659	662	15382	671	748
-HRV-1A	roundab/full/neb/2	0.95223	299	0.92994	292	7096	314	315
-AdV-3	roundab/full/neb/2	0.92023	1419	0.88327	1362	35072	1542	506
-RSV-A	roundab/full/neb/2	0.91433	587	0.85826	551	14855	642	83
-HMPV	roundab/full/neb/2	0.90459	512	0.88163	499	13149	566	188
-HPIV-4	roundab/full/neb/2	0.87075	640	0.77007	566	17132	735	149
-AdV-1	roundab/full/neb/2	0.79337	1221	0.70370	1083	35676	1539	321
-Flu-A-H1N1-NC	roundab/full/neb/2	0.77913	448	0.74261	427	13292	575	908
-HPIV-1	roundab/full/neb/2	0.77614	527	0.74374	505	15412	679	241
-Flu-A-H1N1-NY	roundab/full/neb/2	0.77448	443	0.71853	411	13130	572	618
-Flu-B	roundab/full/neb/2	0.70178	433	0.68071	420	14222	617	250
-Flu-A-H3N2	roundab/full/neb/2	0.63903	370	0.58377	338	13290	579	652
-AdV-31	roundab/full/neb/2	0.48980	720	0.44082	648	33755	1470	398
-HCoV-229E	roundab/full/neb/2	0.07309	85	0.05933	69	26841	1163	21
-SARS-CoV-2	roundab/full/neb/2	0.02356	31	0.02356	31	29778	1316	237
-TOTAL	roundab/full/neb/2	0.66420	9067	0.62464	8527	0	13651	392
-HPIV-3	roundab/full/neb/neg	0.13860	93	0.00000	0	15382	671	1
-Flu-A-H1N1-NY	roundab/full/neb/neg	0.02098	12	0.00000	0	13130	572	1
-HPIV-2	roundab/full/neb/neg	0.02086	14	0.00000	0	15654	671	1
-RSV-A	roundab/full/neb/neg	0.01869	12	0.00000	0	14855	642	1
-Flu-A-H3N2	roundab/full/neb/neg	0.01727	10	0.00000	0	13290	579	1
-AdV-3	roundab/full/neb/neg	0.00649	10	0.00000	0	35072	1542	1
-AdV-1	roundab/full/neb/neg	0.00000	0	0.00000	0	35676	1539	0
-AdV-31	roundab/full/neb/neg	0.00000	0	0.00000	0	33755	1470	0
-Flu-A-H1N1-NC	roundab/full/neb/neg	0.00000	0	0.00000	0	13292	575	0
-Flu-B	roundab/full/neb/neg	0.00000	0	0.00000	0	14222	617	0
-HMPV	roundab/full/neb/neg	0.00000	0	0.00000	0	13149	566	0
-HPIV-1	roundab/full/neb/neg	0.00000	0	0.00000	0	15412	679	0
-HPIV-4	roundab/full/neb/neg	0.00000	0	0.00000	0	17132	735	0
-HRV-1A	roundab/full/neb/neg	0.00000	0	0.00000	0	7096	314	0
-SARS-CoV-2	roundab/full/neb/neg	0.00000	0	0.00000	0	29778	1316	0
-HCoV-229E	roundab/full/neb/neg	0.00000	0	0.00000	0	26841	1163	0
-TOTAL	roundab/full/neb/neg	0.01106	151	0.00000	0	0	13651	0
-HPIV-2	roundab/frag/neb/1	0.99553	668	0.99553	668	15654	671	790
-HPIV-3	roundab/frag/neb/1	0.97615	655	0.97615	655	15382	671	630
-Flu-A-H1N1-NC	roundab/frag/neb/1	0.72870	419	0.66957	385	13292	575	583
-HPIV-1	roundab/frag/neb/1	0.69514	472	0.59499	404	15412	679	154
-AdV-3	roundab/frag/neb/1	0.66083	1019	0.60895	939	35072	1542	605
-RSV-A	roundab/frag/neb/1	0.65421	420	0.59502	382	14855	642	39
-HRV-1A	roundab/frag/neb/1	0.65287	205	0.64650	203	7096	314	396
-Flu-A-H1N1-NY	roundab/frag/neb/1	0.64336	368	0.56818	325	13130	572	407
-AdV-1	roundab/frag/neb/1	0.59389	914	0.52502	808	35676	1539	208
-HMPV	roundab/frag/neb/1	0.58304	330	0.54947	311	13149	566	272
-Flu-B	roundab/frag/neb/1	0.55754	344	0.41815	258	14222	617	170
-HPIV-4	roundab/frag/neb/1	0.54830	403	0.52517	386	17132	735	82
-Flu-A-H3N2	roundab/frag/neb/1	0.54404	315	0.46459	269	13290	579	672
-AdV-31	roundab/frag/neb/1	0.40544	596	0.37891	557	33755	1470	508
-HCoV-229E	roundab/frag/neb/1	0.08340	97	0.07997	93	26841	1163	131
-SARS-CoV-2	roundab/frag/neb/1	0.02812	37	0.02812	37	29778	1316	437
-TOTAL	roundab/frag/neb/1	0.53198	7262	0.48919	6678	0	13651	382
-HPIV-4	roundab/frag/neb/neg	0.08980	66	0.00000	0	17132	735	1
-AdV-3	roundab/frag/neb/neg	0.06615	102	0.00000	0	35072	1542	1
-HPIV-2	roundab/frag/neb/neg	0.02235	15	0.00000	0	15654	671	1
-HPIV-3	roundab/frag/neb/neg	0.02235	15	0.00000	0	15382	671	1
-Flu-B	roundab/frag/neb/neg	0.02107	13	0.00000	0	14222	617	1
-Flu-A-H1N1-NC	roundab/frag/neb/neg	0.01913	11	0.00000	0	13292	575	1
-Flu-A-H3N2	roundab/frag/neb/neg	0.01900	11	0.00000	0	13290	579	1
-AdV-1	roundab/frag/neb/neg	0.01754	27	0.00000	0	35676	1539	1
-HPIV-1	roundab/frag/neb/neg	0.01178	8	0.00000	0	15412	679	2
-AdV-31	roundab/frag/neb/neg	0.00136	2	0.00000	0	33755	1470	1
-Flu-A-H1N1-NY	roundab/frag/neb/neg	0.00000	0	0.00000	0	13130	572	0
-HMPV	roundab/frag/neb/neg	0.00000	0	0.00000	0	13149	566	0
-HRV-1A	roundab/frag/neb/neg	0.00000	0	0.00000	0	7096	314	0
-RSV-A	roundab/frag/neb/neg	0.00000	0	0.00000	0	14855	642	0
-SARS-CoV-2	roundab/frag/neb/neg	0.00000	0	0.00000	0	29778	1316	0
-HCoV-229E	roundab/frag/neb/neg	0.00000	0	0.00000	0	26841	1163	0
-TOTAL	roundab/frag/neb/neg	0.01978	270	0.00000	0	0	13651	1
-AdV-3	roundab/frag/rlb/1	0.35019	540	0.00000	0	35072	1542	1
-HPIV-2	roundab/frag/rlb/1	0.16244	109	0.00000	0	15654	671	1
-AdV-1	roundab/frag/rlb/1	0.12606	194	0.00000	0	35676	1539	1
-AdV-31	roundab/frag/rlb/1	0.12313	181	0.00000	0	33755	1470	1
-HPIV-3	roundab/frag/rlb/1	0.06557	44	0.00000	0	15382	671	1
-RSV-A	roundab/frag/rlb/1	0.06542	42	0.00000	0	14855	642	1
-Flu-B	roundab/frag/rlb/1	0.03404	21	0.00000	0	14222	617	1
-HMPV	roundab/frag/rlb/1	0.03004	17	0.00000	0	13149	566	1
-HPIV-1	roundab/frag/rlb/1	0.02798	19	0.00000	0	15412	679	1
-Flu-A-H1N1-NC	roundab/frag/rlb/1	0.02435	14	0.00000	0	13292	575	1
-HPIV-4	roundab/frag/rlb/1	0.01769	13	0.00000	0	17132	735	1
-HRV-1A	roundab/frag/rlb/1	0.01592	5	0.00000	0	7096	314	1
-HCoV-229E	roundab/frag/rlb/1	0.01290	15	0.00000	0	26841	1163	1
-Flu-A-H1N1-NY	roundab/frag/rlb/1	0.00699	4	0.00000	0	13130	572	1
-SARS-CoV-2	roundab/frag/rlb/1	0.00456	6	0.00000	0	29778	1316	1
-Flu-A-H3N2	roundab/frag/rlb/1	0.00345	2	0.00173	1	13290	579	16
-TOTAL	roundab/frag/rlb/1	0.08981	1226	0.00007	1	0	13651	2
-AdV-1	roundab/frag/rlb/2	0.40026	616	0.00000	0	35676	1539	1
-AdV-3	roundab/frag/rlb/2	0.21984	339	0.00000	0	35072	1542	1
-AdV-31	roundab/frag/rlb/2	0.17823	262	0.00000	0	33755	1470	1
-HPIV-1	roundab/frag/rlb/2	0.11193	76	0.00000	0	15412	679	1
-HPIV-2	roundab/frag/rlb/2	0.09687	65	0.00000	0	15654	671	1
-HPIV-3	roundab/frag/rlb/2	0.06557	44	0.00000	0	15382	671	1
-RSV-A	roundab/frag/rlb/2	0.04050	26	0.00000	0	14855	642	1
-Flu-A-H1N1-NC	roundab/frag/rlb/2	0.02435	14	0.00000	0	13292	575	1
-HPIV-4	roundab/frag/rlb/2	0.00544	4	0.00000	0	17132	735	1
-Flu-B	roundab/frag/rlb/2	0.00486	3	0.00000	0	14222	617	1
-Flu-A-H3N2	roundab/frag/rlb/2	0.00345	2	0.00173	1	13290	579	8
-SARS-CoV-2	roundab/frag/rlb/2	0.00076	1	0.00000	0	29778	1316	1
-Flu-A-H1N1-NY	roundab/frag/rlb/2	0.00000	0	0.00000	0	13130	572	0
-HMPV	roundab/frag/rlb/2	0.00000	0	0.00000	0	13149	566	0
-HRV-1A	roundab/frag/rlb/2	0.00000	0	0.00000	0	7096	314	0
-HCoV-229E	roundab/frag/rlb/2	0.00000	0	0.00000	0	26841	1163	0
-TOTAL	roundab/frag/rlb/2	0.10637	1452	0.00007	1	0	13651	1
-HRV-1A	roundab/frag/rlb/neg	0.08917	28	0.00000	0	7096	314	1
-Flu-A-H1N1-NC	roundab/frag/rlb/neg	0.08174	47	0.00000	0	13292	575	1
-HPIV-2	roundab/frag/rlb/neg	0.07899	53	0.00000	0	15654	671	1
-HPIV-3	roundab/frag/rlb/neg	0.05514	37	0.00000	0	15382	671	1
-AdV-3	roundab/frag/rlb/neg	0.05123	79	0.00000	0	35072	1542	1
-RSV-A	roundab/frag/rlb/neg	0.03738	24	0.00000	0	14855	642	1
-Flu-A-H1N1-NY	roundab/frag/rlb/neg	0.02448	14	0.00000	0	13130	572	1
-HPIV-1	roundab/frag/rlb/neg	0.01767	12	0.00000	0	15412	679	2
-HPIV-4	roundab/frag/rlb/neg	0.01497	11	0.00000	0	17132	735	1
-HCoV-229E	roundab/frag/rlb/neg	0.01376	16	0.00000	0	26841	1163	1
-Flu-A-H3N2	roundab/frag/rlb/neg	0.01036	6	0.00000	0	13290	579	1
-AdV-31	roundab/frag/rlb/neg	0.01020	15	0.00000	0	33755	1470	1
-AdV-1	roundab/frag/rlb/neg	0.00975	15	0.00000	0	35676	1539	1
-Flu-B	roundab/frag/rlb/neg	0.00000	0	0.00000	0	14222	617	0
-HMPV	roundab/frag/rlb/neg	0.00000	0	0.00000	0	13149	566	0
-SARS-CoV-2	roundab/frag/rlb/neg	0.00000	0	0.00000	0	29778	1316	0
-TOTAL	roundab/frag/rlb/neg	0.02615	357	0.00000	0	0	13651	1
-HPIV-3	roundab/frag/neb+rlb/1	0.25335	170	0.00000	0	15382	671	1
-HPIV-2	roundab/frag/neb+rlb/1	0.19076	128	0.00000	0	15654	671	1
-AdV-1	roundab/frag/neb+rlb/1	0.08902	137	0.00000	0	35676	1539	1
-AdV-3	roundab/frag/neb+rlb/1	0.08820	136	0.00000	0	35072	1542	1
-Flu-B	roundab/frag/neb+rlb/1	0.08266	51	0.00000	0	14222	617	1
-HMPV	roundab/frag/neb+rlb/1	0.07951	45	0.00000	0	13149	566	1
-Flu-A-H1N1-NY	roundab/frag/neb+rlb/1	0.03846	22	0.00000	0	13130	572	1
-Flu-A-H1N1-NC	roundab/frag/neb+rlb/1	0.03130	18	0.00000	0	13292	575	1
-Flu-A-H3N2	roundab/frag/neb+rlb/1	0.02763	16	0.00345	2	13290	579	1
-RSV-A	roundab/frag/neb+rlb/1	0.02181	14	0.00000	0	14855	642	1
-AdV-31	roundab/frag/neb+rlb/1	0.01905	28	0.00000	0	33755	1470	1
-HPIV-1	roundab/frag/neb+rlb/1	0.01620	11	0.00000	0	15412	679	1
-HPIV-4	roundab/frag/neb+rlb/1	0.01224	9	0.00000	0	17132	735	1
-HCoV-229E	roundab/frag/neb+rlb/1	0.01118	13	0.00000	0	26841	1163	1
-HRV-1A	roundab/frag/neb+rlb/1	0.00000	0	0.00000	0	7096	314	0
-SARS-CoV-2	roundab/frag/neb+rlb/1	0.00000	0	0.00000	0	29778	1316	0
-TOTAL	roundab/frag/neb+rlb/1	0.05846	798	0.00015	2	0	13651	1
-HPIV-3	roundab/frag/neb+rlb/2	0.22057	148	0.00000	0	15382	671	1
-HPIV-2	roundab/frag/neb+rlb/2	0.18331	123	0.00000	0	15654	671	1
-AdV-3	roundab/frag/neb+rlb/2	0.11154	172	0.00000	0	35072	1542	1
-AdV-1	roundab/frag/neb+rlb/2	0.09747	150	0.00000	0	35676	1539	1
-HRV-1A	roundab/frag/neb+rlb/2	0.08917	28	0.00000	0	7096	314	1
-Flu-A-H3N2	roundab/frag/neb+rlb/2	0.06045	35	0.00345	2	13290	579	1
-Flu-A-H1N1-NY	roundab/frag/neb+rlb/2	0.05245	30	0.00000	0	13130	572	1
-AdV-31	roundab/frag/neb+rlb/2	0.05238	77	0.00000	0	33755	1470	1
-Flu-A-H1N1-NC	roundab/frag/neb+rlb/2	0.03130	18	0.00000	0	13292	575	1
-HPIV-4	roundab/frag/neb+rlb/2	0.02313	17	0.00000	0	17132	735	1
-Flu-B	roundab/frag/neb+rlb/2	0.01135	7	0.00000	0	14222	617	1
-RSV-A	roundab/frag/neb+rlb/2	0.00779	5	0.00000	0	14855	642	1
-HMPV	roundab/frag/neb+rlb/2	0.00707	4	0.00000	0	13149	566	1
-HPIV-1	roundab/frag/neb+rlb/2	0.00000	0	0.00000	0	15412	679	0
-SARS-CoV-2	roundab/frag/neb+rlb/2	0.00000	0	0.00000	0	29778	1316	0
-HCoV-229E	roundab/frag/neb+rlb/2	0.00000	0	0.00000	0	26841	1163	0
-TOTAL	roundab/frag/neb+rlb/2	0.05963	814	0.00015	2	0	13651	1
-HPIV-3	roundab/frag/neb+rlb/neg	0.07601	51	0.00000	0	15382	671	1
-Flu-A-H3N2	roundab/frag/neb+rlb/neg	0.07254	42	0.00000	0	13290	579	2
-RSV-A	roundab/frag/neb+rlb/neg	0.04206	27	0.00000	0	14855	642	1
-HPIV-2	roundab/frag/neb+rlb/neg	0.03875	26	0.00000	0	15654	671	1
-AdV-3	roundab/frag/neb+rlb/neg	0.02335	36	0.00000	0	35072	1542	1
-HPIV-4	roundab/frag/neb+rlb/neg	0.01769	13	0.00000	0	17132	735	1
-HPIV-1	roundab/frag/neb+rlb/neg	0.01620	11	0.00000	0	15412	679	1
-AdV-31	roundab/frag/neb+rlb/neg	0.01156	17	0.00000	0	33755	1470	1
-Flu-A-H1N1-NC	roundab/frag/neb+rlb/neg	0.00522	3	0.00000	0	13292	575	1
-AdV-1	roundab/frag/neb+rlb/neg	0.00000	0	0.00000	0	35676	1539	0
-Flu-A-H1N1-NY	roundab/frag/neb+rlb/neg	0.00000	0	0.00000	0	13130	572	0
-Flu-B	roundab/frag/neb+rlb/neg	0.00000	0	0.00000	0	14222	617	0
-HMPV	roundab/frag/neb+rlb/neg	0.00000	0	0.00000	0	13149	566	0
-HRV-1A	roundab/frag/neb+rlb/neg	0.00000	0	0.00000	0	7096	314	0
-SARS-CoV-2	roundab/frag/neb+rlb/neg	0.00000	0	0.00000	0	29778	1316	0
-HCoV-229E	roundab/frag/neb+rlb/neg	0.00000	0	0.00000	0	26841	1163	0
-TOTAL	roundab/frag/neb+rlb/neg	0.01656	226	0.00000	0	0	13651	1
-HPIV-2	smart9n/full/neb/1	1.00000	671	0.99702	669	15654	671	243
-AdV-3	smart9n/full/neb/1	0.99546	1535	0.99157	1529	35072	1542	633
-HPIV-3	smart9n/full/neb/1	0.99404	667	0.99404	667	15382	671	262
-HMPV	smart9n/full/neb/1	0.98410	557	0.97527	552	13149	566	121
-HRV-1A	smart9n/full/neb/1	0.96815	304	0.96815	304	7096	314	250
-Flu-B	smart9n/full/neb/1	0.95300	588	0.93193	575	14222	617	128
-SARS-CoV-2	smart9n/full/neb/1	0.93921	1236	0.81383	1071	29778	1316	53
-HCoV-229E	smart9n/full/neb/1	0.90112	1048	0.86071	1001	26841	1163	54
-RSV-A	smart9n/full/neb/1	0.89408	574	0.71807	461	14855	642	42
-Flu-A-H1N1-NC	smart9n/full/neb/1	0.88696	510	0.87304	502	13292	575	278
-Flu-A-H1N1-NY	smart9n/full/neb/1	0.87587	501	0.82867	474	13130	572	200
-AdV-1	smart9n/full/neb/1	0.86875	1337	0.82456	1269	35676	1539	240
-HPIV-1	smart9n/full/neb/1	0.81591	554	0.71576	486	15412	679	75
-Flu-A-H3N2	smart9n/full/neb/1	0.72712	421	0.67703	392	13290	579	200
-AdV-31	smart9n/full/neb/1	0.60884	895	0.56259	827	33755	1470	440
-HPIV-4	smart9n/full/neb/1	0.57959	426	0.40408	297	17132	735	18
-TOTAL	smart9n/full/neb/1	0.86616	11824	0.81137	11076	0	13651	232
-HPIV-2	smart9n/full/neb/2	1.00000	671	0.99702	669	15654	671	127
-AdV-3	smart9n/full/neb/2	0.99481	1534	0.98638	1521	35072	1542	347
-HPIV-3	smart9n/full/neb/2	0.99404	667	0.99404	667	15382	671	129
-HMPV	smart9n/full/neb/2	0.98587	558	0.93993	532	13149	566	74
-HRV-1A	smart9n/full/neb/2	0.97452	306	0.95541	300	7096	314	138
-Flu-B	smart9n/full/neb/2	0.94976	586	0.91734	566	14222	617	60
-SARS-CoV-2	smart9n/full/neb/2	0.93085	1225	0.71505	941	29778	1316	30
-HCoV-229E	smart9n/full/neb/2	0.92089	1071	0.81169	944	26841	1163	39
-Flu-A-H1N1-NC	smart9n/full/neb/2	0.90435	520	0.87652	504	13292	575	169
-Flu-A-H1N1-NY	smart9n/full/neb/2	0.88112	504	0.84615	484	13130	572	106
-AdV-1	smart9n/full/neb/2	0.86355	1329	0.82846	1275	35676	1539	158
-RSV-A	smart9n/full/neb/2	0.80530	517	0.57477	369	14855	642	22
-Flu-A-H3N2	smart9n/full/neb/2	0.80484	466	0.72712	421	13290	579	102
-HPIV-1	smart9n/full/neb/2	0.78056	530	0.62592	425	15412	679	30
-HPIV-4	smart9n/full/neb/2	0.71020	522	0.29388	216	17132	735	8
-AdV-31	smart9n/full/neb/2	0.59864	880	0.51361	755	33755	1470	304
-TOTAL	smart9n/full/neb/2	0.87071	11886	0.77569	10589	0	13651	136
-HPIV-3	smart9n/full/neb/neg	0.72429	486	0.00000	0	15382	671	2
-AdV-3	smart9n/full/neb/neg	0.62776	968	0.00649	10	35072	1542	2
-HPIV-2	smart9n/full/neb/neg	0.56334	378	0.00000	0	15654	671	1
-Flu-A-H1N1-NC	smart9n/full/neb/neg	0.44696	257	0.00000	0	13292	575	2
-HMPV	smart9n/full/neb/neg	0.34806	197	0.00000	0	13149	566	1
-AdV-31	smart9n/full/neb/neg	0.31224	459	0.00272	4	33755	1470	2
-AdV-1	smart9n/full/neb/neg	0.23327	359	0.00130	2	35676	1539	1
-Flu-A-H3N2	smart9n/full/neb/neg	0.22280	129	0.00173	1	13290	579	2
-HRV-1A	smart9n/full/neb/neg	0.20701	65	0.00000	0	7096	314	2
-Flu-A-H1N1-NY	smart9n/full/neb/neg	0.15385	88	0.00000	0	13130	572	2
-HPIV-1	smart9n/full/neb/neg	0.14875	101	0.00000	0	15412	679	1
-HCoV-229E	smart9n/full/neb/neg	0.13586	158	0.00000	0	26841	1163	2
-SARS-CoV-2	smart9n/full/neb/neg	0.13450	177	0.00000	0	29778	1316	2
-Flu-B	smart9n/full/neb/neg	0.12642	78	0.00000	0	14222	617	1
-RSV-A	smart9n/full/neb/neg	0.11526	74	0.00000	0	14855	642	1
-HPIV-4	smart9n/full/neb/neg	0.00816	6	0.00000	0	17132	735	4
-TOTAL	smart9n/full/neb/neg	0.29155	3980	0.00117	16	0	13651	2
-HPIV-3	smart9n/full/rlb/1	0.75708	508	0.00894	6	15382	671	2
-AdV-3	smart9n/full/rlb/1	0.74189	1144	0.00130	2	35072	1542	2
-HPIV-2	smart9n/full/rlb/1	0.66915	449	0.00000	0	15654	671	2
-Flu-B	smart9n/full/rlb/1	0.40357	249	0.00000	0	14222	617	2
-AdV-1	smart9n/full/rlb/1	0.38661	595	0.00390	6	35676	1539	2
-Flu-A-H3N2	smart9n/full/rlb/1	0.36615	212	0.00173	1	13290	579	2
-Flu-A-H1N1-NC	smart9n/full/rlb/1	0.36348	209	0.00000	0	13292	575	2
-RSV-A	smart9n/full/rlb/1	0.32710	210	0.00000	0	14855	642	2
-AdV-31	smart9n/full/rlb/1	0.31224	459	0.00000	0	33755	1470	2
-Flu-A-H1N1-NY	smart9n/full/rlb/1	0.27797	159	0.00000	0	13130	572	1
-HMPV	smart9n/full/rlb/1	0.25972	147	0.00000	0	13149	566	1
-HRV-1A	smart9n/full/rlb/1	0.22293	70	0.00000	0	7096	314	1
-HPIV-1	smart9n/full/rlb/1	0.21502	146	0.00000	0	15412	679	2
-SARS-CoV-2	smart9n/full/rlb/1	0.21125	278	0.00000	0	29778	1316	1
-HCoV-229E	smart9n/full/rlb/1	0.08684	101	0.00000	0	26841	1163	1
-HPIV-4	smart9n/full/rlb/1	0.05714	42	0.00000	0	17132	735	1
-TOTAL	smart9n/full/rlb/1	0.36466	4978	0.00110	15	0	13651	2
-AdV-3	smart9n/full/rlb/2	0.72633	1120	0.00195	3	35072	1542	2
-HPIV-3	smart9n/full/rlb/2	0.62146	417	0.00000	0	15382	671	2
-HPIV-2	smart9n/full/rlb/2	0.60358	405	0.00298	2	15654	671	2
-HRV-1A	smart9n/full/rlb/2	0.49045	154	0.00000	0	7096	314	2
-AdV-1	smart9n/full/rlb/2	0.34113	525	0.00390	6	35676	1539	2
-AdV-31	smart9n/full/rlb/2	0.28571	420	0.00204	3	33755	1470	2
-Flu-A-H3N2	smart9n/full/rlb/2	0.28325	164	0.00000	0	13290	579	1
-Flu-A-H1N1-NY	smart9n/full/rlb/2	0.28322	162	0.00000	0	13130	572	1
-Flu-A-H1N1-NC	smart9n/full/rlb/2	0.24870	143	0.00000	0	13292	575	1
-HMPV	smart9n/full/rlb/2	0.24382	138	0.00000	0	13149	566	1
-Flu-B	smart9n/full/rlb/2	0.18476	114	0.00000	0	14222	617	1
-HPIV-1	smart9n/full/rlb/2	0.13255	90	0.00000	0	15412	679	1
-HCoV-229E	smart9n/full/rlb/2	0.12124	141	0.00000	0	26841	1163	1
-HPIV-4	smart9n/full/rlb/2	0.08435	62	0.00000	0	17132	735	1
-RSV-A	smart9n/full/rlb/2	0.06854	44	0.00000	0	14855	642	2
-SARS-CoV-2	smart9n/full/rlb/2	0.04255	56	0.00000	0	29778	1316	1
-TOTAL	smart9n/full/rlb/2	0.30437	4155	0.00103	14	0	13651	2
-AdV-3	smart9n/full/rlb/neg	0.56031	864	0.00000	0	35072	1542	2
-HPIV-3	smart9n/full/rlb/neg	0.48435	325	0.00000	0	15382	671	1
-HPIV-2	smart9n/full/rlb/neg	0.41878	281	0.00000	0	15654	671	1
-HRV-1A	smart9n/full/rlb/neg	0.41083	129	0.00000	0	7096	314	1
-AdV-1	smart9n/full/rlb/neg	0.29240	450	0.00000	0	35676	1539	1
-AdV-31	smart9n/full/rlb/neg	0.28980	426	0.00000	0	33755	1470	2
-Flu-A-H1N1-NC	smart9n/full/rlb/neg	0.21391	123	0.00000	0	13292	575	1
-Flu-A-H3N2	smart9n/full/rlb/neg	0.20553	119	0.00000	0	13290	579	1
-HMPV	smart9n/full/rlb/neg	0.20495	116	0.00000	0	13149	566	1
-Flu-A-H1N1-NY	smart9n/full/rlb/neg	0.19580	112	0.00000	0	13130	572	1
-SARS-CoV-2	smart9n/full/rlb/neg	0.17629	232	0.00000	0	29778	1316	1
-RSV-A	smart9n/full/rlb/neg	0.12461	80	0.00000	0	14855	642	2
-HPIV-1	smart9n/full/rlb/neg	0.12371	84	0.00000	0	15412	679	1
-HCoV-229E	smart9n/full/rlb/neg	0.08255	96	0.00000	0	26841	1163	1
-Flu-B	smart9n/full/rlb/neg	0.07780	48	0.00000	0	14222	617	1
-HPIV-4	smart9n/full/rlb/neg	0.07755	57	0.00000	0	17132	735	2
-TOTAL	smart9n/full/rlb/neg	0.25947	3542	0.00000	0	0	13651	1
-HPIV-2	smart9n/full/neb+rlb/1	0.99106	665	0.62295	418	15654	671	11
-HPIV-3	smart9n/full/neb+rlb/1	0.98510	661	0.40984	275	15382	671	8
-AdV-3	smart9n/full/neb+rlb/1	0.98314	1516	0.78405	1209	35072	1542	22
-HMPV	smart9n/full/neb+rlb/1	0.96996	549	0.31625	179	13149	566	7
-HRV-1A	smart9n/full/neb+rlb/1	0.95860	301	0.46178	145	7096	314	9
-Flu-B	smart9n/full/neb+rlb/1	0.89303	551	0.10535	65	14222	617	4
-Flu-A-H1N1-NC	smart9n/full/neb+rlb/1	0.81217	467	0.40000	230	13292	575	9
-AdV-1	smart9n/full/neb+rlb/1	0.78363	1206	0.40806	628	35676	1539	10
-Flu-A-H1N1-NY	smart9n/full/neb+rlb/1	0.75699	433	0.23252	133	13130	572	6
-SARS-CoV-2	smart9n/full/neb+rlb/1	0.68921	907	0.00760	10	29778	1316	2
-RSV-A	smart9n/full/neb+rlb/1	0.67445	433	0.12461	80	14855	642	4
-Flu-A-H3N2	smart9n/full/neb+rlb/1	0.61313	355	0.31952	185	13290	579	10
-HCoV-229E	smart9n/full/neb+rlb/1	0.57954	674	0.01118	13	26841	1163	2
-HPIV-1	smart9n/full/neb+rlb/1	0.54639	371	0.05744	39	15412	679	3
-AdV-31	smart9n/full/neb+rlb/1	0.53401	785	0.35510	522	33755	1470	17
-HPIV-4	smart9n/full/neb+rlb/1	0.32925	242	0.00816	6	17132	735	1
-TOTAL	smart9n/full/neb+rlb/1	0.74104	10116	0.30305	4137	0	13651	9
-HPIV-2	smart9n/full/neb+rlb/2	0.99106	665	0.46051	309	15654	671	9
-HPIV-3	smart9n/full/neb+rlb/2	0.97765	656	0.43517	292	15382	671	9
-AdV-3	smart9n/full/neb+rlb/2	0.96952	1495	0.77497	1195	35072	1542	21
-HRV-1A	smart9n/full/neb+rlb/2	0.92038	289	0.56688	178	7096	314	11
-HMPV	smart9n/full/neb+rlb/2	0.86396	489	0.14488	82	13149	566	5
-Flu-B	smart9n/full/neb+rlb/2	0.85413	527	0.15397	95	14222	617	5
-Flu-A-H1N1-NC	smart9n/full/neb+rlb/2	0.80696	464	0.51652	297	13292	575	13
-AdV-1	smart9n/full/neb+rlb/2	0.77063	1186	0.39181	603	35676	1539	10
-RSV-A	smart9n/full/neb+rlb/2	0.72741	467	0.07632	49	14855	642	3
-Flu-A-H1N1-NY	smart9n/full/neb+rlb/2	0.71853	411	0.30944	177	13130	572	8
-HCoV-229E	smart9n/full/neb+rlb/2	0.69390	807	0.01118	13	26841	1163	2
-SARS-CoV-2	smart9n/full/neb+rlb/2	0.64818	853	0.00076	1	29778	1316	2
-Flu-A-H3N2	smart9n/full/neb+rlb/2	0.60449	350	0.33851	196	13290	579	11
-AdV-31	smart9n/full/neb+rlb/2	0.56259	827	0.36939	543	33755	1470	17
-HPIV-1	smart9n/full/neb+rlb/2	0.51988	353	0.05302	36	15412	679	2
-HPIV-4	smart9n/full/neb+rlb/2	0.23537	173	0.00816	6	17132	735	2
-TOTAL	smart9n/full/neb+rlb/2	0.73343	10012	0.29829	4072	0	13651	9
-HPIV-2	smart9n/frag/neb/1	0.99851	670	0.99851	670	15654	671	461
-AdV-3	smart9n/frag/neb/1	0.99546	1535	0.98703	1522	35072	1542	1193
-HPIV-3	smart9n/frag/neb/1	0.99404	667	0.99404	667	15382	671	478
-HMPV	smart9n/frag/neb/1	0.97527	552	0.96643	547	13149	566	249
-HRV-1A	smart9n/frag/neb/1	0.96815	304	0.94904	298	7096	314	374
-Flu-B	smart9n/frag/neb/1	0.95138	587	0.93355	576	14222	617	188
-SARS-CoV-2	smart9n/frag/neb/1	0.92553	1218	0.80927	1065	29778	1316	70
-HCoV-229E	smart9n/frag/neb/1	0.92089	1071	0.80138	932	26841	1163	84
-Flu-A-H1N1-NC	smart9n/frag/neb/1	0.88696	510	0.82087	472	13292	575	502
-RSV-A	smart9n/frag/neb/1	0.88318	567	0.71028	456	14855	642	66
-AdV-1	smart9n/frag/neb/1	0.86030	1324	0.81546	1255	35676	1539	417
-Flu-A-H1N1-NY	smart9n/frag/neb/1	0.81643	467	0.76399	437	13130	572	373
-HPIV-1	smart9n/frag/neb/1	0.80707	548	0.75258	511	15412	679	113
-Flu-A-H3N2	smart9n/frag/neb/1	0.73402	425	0.66839	387	13290	579	412
-HPIV-4	smart9n/frag/neb/1	0.67211	494	0.43810	322	17132	735	34
-AdV-31	smart9n/frag/neb/1	0.65102	957	0.57347	843	33755	1470	648
-TOTAL	smart9n/frag/neb/1	0.87144	11896	0.80287	10960	0	13651	404
-HPIV-2	smart9n/frag/neb/2	1.00000	671	1.00000	671	15654	671	282
-AdV-3	smart9n/frag/neb/2	0.99546	1535	0.98898	1525	35072	1542	508
-HPIV-3	smart9n/frag/neb/2	0.99404	667	0.99404	667	15382	671	250
-HMPV	smart9n/frag/neb/2	0.97527	552	0.96466	546	13149	566	97
-Flu-B	smart9n/frag/neb/2	0.95786	591	0.94165	581	14222	617	122
-HRV-1A	smart9n/frag/neb/2	0.93631	294	0.93312	293	7096	314	222
-RSV-A	smart9n/frag/neb/2	0.93614	601	0.80062	514	14855	642	55
-Flu-A-H1N1-NC	smart9n/frag/neb/2	0.92522	532	0.90783	522	13292	575	230
-SARS-CoV-2	smart9n/frag/neb/2	0.92401	1216	0.82067	1080	29778	1316	44
-HCoV-229E	smart9n/frag/neb/2	0.89682	1043	0.75150	874	26841	1163	49
-AdV-1	smart9n/frag/neb/2	0.85705	1319	0.80767	1243	35676	1539	211
-Flu-A-H1N1-NY	smart9n/frag/neb/2	0.81993	469	0.78846	451	13130	572	176
-HPIV-1	smart9n/frag/neb/2	0.79529	540	0.77614	527	15412	679	66
-HPIV-4	smart9n/frag/neb/2	0.74558	548	0.64762	476	17132	735	32
-Flu-A-H3N2	smart9n/frag/neb/2	0.69603	403	0.67185	389	13290	579	212
-AdV-31	smart9n/frag/neb/2	0.65714	966	0.56939	837	33755	1470	351
-TOTAL	smart9n/frag/neb/2	0.87517	11947	0.82016	11196	0	13651	202
-HPIV-2	smart9n/frag/rlb/1	0.58122	390	0.00000	0	15654	671	2
-AdV-3	smart9n/frag/rlb/1	0.57069	880	0.00000	0	35072	1542	2
-HPIV-3	smart9n/frag/rlb/1	0.44262	297	0.00000	0	15382	671	1
-AdV-1	smart9n/frag/rlb/1	0.34698	534	0.00000	0	35676	1539	1
-Flu-A-H1N1-NC	smart9n/frag/rlb/1	0.33913	195	0.00000	0	13292	575	2
-HMPV	smart9n/frag/rlb/1	0.31979	181	0.00000	0	13149	566	1
-AdV-31	smart9n/frag/rlb/1	0.28435	418	0.00000	0	33755	1470	2
-Flu-A-H1N1-NY	smart9n/frag/rlb/1	0.27273	156	0.00000	0	13130	572	1
-Flu-A-H3N2	smart9n/frag/rlb/1	0.26425	153	0.00000	0	13290	579	1
-HPIV-1	smart9n/frag/rlb/1	0.22828	155	0.00000	0	15412	679	1
-SARS-CoV-2	smart9n/frag/rlb/1	0.19833	261	0.00000	0	29778	1316	1
-Flu-B	smart9n/frag/rlb/1	0.15883	98	0.00000	0	14222	617	1
-HRV-1A	smart9n/frag/rlb/1	0.14013	44	0.00000	0	7096	314	1
-RSV-A	smart9n/frag/rlb/1	0.05296	34	0.00000	0	14855	642	1
-HCoV-229E	smart9n/frag/rlb/1	0.04557	53	0.00000	0	26841	1163	1
-HPIV-4	smart9n/frag/rlb/1	0.00952	7	0.00000	0	17132	735	3
-TOTAL	smart9n/frag/rlb/1	0.28247	3856	0.00000	0	0	13651	1
-AdV-3	smart9n/frag/rlb/2	0.61673	951	0.00065	1	35072	1542	2
-HPIV-3	smart9n/frag/rlb/2	0.60060	403	0.00000	0	15382	671	1
-HPIV-2	smart9n/frag/rlb/2	0.48733	327	0.00000	0	15654	671	1
-HMPV	smart9n/frag/rlb/2	0.40813	231	0.00000	0	13149	566	1
-HRV-1A	smart9n/frag/rlb/2	0.40764	128	0.00000	0	7096	314	1
-HPIV-1	smart9n/frag/rlb/2	0.34168	232	0.00000	0	15412	679	1
-Flu-A-H1N1-NC	smart9n/frag/rlb/2	0.32870	189	0.00000	0	13292	575	2
-AdV-1	smart9n/frag/rlb/2	0.31774	489	0.00000	0	35676	1539	1
-Flu-A-H1N1-NY	smart9n/frag/rlb/2	0.25524	146	0.00000	0	13130	572	1
-Flu-A-H3N2	smart9n/frag/rlb/2	0.25216	146	0.00173	1	13290	579	2
-AdV-31	smart9n/frag/rlb/2	0.24830	365	0.00000	0	33755	1470	1
-RSV-A	smart9n/frag/rlb/2	0.21651	139	0.00000	0	14855	642	1
-SARS-CoV-2	smart9n/frag/rlb/2	0.14894	196	0.00000	0	29778	1316	1
-HPIV-4	smart9n/frag/rlb/2	0.13333	98	0.00000	0	17132	735	1
-HCoV-229E	smart9n/frag/rlb/2	0.10404	121	0.00000	0	26841	1163	1
-Flu-B	smart9n/frag/rlb/2	0.03241	20	0.00000	0	14222	617	2
-TOTAL	smart9n/frag/rlb/2	0.30628	4181	0.00015	2	0	13651	1
-HPIV-2	smart9n/frag/neb+rlb/1	0.87779	589	0.03130	21	15654	671	3
-HPIV-3	smart9n/frag/neb+rlb/1	0.86885	583	0.00596	4	15382	671	2
-AdV-3	smart9n/frag/neb+rlb/1	0.73671	1136	0.03632	56	35072	1542	4
-HRV-1A	smart9n/frag/neb+rlb/1	0.62420	196	0.00000	0	7096	314	2
-Flu-A-H1N1-NC	smart9n/frag/neb+rlb/1	0.53391	307	0.00870	5	13292	575	2
-AdV-1	smart9n/frag/neb+rlb/1	0.46069	709	0.00130	2	35676	1539	2
-AdV-31	smart9n/frag/neb+rlb/1	0.45510	669	0.01769	26	33755	1470	3
-Flu-A-H1N1-NY	smart9n/frag/neb+rlb/1	0.38811	222	0.00175	1	13130	572	2
-HCoV-229E	smart9n/frag/neb+rlb/1	0.38005	442	0.00000	0	26841	1163	1
-HMPV	smart9n/frag/neb+rlb/1	0.35866	203	0.00000	0	13149	566	2
-Flu-B	smart9n/frag/neb+rlb/1	0.35170	217	0.00000	0	14222	617	1
-Flu-A-H3N2	smart9n/frag/neb+rlb/1	0.30570	177	0.00173	1	13290	579	2
-RSV-A	smart9n/frag/neb+rlb/1	0.25545	164	0.00312	2	14855	642	2
-HPIV-1	smart9n/frag/neb+rlb/1	0.21944	149	0.00000	0	15412	679	1
-HPIV-4	smart9n/frag/neb+rlb/1	0.07891	58	0.00000	0	17132	735	1
-SARS-CoV-2	smart9n/frag/neb+rlb/1	0.07827	103	0.00000	0	29778	1316	1
-TOTAL	smart9n/frag/neb+rlb/1	0.43396	5924	0.00864	118	0	13651	2
-AdV-3	smart9n/frag/neb+rlb/2	0.52529	810	0.00195	3	35072	1542	2
-HPIV-2	smart9n/frag/neb+rlb/2	0.50224	337	0.00447	3	15654	671	2
-HPIV-3	smart9n/frag/neb+rlb/2	0.49925	335	0.00000	0	15382	671	2
-Flu-A-H1N1-NC	smart9n/frag/neb+rlb/2	0.40000	230	0.00000	0	13292	575	1
-HRV-1A	smart9n/frag/neb+rlb/2	0.36624	115	0.00000	0	7096	314	1
-AdV-31	smart9n/frag/neb+rlb/2	0.27007	397	0.00204	3	33755	1470	2
-AdV-1	smart9n/frag/neb+rlb/2	0.26576	409	0.00000	0	35676	1539	1
-Flu-A-H1N1-NY	smart9n/frag/neb+rlb/2	0.25874	148	0.00000	0	13130	572	1
-SARS-CoV-2	smart9n/frag/neb+rlb/2	0.22644	298	0.00000	0	29778	1316	1
-Flu-A-H3N2	smart9n/frag/neb+rlb/2	0.21934	127	0.00173	1	13290	579	1
-Flu-B	smart9n/frag/neb+rlb/2	0.15883	98	0.00000	0	14222	617	1
-HPIV-1	smart9n/frag/neb+rlb/2	0.15758	107	0.00000	0	15412	679	1
-HCoV-229E	smart9n/frag/neb+rlb/2	0.15305	178	0.00000	0	26841	1163	1
-HMPV	smart9n/frag/neb+rlb/2	0.11131	63	0.00000	0	13149	566	1
-RSV-A	smart9n/frag/neb+rlb/2	0.10436	67	0.00000	0	14855	642	1
-HPIV-4	smart9n/frag/neb+rlb/2	0.00816	6	0.00000	0	17132	735	4
-TOTAL	smart9n/frag/neb+rlb/2	0.27287	3725	0.00073	10	0	13651	1
-HPIV-2	smart9n/full+frag/neb/1	1.00000	671	1.00000	671	15654	671	309
-AdV-3	smart9n/full+frag/neb/1	0.99611	1536	0.98638	1521	35072	1542	671
-HPIV-3	smart9n/full+frag/neb/1	0.99404	667	0.99404	667	15382	671	251
-HMPV	smart9n/full+frag/neb/1	0.98057	555	0.97880	554	13149	566	120
-HRV-1A	smart9n/full+frag/neb/1	0.97771	307	0.96178	302	7096	314	268
-SARS-CoV-2	smart9n/full+frag/neb/1	0.96505	1270	0.87766	1155	29778	1316	50
-Flu-B	smart9n/full+frag/neb/1	0.95300	588	0.91734	566	14222	617	104
-RSV-A	smart9n/full+frag/neb/1	0.90966	584	0.83489	536	14855	642	41
-Flu-A-H1N1-NC	smart9n/full+frag/neb/1	0.90783	522	0.79652	458	13292	575	310
-HCoV-229E	smart9n/full+frag/neb/1	0.90714	1055	0.82287	957	26841	1163	58
-Flu-A-H1N1-NY	smart9n/full+frag/neb/1	0.88112	504	0.84266	482	13130	572	208
-AdV-1	smart9n/full+frag/neb/1	0.85835	1321	0.80247	1235	35676	1539	260
-HPIV-1	smart9n/full+frag/neb/1	0.80707	548	0.78498	533	15412	679	83
-Flu-A-H3N2	smart9n/full+frag/neb/1	0.79965	463	0.60967	353	13290	579	147
-AdV-31	smart9n/full+frag/neb/1	0.61565	905	0.54014	794	33755	1470	427
-HPIV-4	smart9n/full+frag/neb/1	0.57687	424	0.36599	269	17132	735	20
-TOTAL	smart9n/full+frag/neb/1	0.87320	11920	0.80968	11053	0	13651	239
-HPIV-2	smart9n/full+frag/neb/2	1.00000	671	1.00000	671	15654	671	603
-AdV-3	smart9n/full+frag/neb/2	0.99611	1536	0.99287	1531	35072	1542	1138
-HPIV-3	smart9n/full+frag/neb/2	0.99404	667	0.99404	667	15382	671	429
-HMPV	smart9n/full+frag/neb/2	0.98587	558	0.97880	554	13149	566	230
-HRV-1A	smart9n/full+frag/neb/2	0.97452	306	0.97452	306	7096	314	434
-SARS-CoV-2	smart9n/full+frag/neb/2	0.96960	1276	0.91413	1203	29778	1316	84
-Flu-B	smart9n/full+frag/neb/2	0.95462	589	0.94327	582	14222	617	189
-Flu-A-H1N1-NC	smart9n/full+frag/neb/2	0.93043	535	0.90087	518	13292	575	478
-RSV-A	smart9n/full+frag/neb/2	0.92056	591	0.86137	553	14855	642	58
-HCoV-229E	smart9n/full+frag/neb/2	0.91316	1062	0.89940	1046	26841	1163	119
-Flu-A-H1N1-NY	smart9n/full+frag/neb/2	0.87063	498	0.84615	484	13130	572	326
-AdV-1	smart9n/full+frag/neb/2	0.84081	1294	0.79337	1221	35676	1539	504
-HPIV-1	smart9n/full+frag/neb/2	0.81296	552	0.72459	492	15412	679	107
-Flu-A-H3N2	smart9n/full+frag/neb/2	0.78584	455	0.73230	424	13290	579	390
-HPIV-4	smart9n/full+frag/neb/2	0.73741	542	0.59456	437	17132	735	32
-AdV-31	smart9n/full+frag/neb/2	0.66327	975	0.60068	883	33755	1470	750
-TOTAL	smart9n/full+frag/neb/2	0.88689	12107	0.84763	11571	0	13651	423
-HPIV-2	smart9n/full+frag/rlb/1	0.66617	447	0.00596	4	15654	671	2
-AdV-3	smart9n/full+frag/rlb/1	0.66213	1021	0.00195	3	35072	1542	2
-HRV-1A	smart9n/full+frag/rlb/1	0.55414	174	0.00000	0	7096	314	1
-HPIV-3	smart9n/full+frag/rlb/1	0.51267	344	0.00000	0	15382	671	2
-Flu-A-H1N1-NC	smart9n/full+frag/rlb/1	0.32000	184	0.00000	0	13292	575	2
-AdV-1	smart9n/full+frag/rlb/1	0.30214	465	0.00000	0	35676	1539	1
-AdV-31	smart9n/full+frag/rlb/1	0.29660	436	0.00136	2	33755	1470	2
-Flu-A-H3N2	smart9n/full+frag/rlb/1	0.29534	171	0.00173	1	13290	579	2
-RSV-A	smart9n/full+frag/rlb/1	0.24143	155	0.00156	1	14855	642	2
-Flu-B	smart9n/full+frag/rlb/1	0.23339	144	0.00000	0	14222	617	2
-HPIV-1	smart9n/full+frag/rlb/1	0.21797	148	0.00000	0	15412	679	1
-Flu-A-H1N1-NY	smart9n/full+frag/rlb/1	0.16783	96	0.00000	0	13130	572	2
-SARS-CoV-2	smart9n/full+frag/rlb/1	0.15805	208	0.00000	0	29778	1316	1
-HCoV-229E	smart9n/full+frag/rlb/1	0.11092	129	0.00000	0	26841	1163	1
-HMPV	smart9n/full+frag/rlb/1	0.08481	48	0.00000	0	13149	566	1
-HPIV-4	smart9n/full+frag/rlb/1	0.06667	49	0.00000	0	17132	735	1
-TOTAL	smart9n/full+frag/rlb/1	0.30906	4219	0.00073	10	0	13651	2
-HPIV-2	smart9n/full+frag/rlb/2	0.84948	570	0.00000	0	15654	671	2
-AdV-3	smart9n/full+frag/rlb/2	0.80674	1244	0.02464	38	35072	1542	3
-HPIV-3	smart9n/full+frag/rlb/2	0.66319	445	0.00000	0	15382	671	2
-HRV-1A	smart9n/full+frag/rlb/2	0.51911	163	0.00000	0	7096	314	2
-Flu-A-H1N1-NC	smart9n/full+frag/rlb/2	0.47304	272	0.00000	0	13292	575	2
-AdV-1	smart9n/full+frag/rlb/2	0.45354	698	0.00325	5	35676	1539	2
-AdV-31	smart9n/full+frag/rlb/2	0.40340	593	0.02313	34	33755	1470	2
-HMPV	smart9n/full+frag/rlb/2	0.34276	194	0.00000	0	13149	566	2
-HPIV-1	smart9n/full+frag/rlb/2	0.32842	223	0.00000	0	15412	679	1
-Flu-A-H3N2	smart9n/full+frag/rlb/2	0.31434	182	0.00173	1	13290	579	2
-Flu-A-H1N1-NY	smart9n/full+frag/rlb/2	0.31294	179	0.00000	0	13130	572	1
-HCoV-229E	smart9n/full+frag/rlb/2	0.19862	231	0.00000	0	26841	1163	1
-SARS-CoV-2	smart9n/full+frag/rlb/2	0.18617	245	0.00000	0	29778	1316	1
-RSV-A	smart9n/full+frag/rlb/2	0.17445	112	0.00000	0	14855	642	1
-Flu-B	smart9n/full+frag/rlb/2	0.14100	87	0.00000	0	14222	617	1
-HPIV-4	smart9n/full+frag/rlb/2	0.09524	70	0.00000	0	17132	735	1
-TOTAL	smart9n/full+frag/rlb/2	0.40349	5508	0.00571	78	0	13651	2
-HPIV-3	smart9n/full+frag/neb+rlb/1	0.78390	526	0.00000	0	15382	671	2
-AdV-3	smart9n/full+frag/neb+rlb/1	0.69844	1077	0.01362	21	35072	1542	3
-Flu-A-H1N1-NC	smart9n/full+frag/neb+rlb/1	0.57391	330	0.00174	1	13292	575	1
-HRV-1A	smart9n/full+frag/neb+rlb/1	0.57006	179	0.00000	0	7096	314	2
-HPIV-2	smart9n/full+frag/neb+rlb/1	0.54098	363	0.00000	0	15654	671	2
-AdV-1	smart9n/full+frag/neb+rlb/1	0.39766	612	0.00130	2	35676	1539	2
-HMPV	smart9n/full+frag/neb+rlb/1	0.38339	217	0.00000	0	13149	566	1
-AdV-31	smart9n/full+frag/neb+rlb/1	0.36735	540	0.00136	2	33755	1470	2
-Flu-A-H1N1-NY	smart9n/full+frag/neb+rlb/1	0.36364	208	0.00000	0	13130	572	1
-Flu-A-H3N2	smart9n/full+frag/neb+rlb/1	0.30743	178	0.00345	2	13290	579	2
-Flu-B	smart9n/full+frag/neb+rlb/1	0.23015	142	0.00000	0	14222	617	1
-RSV-A	smart9n/full+frag/neb+rlb/1	0.22897	147	0.00000	0	14855	642	1
-HPIV-1	smart9n/full+frag/neb+rlb/1	0.19882	135	0.00000	0	15412	679	2
-HCoV-229E	smart9n/full+frag/neb+rlb/1	0.16423	191	0.00000	0	26841	1163	1
-SARS-CoV-2	smart9n/full+frag/neb+rlb/1	0.14590	192	0.00000	0	29778	1316	1
-HPIV-4	smart9n/full+frag/neb+rlb/1	0.14014	103	0.00000	0	17132	735	1
-TOTAL	smart9n/full+frag/neb+rlb/1	0.37653	5140	0.00198	27	0	13651	2
-HPIV-3	smart9n/full+frag/neb+rlb/2	0.79881	536	0.00000	0	15382	671	2
-AdV-3	smart9n/full+frag/neb+rlb/2	0.79702	1229	0.04540	70	35072	1542	3
-HPIV-2	smart9n/full+frag/neb+rlb/2	0.77645	521	0.01788	12	15654	671	2
-Flu-A-H1N1-NC	smart9n/full+frag/neb+rlb/2	0.50261	289	0.02087	12	13292	575	3
-HRV-1A	smart9n/full+frag/neb+rlb/2	0.43631	137	0.00000	0	7096	314	2
-AdV-1	smart9n/full+frag/neb+rlb/2	0.43145	664	0.00715	11	35676	1539	2
-AdV-31	smart9n/full+frag/neb+rlb/2	0.41293	607	0.00952	14	33755	1470	2
-HMPV	smart9n/full+frag/neb+rlb/2	0.38869	220	0.00000	0	13149	566	1
-Flu-B	smart9n/full+frag/neb+rlb/2	0.36305	224	0.00000	0	14222	617	1
-RSV-A	smart9n/full+frag/neb+rlb/2	0.32243	207	0.00156	1	14855	642	1
-HPIV-1	smart9n/full+frag/neb+rlb/2	0.30928	210	0.00000	0	15412	679	1
-SARS-CoV-2	smart9n/full+frag/neb+rlb/2	0.29787	392	0.00000	0	29778	1316	1
-Flu-A-H3N2	smart9n/full+frag/neb+rlb/2	0.29534	171	0.01900	11	13290	579	2
-Flu-A-H1N1-NY	smart9n/full+frag/neb+rlb/2	0.27273	156	0.00350	2	13130	572	1
-HCoV-229E	smart9n/full+frag/neb+rlb/2	0.17799	207	0.00000	0	26841	1163	1
-HPIV-4	smart9n/full+frag/neb+rlb/2	0.17007	125	0.00136	1	17132	735	1
-TOTAL	smart9n/full+frag/neb+rlb/2	0.43184	5895	0.00974	133	0	13651	2
-HPIV-2	roundabspike/full/neb/1	0.99255	666	0.99255	666	15654	671	1098
-HPIV-3	roundabspike/full/neb/1	0.91952	617	0.80626	541	15382	671	694
-HPIV-1	roundabspike/full/neb/1	0.65096	442	0.55376	376	15412	679	240
-Flu-A-H1N1-NY	roundabspike/full/neb/1	0.62587	358	0.58916	337	13130	572	470
-Flu-A-H1N1-NC	roundabspike/full/neb/1	0.61391	353	0.57043	328	13292	575	294
-HRV-1A	roundabspike/full/neb/1	0.61146	192	0.60510	190	7096	314	670
-AdV-3	roundabspike/full/neb/1	0.60830	938	0.53761	829	35072	1542	522
-HMPV	roundabspike/full/neb/1	0.47880	271	0.43816	248	13149	566	181
-Flu-A-H3N2	roundabspike/full/neb/1	0.44732	259	0.41796	242	13290	579	701
-AdV-1	roundabspike/full/neb/1	0.39636	610	0.34503	531	35676	1539	342
-Flu-B	roundabspike/full/neb/1	0.38412	237	0.28039	173	14222	617	291
-RSV-A	roundabspike/full/neb/1	0.36293	233	0.31620	203	14855	642	158
-AdV-31	roundabspike/full/neb/1	0.28435	418	0.25578	376	33755	1470	700
-HPIV-4	roundabspike/full/neb/1	0.15374	113	0.03946	29	17132	735	7
-HCoV-229E	roundabspike/full/neb/1	0.02322	27	0.00774	9	26841	1163	5
-SARS-CoV-2	roundabspike/full/neb/1	0.00000	0	0.00000	0	29778	1316	0
-TOTAL	roundabspike/full/neb/1	0.42004	5734	0.37191	5077	0	13651	379
-Flu-A-H1N1-NY	roundabspike/full/neb/2	0.10664	61	0.00000	0	13130	572	1
-HPIV-1	roundabspike/full/neb/2	0.10162	69	0.00000	0	15412	679	1
-HPIV-2	roundabspike/full/neb/2	0.09836	66	0.00000	0	15654	671	1
-AdV-3	roundabspike/full/neb/2	0.07912	122	0.00000	0	35072	1542	1
-HPIV-3	roundabspike/full/neb/2	0.07154	48	0.00000	0	15382	671	2
-Flu-A-H3N2	roundabspike/full/neb/2	0.06908	40	0.00518	3	13290	579	2
-AdV-1	roundabspike/full/neb/2	0.05783	89	0.00000	0	35676	1539	1
-Flu-A-H1N1-NC	roundabspike/full/neb/2	0.05391	31	0.00000	0	13292	575	1
-AdV-31	roundabspike/full/neb/2	0.03673	54	0.00000	0	33755	1470	1
-HPIV-4	roundabspike/full/neb/2	0.00680	5	0.00000	0	17132	735	1
-Flu-B	roundabspike/full/neb/2	0.00648	4	0.00000	0	14222	617	1
-HMPV	roundabspike/full/neb/2	0.00000	0	0.00000	0	13149	566	0
-HRV-1A	roundabspike/full/neb/2	0.00000	0	0.00000	0	7096	314	0
-RSV-A	roundabspike/full/neb/2	0.00000	0	0.00000	0	14855	642	0
-SARS-CoV-2	roundabspike/full/neb/2	0.00000	0	0.00000	0	29778	1316	0
-HCoV-229E	roundabspike/full/neb/2	0.00000	0	0.00000	0	26841	1163	0
-TOTAL	roundabspike/full/neb/2	0.04315	589	0.00022	3	0	13651	1
-HPIV-2	roundabspike/full/neb/3	0.88823	596	0.48882	328	15654	671	11
-HPIV-3	roundabspike/full/neb/3	0.83159	558	0.31148	209	15382	671	7
-HRV-1A	roundabspike/full/neb/3	0.65287	205	0.17834	56	7096	314	6
-Flu-A-H1N1-NC	roundabspike/full/neb/3	0.58087	334	0.26609	153	13292	575	9
-HPIV-1	roundabspike/full/neb/3	0.47128	320	0.09278	63	15412	679	5
-AdV-3	roundabspike/full/neb/3	0.47017	725	0.22374	345	35072	1542	9
-Flu-A-H1N1-NY	roundabspike/full/neb/3	0.38462	220	0.19406	111	13130	572	10
-Flu-A-H3N2	roundabspike/full/neb/3	0.36960	214	0.17444	101	13290	579	9
-HMPV	roundabspike/full/neb/3	0.34629	196	0.07244	41	13149	566	3
-AdV-1	roundabspike/full/neb/3	0.29435	453	0.10656	164	35676	1539	6
-RSV-A	roundabspike/full/neb/3	0.27414	176	0.07944	51	14855	642	5
-AdV-31	roundabspike/full/neb/3	0.26667	392	0.12313	181	33755	1470	9
-Flu-B	roundabspike/full/neb/3	0.23501	145	0.09724	60	14222	617	5
-HPIV-4	roundabspike/full/neb/3	0.15374	113	0.03401	25	17132	735	4
-HCoV-229E	roundabspike/full/neb/3	0.01548	18	0.00000	0	26841	1163	4
-SARS-CoV-2	roundabspike/full/neb/3	0.00000	0	0.00000	0	29778	1316	0
-TOTAL	roundabspike/full/neb/3	0.34173	4665	0.13823	1887	0	13651	6
-HPIV-2	roundabspike/full/neb/neg	0.07154	48	0.00000	0	15654	671	1
-Flu-A-H1N1-NY	roundabspike/full/neb/neg	0.05769	33	0.00000	0	13130	572	1
-HPIV-3	roundabspike/full/neb/neg	0.03130	21	0.00000	0	15382	671	1
-HPIV-4	roundabspike/full/neb/neg	0.02857	21	0.00000	0	17132	735	1
-HPIV-1	roundabspike/full/neb/neg	0.02798	19	0.00000	0	15412	679	2
-Flu-A-H3N2	roundabspike/full/neb/neg	0.02591	15	0.00000	0	13290	579	1
-Flu-A-H1N1-NC	roundabspike/full/neb/neg	0.02261	13	0.00000	0	13292	575	1
-AdV-3	roundabspike/full/neb/neg	0.01816	28	0.00000	0	35072	1542	1
-AdV-1	roundabspike/full/neb/neg	0.00000	0	0.00000	0	35676	1539	0
-AdV-31	roundabspike/full/neb/neg	0.00000	0	0.00000	0	33755	1470	0
-Flu-B	roundabspike/full/neb/neg	0.00000	0	0.00000	0	14222	617	0
-HMPV	roundabspike/full/neb/neg	0.00000	0	0.00000	0	13149	566	0
-HRV-1A	roundabspike/full/neb/neg	0.00000	0	0.00000	0	7096	314	0
-RSV-A	roundabspike/full/neb/neg	0.00000	0	0.00000	0	14855	642	0
-SARS-CoV-2	roundabspike/full/neb/neg	0.00000	0	0.00000	0	29778	1316	0
-HCoV-229E	roundabspike/full/neb/neg	0.00000	0	0.00000	0	26841	1163	0
-TOTAL	roundabspike/full/neb/neg	0.01450	198	0.00000	0	0	13651	0
-HPIV-2	roundabspike/frag/neb/1	0.97765	656	0.97615	655	15654	671	978
-HPIV-3	roundabspike/frag/neb/1	0.90909	610	0.90909	610	15382	671	801
-Flu-A-H1N1-NC	roundabspike/frag/neb/1	0.58435	336	0.53913	310	13292	575	892
-HPIV-1	roundabspike/frag/neb/1	0.54786	372	0.49485	336	15412	679	412
-AdV-3	roundabspike/frag/neb/1	0.50843	784	0.40726	628	35072	1542	182
-HMPV	roundabspike/frag/neb/1	0.48410	274	0.47173	267	13149	566	515
-HRV-1A	roundabspike/frag/neb/1	0.45541	143	0.33439	105	7096	314	574
-Flu-A-H1N1-NY	roundabspike/frag/neb/1	0.39685	227	0.33217	190	13130	572	758
-Flu-A-H3N2	roundabspike/frag/neb/1	0.37824	219	0.24870	144	13290	579	112
-AdV-1	roundabspike/frag/neb/1	0.36257	558	0.26251	404	35676	1539	246
-RSV-A	roundabspike/frag/neb/1	0.32866	211	0.28816	185	14855	642	416
-Flu-B	roundabspike/frag/neb/1	0.28363	175	0.25932	160	14222	617	602
-AdV-31	roundabspike/frag/neb/1	0.25238	371	0.20340	299	33755	1470	186
-HPIV-4	roundabspike/frag/neb/1	0.19320	142	0.18503	136	17132	735	20
-HCoV-229E	roundabspike/frag/neb/1	0.03869	45	0.03697	43	26841	1163	744
-SARS-CoV-2	roundabspike/frag/neb/1	0.01292	17	0.01292	17	29778	1316	4057
-TOTAL	roundabspike/frag/neb/1	0.37653	5140	0.32869	4487	0	13651	787
-HPIV-3	roundabspike/frag/neb/2	0.11177	75	0.00000	0	15382	671	1
-HPIV-2	roundabspike/frag/neb/2	0.08048	54	0.00000	0	15654	671	1
-AdV-3	roundabspike/frag/neb/2	0.08042	124	0.00000	0	35072	1542	1
-Flu-A-H3N2	roundabspike/frag/neb/2	0.05181	30	0.00518	3	13290	579	1
-Flu-A-H1N1-NC	roundabspike/frag/neb/2	0.03826	22	0.00000	0	13292	575	1
-AdV-31	roundabspike/frag/neb/2	0.03810	56	0.00000	0	33755	1470	1
-HPIV-1	roundabspike/frag/neb/2	0.02651	18	0.00000	0	15412	679	1
-AdV-1	roundabspike/frag/neb/2	0.01754	27	0.00000	0	35676	1539	1
-Flu-B	roundabspike/frag/neb/2	0.00972	6	0.00000	0	14222	617	1
-HPIV-4	roundabspike/frag/neb/2	0.00816	6	0.00000	0	17132	735	2
-Flu-A-H1N1-NY	roundabspike/frag/neb/2	0.00000	0	0.00000	0	13130	572	0
-HMPV	roundabspike/frag/neb/2	0.00000	0	0.00000	0	13149	566	0
-HRV-1A	roundabspike/frag/neb/2	0.00000	0	0.00000	0	7096	314	0
-RSV-A	roundabspike/frag/neb/2	0.00000	0	0.00000	0	14855	642	0
-SARS-CoV-2	roundabspike/frag/neb/2	0.00000	0	0.00000	0	29778	1316	0
-HCoV-229E	roundabspike/frag/neb/2	0.00000	0	0.00000	0	26841	1163	0
-TOTAL	roundabspike/frag/neb/2	0.03062	418	0.00022	3	0	13651	1
-HPIV-2	roundabspike/frag/neb/3	0.85395	573	0.46051	309	15654	671	11
-HPIV-3	roundabspike/frag/neb/3	0.60060	403	0.38450	258	15382	671	15
-HMPV	roundabspike/frag/neb/3	0.49823	282	0.14134	80	13149	566	5
-AdV-3	roundabspike/frag/neb/3	0.42283	652	0.23152	357	35072	1542	11
-Flu-A-H1N1-NC	roundabspike/frag/neb/3	0.41565	239	0.28696	165	13292	575	49
-Flu-A-H3N2	roundabspike/frag/neb/3	0.27807	161	0.23143	134	13290	579	55
-Flu-A-H1N1-NY	roundabspike/frag/neb/3	0.21329	122	0.11888	68	13130	572	24
-AdV-31	roundabspike/frag/neb/3	0.20884	307	0.08299	122	33755	1470	7
-Flu-B	roundabspike/frag/neb/3	0.19449	120	0.16856	104	14222	617	14
-HPIV-1	roundabspike/frag/neb/3	0.18851	128	0.07658	52	15412	679	8
-HRV-1A	roundabspike/frag/neb/3	0.17516	55	0.08280	26	7096	314	9
-AdV-1	roundabspike/frag/neb/3	0.14685	226	0.05003	77	35676	1539	8
-HPIV-4	roundabspike/frag/neb/3	0.14286	105	0.07755	57	17132	735	10
-RSV-A	roundabspike/frag/neb/3	0.06075	39	0.05919	38	14855	642	38
-HCoV-229E	roundabspike/frag/neb/3	0.01892	22	0.00000	0	26841	1163	3
-SARS-CoV-2	roundabspike/frag/neb/3	0.00000	0	0.00000	0	29778	1316	0
-TOTAL	roundabspike/frag/neb/3	0.25156	3434	0.13530	1847	0	13651	14
-HPIV-3	roundabspike/frag/neb/neg	0.12519	84	0.00000	0	15382	671	1
-HPIV-2	roundabspike/frag/neb/neg	0.10283	69	0.00000	0	15654	671	1
-AdV-3	roundabspike/frag/neb/neg	0.01686	26	0.00000	0	35072	1542	1
-HPIV-4	roundabspike/frag/neb/neg	0.00816	6	0.00000	0	17132	735	3
-Flu-A-H3N2	roundabspike/frag/neb/neg	0.00518	3	0.00518	3	13290	579	348
-AdV-1	roundabspike/frag/neb/neg	0.00455	7	0.00000	0	35676	1539	1
-Flu-A-H1N1-NY	roundabspike/frag/neb/neg	0.00350	2	0.00000	0	13130	572	1
-AdV-31	roundabspike/frag/neb/neg	0.00000	0	0.00000	0	33755	1470	0
-Flu-A-H1N1-NC	roundabspike/frag/neb/neg	0.00000	0	0.00000	0	13292	575	0
-Flu-B	roundabspike/frag/neb/neg	0.00000	0	0.00000	0	14222	617	0
-HMPV	roundabspike/frag/neb/neg	0.00000	0	0.00000	0	13149	566	0
-HPIV-1	roundabspike/frag/neb/neg	0.00000	0	0.00000	0	15412	679	0
-HRV-1A	roundabspike/frag/neb/neg	0.00000	0	0.00000	0	7096	314	0
-RSV-A	roundabspike/frag/neb/neg	0.00000	0	0.00000	0	14855	642	0
-SARS-CoV-2	roundabspike/frag/neb/neg	0.00000	0	0.00000	0	29778	1316	0
-HCoV-229E	roundabspike/frag/neb/neg	0.00000	0	0.00000	0	26841	1163	0
-TOTAL	roundabspike/frag/neb/neg	0.01443	197	0.00022	3	0	13651	15
-AdV-3	roundabspike/frag/rlb/1	0.39105	603	0.00000	0	35072	1542	1
-AdV-1	roundabspike/frag/rlb/1	0.31449	484	0.00000	0	35676	1539	1
-AdV-31	roundabspike/frag/rlb/1	0.19660	289	0.00000	0	33755	1470	1
-Flu-A-H1N1-NC	roundabspike/frag/rlb/1	0.11826	68	0.00000	0	13292	575	1
-Flu-A-H1N1-NY	roundabspike/frag/rlb/1	0.05070	29	0.00000	0	13130	572	1
-HPIV-2	roundabspike/frag/rlb/1	0.04918	33	0.00000	0	15654	671	1
-HPIV-3	roundabspike/frag/rlb/1	0.04918	33	0.00000	0	15382	671	1
-RSV-A	roundabspike/frag/rlb/1	0.04517	29	0.00000	0	14855	642	1
-Flu-A-H3N2	roundabspike/frag/rlb/1	0.04318	25	0.00000	0	13290	579	1
-HRV-1A	roundabspike/frag/rlb/1	0.01592	5	0.00000	0	7096	314	1
-Flu-B	roundabspike/frag/rlb/1	0.00000	0	0.00000	0	14222	617	0
-HMPV	roundabspike/frag/rlb/1	0.00000	0	0.00000	0	13149	566	0
-HPIV-1	roundabspike/frag/rlb/1	0.00000	0	0.00000	0	15412	679	0
-HPIV-4	roundabspike/frag/rlb/1	0.00000	0	0.00000	0	17132	735	0
-SARS-CoV-2	roundabspike/frag/rlb/1	0.00000	0	0.00000	0	29778	1316	0
-HCoV-229E	roundabspike/frag/rlb/1	0.00000	0	0.00000	0	26841	1163	0
-TOTAL	roundabspike/frag/rlb/1	0.11706	1598	0.00000	0	0	13651	1
-HPIV-3	roundabspike/frag/rlb/2	0.09687	65	0.00000	0	15382	671	2
-HPIV-2	roundabspike/frag/rlb/2	0.07750	52	0.00000	0	15654	671	1
-Flu-A-H1N1-NC	roundabspike/frag/rlb/2	0.07130	41	0.00000	0	13292	575	1
-HRV-1A	roundabspike/frag/rlb/2	0.06369	20	0.00000	0	7096	314	1
-RSV-A	roundabspike/frag/rlb/2	0.05763	37	0.00000	0	14855	642	1
-HPIV-1	roundabspike/frag/rlb/2	0.05007	34	0.00000	0	15412	679	1
-AdV-1	roundabspike/frag/rlb/2	0.03249	50	0.02729	42	35676	1539	66
-AdV-3	roundabspike/frag/rlb/2	0.02270	35	0.00000	0	35072	1542	1
-Flu-A-H3N2	roundabspike/frag/rlb/2	0.02245	13	0.00345	2	13290	579	2
-Flu-A-H1N1-NY	roundabspike/frag/rlb/2	0.01923	11	0.00000	0	13130	572	1
-HPIV-4	roundabspike/frag/rlb/2	0.00816	6	0.00000	0	17132	735	2
-AdV-31	roundabspike/frag/rlb/2	0.00612	9	0.00000	0	33755	1470	1
-Flu-B	roundabspike/frag/rlb/2	0.00000	0	0.00000	0	14222	617	0
-HMPV	roundabspike/frag/rlb/2	0.00000	0	0.00000	0	13149	566	0
-SARS-CoV-2	roundabspike/frag/rlb/2	0.00000	0	0.00000	0	29778	1316	0
-HCoV-229E	roundabspike/frag/rlb/2	0.00000	0	0.00000	0	26841	1163	0
-TOTAL	roundabspike/frag/rlb/2	0.02732	373	0.00322	44	0	13651	8
-HPIV-2	roundabspike/frag/rlb/3	0.13860	93	0.00000	0	15654	671	1
-HPIV-1	roundabspike/frag/rlb/3	0.03829	26	0.00000	0	15412	679	1
-RSV-A	roundabspike/frag/rlb/3	0.03738	24	0.00000	0	14855	642	2
-HPIV-3	roundabspike/frag/rlb/3	0.03726	25	0.00000	0	15382	671	1
-Flu-B	roundabspike/frag/rlb/3	0.03566	22	0.00000	0	14222	617	1
-AdV-3	roundabspike/frag/rlb/3	0.02270	35	0.00000	0	35072	1542	1
-AdV-1	roundabspike/frag/rlb/3	0.02209	34	0.00000	0	35676	1539	1
-AdV-31	roundabspike/frag/rlb/3	0.01429	21	0.00000	0	33755	1470	1
-Flu-A-H3N2	roundabspike/frag/rlb/3	0.00345	2	0.00000	0	13290	579	4
-Flu-A-H1N1-NY	roundabspike/frag/rlb/3	0.00000	0	0.00000	0	13130	572	0
-Flu-A-H1N1-NC	roundabspike/frag/rlb/3	0.00000	0	0.00000	0	13292	575	0
-HMPV	roundabspike/frag/rlb/3	0.00000	0	0.00000	0	13149	566	0
-HPIV-4	roundabspike/frag/rlb/3	0.00000	0	0.00000	0	17132	735	0
-HRV-1A	roundabspike/frag/rlb/3	0.00000	0	0.00000	0	7096	314	0
-SARS-CoV-2	roundabspike/frag/rlb/3	0.00000	0	0.00000	0	29778	1316	0
-HCoV-229E	roundabspike/frag/rlb/3	0.00000	0	0.00000	0	26841	1163	0
-TOTAL	roundabspike/frag/rlb/3	0.02066	282	0.00000	0	0	13651	1
-AdV-3	roundabspike/frag/rlb/neg	0.03696	57	0.00000	0	35072	1542	1
-Flu-A-H1N1-NC	roundabspike/frag/rlb/neg	0.02957	17	0.00000	0	13292	575	1
-Flu-A-H3N2	roundabspike/frag/rlb/neg	0.02245	13	0.00000	0	13290	579	1
-HPIV-2	roundabspike/frag/rlb/neg	0.01788	12	0.00000	0	15654	671	2
-AdV-1	roundabspike/frag/rlb/neg	0.00000	0	0.00000	0	35676	1539	0
-AdV-31	roundabspike/frag/rlb/neg	0.00000	0	0.00000	0	33755	1470	0
-Flu-A-H1N1-NY	roundabspike/frag/rlb/neg	0.00000	0	0.00000	0	13130	572	0
-Flu-B	roundabspike/frag/rlb/neg	0.00000	0	0.00000	0	14222	617	0
-HMPV	roundabspike/frag/rlb/neg	0.00000	0	0.00000	0	13149	566	0
-HPIV-1	roundabspike/frag/rlb/neg	0.00000	0	0.00000	0	15412	679	0
-HPIV-3	roundabspike/frag/rlb/neg	0.00000	0	0.00000	0	15382	671	0
-HPIV-4	roundabspike/frag/rlb/neg	0.00000	0	0.00000	0	17132	735	0
-HRV-1A	roundabspike/frag/rlb/neg	0.00000	0	0.00000	0	7096	314	0
-RSV-A	roundabspike/frag/rlb/neg	0.00000	0	0.00000	0	14855	642	0
-SARS-CoV-2	roundabspike/frag/rlb/neg	0.00000	0	0.00000	0	29778	1316	0
-HCoV-229E	roundabspike/frag/rlb/neg	0.00000	0	0.00000	0	26841	1163	0
-TOTAL	roundabspike/frag/rlb/neg	0.00725	99	0.00000	0	0	13651	0
-HRV-1A	roundabspike/frag/neb+rlb/1	0.15287	48	0.00000	0	7096	314	1
-HPIV-2	roundabspike/frag/neb+rlb/1	0.15201	102	0.00000	0	15654	671	1
-AdV-3	roundabspike/frag/neb+rlb/1	0.06096	94	0.00000	0	35072	1542	1
-Flu-A-H3N2	roundabspike/frag/neb+rlb/1	0.04318	25	0.00173	1	13290	579	1
-RSV-A	roundabspike/frag/neb+rlb/1	0.04206	27	0.00000	0	14855	642	1
-AdV-1	roundabspike/frag/neb+rlb/1	0.04094	63	0.00000	0	35676	1539	1
-Flu-A-H1N1-NC	roundabspike/frag/neb+rlb/1	0.02957	17	0.00000	0	13292	575	1
-Flu-A-H1N1-NY	roundabspike/frag/neb+rlb/1	0.02448	14	0.00000	0	13130	572	1
-HPIV-1	roundabspike/frag/neb+rlb/1	0.02209	15	0.00000	0	15412	679	2
-AdV-31	roundabspike/frag/neb+rlb/1	0.02177	32	0.00000	0	33755	1470	1
-HPIV-3	roundabspike/frag/neb+rlb/1	0.01639	11	0.00000	0	15382	671	1
-HPIV-4	roundabspike/frag/neb+rlb/1	0.01224	9	0.00000	0	17132	735	1
-Flu-B	roundabspike/frag/neb+rlb/1	0.00648	4	0.00000	0	14222	617	1
-HMPV	roundabspike/frag/neb+rlb/1	0.00000	0	0.00000	0	13149	566	0
-SARS-CoV-2	roundabspike/frag/neb+rlb/1	0.00000	0	0.00000	0	29778	1316	0
-HCoV-229E	roundabspike/frag/neb+rlb/1	0.00000	0	0.00000	0	26841	1163	0
-TOTAL	roundabspike/frag/neb+rlb/1	0.03377	461	0.00007	1	0	13651	1
-HPIV-3	roundabspike/frag/neb+rlb/2	0.13413	90	0.00000	0	15382	671	1
-HPIV-2	roundabspike/frag/neb+rlb/2	0.07899	53	0.00000	0	15654	671	1
-AdV-3	roundabspike/frag/neb+rlb/2	0.07328	113	0.00000	0	35072	1542	1
-Flu-A-H3N2	roundabspike/frag/neb+rlb/2	0.06736	39	0.00518	3	13290	579	1
-HPIV-1	roundabspike/frag/neb+rlb/2	0.06038	41	0.00000	0	15412	679	1
-Flu-A-H1N1-NC	roundabspike/frag/neb+rlb/2	0.04870	28	0.00000	0	13292	575	1
-Flu-B	roundabspike/frag/neb+rlb/2	0.04052	25	0.00000	0	14222	617	1
-HRV-1A	roundabspike/frag/neb+rlb/2	0.03185	10	0.00000	0	7096	314	1
-AdV-31	roundabspike/frag/neb+rlb/2	0.03129	46	0.00000	0	33755	1470	1
-AdV-1	roundabspike/frag/neb+rlb/2	0.02664	41	0.00000	0	35676	1539	1
-RSV-A	roundabspike/frag/neb+rlb/2	0.02492	16	0.00000	0	14855	642	1
-HPIV-4	roundabspike/frag/neb+rlb/2	0.02313	17	0.00000	0	17132	735	1
-Flu-A-H1N1-NY	roundabspike/frag/neb+rlb/2	0.00350	2	0.00000	0	13130	572	1
-HMPV	roundabspike/frag/neb+rlb/2	0.00000	0	0.00000	0	13149	566	0
-SARS-CoV-2	roundabspike/frag/neb+rlb/2	0.00000	0	0.00000	0	29778	1316	0
-HCoV-229E	roundabspike/frag/neb+rlb/2	0.00000	0	0.00000	0	26841	1163	0
-TOTAL	roundabspike/frag/neb+rlb/2	0.03817	521	0.00022	3	0	13651	1
-HPIV-3	roundabspike/frag/neb+rlb/3	0.23100	155	0.00000	0	15382	671	1
-HPIV-2	roundabspike/frag/neb+rlb/3	0.20119	135	0.00000	0	15654	671	1
-Flu-A-H1N1-NC	roundabspike/frag/neb+rlb/3	0.19652	113	0.00000	0	13292	575	1
-Flu-A-H1N1-NY	roundabspike/frag/neb+rlb/3	0.10315	59	0.00000	0	13130	572	1
-AdV-3	roundabspike/frag/neb+rlb/3	0.08431	130	0.00000	0	35072	1542	1
-RSV-A	roundabspike/frag/neb+rlb/3	0.07477	48	0.00000	0	14855	642	2
-AdV-31	roundabspike/frag/neb+rlb/3	0.05102	75	0.00000	0	33755	1470	1
-Flu-A-H3N2	roundabspike/frag/neb+rlb/3	0.04663	27	0.00173	1	13290	579	1
-AdV-1	roundabspike/frag/neb+rlb/3	0.03769	58	0.00000	0	35676	1539	1
-Flu-B	roundabspike/frag/neb+rlb/3	0.03404	21	0.00000	0	14222	617	1
-HPIV-1	roundabspike/frag/neb+rlb/3	0.02504	17	0.00000	0	15412	679	2
-HRV-1A	roundabspike/frag/neb+rlb/3	0.01592	5	0.00000	0	7096	314	1
-HPIV-4	roundabspike/frag/neb+rlb/3	0.00680	5	0.00000	0	17132	735	1
-HMPV	roundabspike/frag/neb+rlb/3	0.00000	0	0.00000	0	13149	566	0
-SARS-CoV-2	roundabspike/frag/neb+rlb/3	0.00000	0	0.00000	0	29778	1316	0
-HCoV-229E	roundabspike/frag/neb+rlb/3	0.00000	0	0.00000	0	26841	1163	0
-TOTAL	roundabspike/frag/neb+rlb/3	0.06212	848	0.00007	1	0	13651	1
-HPIV-2	roundabspike/frag/neb+rlb/neg	0.14009	94	0.00000	0	15654	671	1
-HPIV-3	roundabspike/frag/neb+rlb/neg	0.08644	58	0.00000	0	15382	671	1
-HPIV-1	roundabspike/frag/neb+rlb/neg	0.04860	33	0.00000	0	15412	679	1
-Flu-B	roundabspike/frag/neb+rlb/neg	0.02107	13	0.00000	0	14222	617	1
-HMPV	roundabspike/frag/neb+rlb/neg	0.01943	11	0.00000	0	13149	566	1
-AdV-3	roundabspike/frag/neb+rlb/neg	0.01816	28	0.00000	0	35072	1542	1
-Flu-A-H3N2	roundabspike/frag/neb+rlb/neg	0.01727	10	0.00345	2	13290	579	1
-AdV-31	roundabspike/frag/neb+rlb/neg	0.01429	21	0.00000	0	33755	1470	1
-Flu-A-H1N1-NC	roundabspike/frag/neb+rlb/neg	0.01391	8	0.00000	0	13292	575	1
-AdV-1	roundabspike/frag/neb+rlb/neg	0.01365	21	0.00000	0	35676	1539	1
-HPIV-4	roundabspike/frag/neb+rlb/neg	0.00816	6	0.00000	0	17132	735	1
-Flu-A-H1N1-NY	roundabspike/frag/neb+rlb/neg	0.00524	3	0.00000	0	13130	572	1
-HRV-1A	roundabspike/frag/neb+rlb/neg	0.00000	0	0.00000	0	7096	314	0
-RSV-A	roundabspike/frag/neb+rlb/neg	0.00000	0	0.00000	0	14855	642	0
-SARS-CoV-2	roundabspike/frag/neb+rlb/neg	0.00000	0	0.00000	0	29778	1316	0
-HCoV-229E	roundabspike/frag/neb+rlb/neg	0.00000	0	0.00000	0	26841	1163	0
-TOTAL	roundabspike/frag/neb+rlb/neg	0.02242	306	0.00015	2	0	13651	1
+target	sample	containment1	containment1_hits	containment10	containment10_hits	target_length	target_kmers	median_nz_abundance	sample_seqs	sample_bases
+HPIV-2	rounda/full/neb/1	0.99702	669	0.97019	651	15654	671	795	1944876	1000030332
+HRV-1A	rounda/full/neb/1	0.96178	302	0.93949	295	7096	314	208	1944876	1000030332
+HPIV-3	rounda/full/neb/1	0.95082	638	0.94635	635	15382	671	686	1944876	1000030332
+RSV-A	rounda/full/neb/1	0.93769	602	0.86760	557	14855	642	84	1944876	1000030332
+HMPV	rounda/full/neb/1	0.91873	520	0.67491	382	13149	566	82	1944876	1000030332
+HPIV-4	rounda/full/neb/1	0.85170	626	0.80136	589	17132	735	202	1944876	1000030332
+AdV-3	rounda/full/neb/1	0.85084	1312	0.73541	1134	35072	1542	405	1944876	1000030332
+Flu-A-H1N1-NC	rounda/full/neb/1	0.81565	469	0.79304	456	13292	575	735	1944876	1000030332
+HPIV-1	rounda/full/neb/1	0.81443	553	0.78792	535	15412	679	250	1944876	1000030332
+Flu-A-H1N1-NY	rounda/full/neb/1	0.73427	420	0.70979	406	13130	572	598	1944876	1000030332
+AdV-1	rounda/full/neb/1	0.71930	1107	0.60039	924	35676	1539	225	1944876	1000030332
+Flu-B	rounda/full/neb/1	0.64344	397	0.54457	336	14222	617	197	1944876	1000030332
+Flu-A-H3N2	rounda/full/neb/1	0.59240	343	0.57340	332	13290	579	1183	1944876	1000030332
+AdV-31	rounda/full/neb/1	0.43333	637	0.38707	569	33755	1470	413	1944876	1000030332
+HCoV-229E	rounda/full/neb/1	0.13758	160	0.10146	118	26841	1163	85	1944876	1000030332
+SARS-CoV-2	rounda/full/neb/1	0.02812	37	0.02356	31	29778	1316	107	1944876	1000030332
+TOTAL	rounda/full/neb/1	0.64406	8792	0.58230	7949	0	13651	356	1944876	1000030332
+HPIV-2	rounda/full/neb/2	0.99702	669	0.98808	663	15654	671	1070	1806633	1000036068
+HPIV-3	rounda/full/neb/2	0.98808	663	0.98659	662	15382	671	748	1806633	1000036068
+HRV-1A	rounda/full/neb/2	0.95223	299	0.92994	292	7096	314	315	1806633	1000036068
+AdV-3	rounda/full/neb/2	0.92023	1419	0.88327	1362	35072	1542	506	1806633	1000036068
+RSV-A	rounda/full/neb/2	0.91433	587	0.85826	551	14855	642	83	1806633	1000036068
+HMPV	rounda/full/neb/2	0.90459	512	0.88163	499	13149	566	188	1806633	1000036068
+HPIV-4	rounda/full/neb/2	0.87075	640	0.77007	566	17132	735	149	1806633	1000036068
+AdV-1	rounda/full/neb/2	0.79337	1221	0.70370	1083	35676	1539	321	1806633	1000036068
+Flu-A-H1N1-NC	rounda/full/neb/2	0.77913	448	0.74261	427	13292	575	908	1806633	1000036068
+HPIV-1	rounda/full/neb/2	0.77614	527	0.74374	505	15412	679	241	1806633	1000036068
+Flu-A-H1N1-NY	rounda/full/neb/2	0.77448	443	0.71853	411	13130	572	618	1806633	1000036068
+Flu-B	rounda/full/neb/2	0.70178	433	0.68071	420	14222	617	250	1806633	1000036068
+Flu-A-H3N2	rounda/full/neb/2	0.63903	370	0.58377	338	13290	579	652	1806633	1000036068
+AdV-31	rounda/full/neb/2	0.48980	720	0.44082	648	33755	1470	398	1806633	1000036068
+HCoV-229E	rounda/full/neb/2	0.07309	85	0.05933	69	26841	1163	21	1806633	1000036068
+SARS-CoV-2	rounda/full/neb/2	0.02356	31	0.02356	31	29778	1316	237	1806633	1000036068
+TOTAL	rounda/full/neb/2	0.66420	9067	0.62464	8527	0	13651	392	1806633	1000036068
+HPIV-3	rounda/full/neb/neg	0.13860	93	0.00000	0	15382	671	1	373	203231
+Flu-A-H1N1-NY	rounda/full/neb/neg	0.02098	12	0.00000	0	13130	572	1	373	203231
+HPIV-2	rounda/full/neb/neg	0.02086	14	0.00000	0	15654	671	1	373	203231
+RSV-A	rounda/full/neb/neg	0.01869	12	0.00000	0	14855	642	1	373	203231
+Flu-A-H3N2	rounda/full/neb/neg	0.01727	10	0.00000	0	13290	579	1	373	203231
+AdV-3	rounda/full/neb/neg	0.00649	10	0.00000	0	35072	1542	1	373	203231
+AdV-1	rounda/full/neb/neg	0.00000	0	0.00000	0	35676	1539	0	373	203231
+AdV-31	rounda/full/neb/neg	0.00000	0	0.00000	0	33755	1470	0	373	203231
+Flu-A-H1N1-NC	rounda/full/neb/neg	0.00000	0	0.00000	0	13292	575	0	373	203231
+Flu-B	rounda/full/neb/neg	0.00000	0	0.00000	0	14222	617	0	373	203231
+HMPV	rounda/full/neb/neg	0.00000	0	0.00000	0	13149	566	0	373	203231
+HPIV-1	rounda/full/neb/neg	0.00000	0	0.00000	0	15412	679	0	373	203231
+HPIV-4	rounda/full/neb/neg	0.00000	0	0.00000	0	17132	735	0	373	203231
+HRV-1A	rounda/full/neb/neg	0.00000	0	0.00000	0	7096	314	0	373	203231
+SARS-CoV-2	rounda/full/neb/neg	0.00000	0	0.00000	0	29778	1316	0	373	203231
+HCoV-229E	rounda/full/neb/neg	0.00000	0	0.00000	0	26841	1163	0	373	203231
+TOTAL	rounda/full/neb/neg	0.01106	151	0.00000	0	0	13651	0	373	203231
+HPIV-2	rounda/tag/neb/1	0.99553	668	0.99553	668	15654	671	790	2143980	1000271474
+HPIV-3	rounda/tag/neb/1	0.97615	655	0.97615	655	15382	671	630	2143980	1000271474
+Flu-A-H1N1-NC	rounda/tag/neb/1	0.72870	419	0.66957	385	13292	575	583	2143980	1000271474
+HPIV-1	rounda/tag/neb/1	0.69514	472	0.59499	404	15412	679	154	2143980	1000271474
+AdV-3	rounda/tag/neb/1	0.66083	1019	0.60895	939	35072	1542	605	2143980	1000271474
+RSV-A	rounda/tag/neb/1	0.65421	420	0.59502	382	14855	642	39	2143980	1000271474
+HRV-1A	rounda/tag/neb/1	0.65287	205	0.64650	203	7096	314	396	2143980	1000271474
+Flu-A-H1N1-NY	rounda/tag/neb/1	0.64336	368	0.56818	325	13130	572	407	2143980	1000271474
+AdV-1	rounda/tag/neb/1	0.59389	914	0.52502	808	35676	1539	208	2143980	1000271474
+HMPV	rounda/tag/neb/1	0.58304	330	0.54947	311	13149	566	272	2143980	1000271474
+Flu-B	rounda/tag/neb/1	0.55754	344	0.41815	258	14222	617	170	2143980	1000271474
+HPIV-4	rounda/tag/neb/1	0.54830	403	0.52517	386	17132	735	82	2143980	1000271474
+Flu-A-H3N2	rounda/tag/neb/1	0.54404	315	0.46459	269	13290	579	672	2143980	1000271474
+AdV-31	rounda/tag/neb/1	0.40544	596	0.37891	557	33755	1470	508	2143980	1000271474
+HCoV-229E	rounda/tag/neb/1	0.08340	97	0.07997	93	26841	1163	131	2143980	1000271474
+SARS-CoV-2	rounda/tag/neb/1	0.02812	37	0.02812	37	29778	1316	437	2143980	1000271474
+TOTAL	rounda/tag/neb/1	0.53198	7262	0.48919	6678	0	13651	382	2143980	1000271474
+HPIV-4	rounda/tag/neb/neg	0.08980	66	0.00000	0	17132	735	1	541	247882
+AdV-3	rounda/tag/neb/neg	0.06615	102	0.00000	0	35072	1542	1	541	247882
+HPIV-2	rounda/tag/neb/neg	0.02235	15	0.00000	0	15654	671	1	541	247882
+HPIV-3	rounda/tag/neb/neg	0.02235	15	0.00000	0	15382	671	1	541	247882
+Flu-B	rounda/tag/neb/neg	0.02107	13	0.00000	0	14222	617	1	541	247882
+Flu-A-H1N1-NC	rounda/tag/neb/neg	0.01913	11	0.00000	0	13292	575	1	541	247882
+Flu-A-H3N2	rounda/tag/neb/neg	0.01900	11	0.00000	0	13290	579	1	541	247882
+AdV-1	rounda/tag/neb/neg	0.01754	27	0.00000	0	35676	1539	1	541	247882
+HPIV-1	rounda/tag/neb/neg	0.01178	8	0.00000	0	15412	679	2	541	247882
+AdV-31	rounda/tag/neb/neg	0.00136	2	0.00000	0	33755	1470	1	541	247882
+Flu-A-H1N1-NY	rounda/tag/neb/neg	0.00000	0	0.00000	0	13130	572	0	541	247882
+HMPV	rounda/tag/neb/neg	0.00000	0	0.00000	0	13149	566	0	541	247882
+HRV-1A	rounda/tag/neb/neg	0.00000	0	0.00000	0	7096	314	0	541	247882
+RSV-A	rounda/tag/neb/neg	0.00000	0	0.00000	0	14855	642	0	541	247882
+SARS-CoV-2	rounda/tag/neb/neg	0.00000	0	0.00000	0	29778	1316	0	541	247882
+HCoV-229E	rounda/tag/neb/neg	0.00000	0	0.00000	0	26841	1163	0	541	247882
+TOTAL	rounda/tag/neb/neg	0.01978	270	0.00000	0	0	13651	1	541	247882
+AdV-3	rounda/tag/rlb/1	0.35019	540	0.00000	0	35072	1542	1	161242	35632282
+HPIV-2	rounda/tag/rlb/1	0.16244	109	0.00000	0	15654	671	1	161242	35632282
+AdV-1	rounda/tag/rlb/1	0.12606	194	0.00000	0	35676	1539	1	161242	35632282
+AdV-31	rounda/tag/rlb/1	0.12313	181	0.00000	0	33755	1470	1	161242	35632282
+HPIV-3	rounda/tag/rlb/1	0.06557	44	0.00000	0	15382	671	1	161242	35632282
+RSV-A	rounda/tag/rlb/1	0.06542	42	0.00000	0	14855	642	1	161242	35632282
+Flu-B	rounda/tag/rlb/1	0.03404	21	0.00000	0	14222	617	1	161242	35632282
+HMPV	rounda/tag/rlb/1	0.03004	17	0.00000	0	13149	566	1	161242	35632282
+HPIV-1	rounda/tag/rlb/1	0.02798	19	0.00000	0	15412	679	1	161242	35632282
+Flu-A-H1N1-NC	rounda/tag/rlb/1	0.02435	14	0.00000	0	13292	575	1	161242	35632282
+HPIV-4	rounda/tag/rlb/1	0.01769	13	0.00000	0	17132	735	1	161242	35632282
+HRV-1A	rounda/tag/rlb/1	0.01592	5	0.00000	0	7096	314	1	161242	35632282
+HCoV-229E	rounda/tag/rlb/1	0.01290	15	0.00000	0	26841	1163	1	161242	35632282
+Flu-A-H1N1-NY	rounda/tag/rlb/1	0.00699	4	0.00000	0	13130	572	1	161242	35632282
+SARS-CoV-2	rounda/tag/rlb/1	0.00456	6	0.00000	0	29778	1316	1	161242	35632282
+Flu-A-H3N2	rounda/tag/rlb/1	0.00345	2	0.00173	1	13290	579	16	161242	35632282
+TOTAL	rounda/tag/rlb/1	0.08981	1226	0.00007	1	0	13651	2	161242	35632282
+AdV-1	rounda/tag/rlb/2	0.40026	616	0.00000	0	35676	1539	1	69739	15094579
+AdV-3	rounda/tag/rlb/2	0.21984	339	0.00000	0	35072	1542	1	69739	15094579
+AdV-31	rounda/tag/rlb/2	0.17823	262	0.00000	0	33755	1470	1	69739	15094579
+HPIV-1	rounda/tag/rlb/2	0.11193	76	0.00000	0	15412	679	1	69739	15094579
+HPIV-2	rounda/tag/rlb/2	0.09687	65	0.00000	0	15654	671	1	69739	15094579
+HPIV-3	rounda/tag/rlb/2	0.06557	44	0.00000	0	15382	671	1	69739	15094579
+RSV-A	rounda/tag/rlb/2	0.04050	26	0.00000	0	14855	642	1	69739	15094579
+Flu-A-H1N1-NC	rounda/tag/rlb/2	0.02435	14	0.00000	0	13292	575	1	69739	15094579
+HPIV-4	rounda/tag/rlb/2	0.00544	4	0.00000	0	17132	735	1	69739	15094579
+Flu-B	rounda/tag/rlb/2	0.00486	3	0.00000	0	14222	617	1	69739	15094579
+Flu-A-H3N2	rounda/tag/rlb/2	0.00345	2	0.00173	1	13290	579	8	69739	15094579
+SARS-CoV-2	rounda/tag/rlb/2	0.00076	1	0.00000	0	29778	1316	1	69739	15094579
+Flu-A-H1N1-NY	rounda/tag/rlb/2	0.00000	0	0.00000	0	13130	572	0	69739	15094579
+HMPV	rounda/tag/rlb/2	0.00000	0	0.00000	0	13149	566	0	69739	15094579
+HRV-1A	rounda/tag/rlb/2	0.00000	0	0.00000	0	7096	314	0	69739	15094579
+HCoV-229E	rounda/tag/rlb/2	0.00000	0	0.00000	0	26841	1163	0	69739	15094579
+TOTAL	rounda/tag/rlb/2	0.10637	1452	0.00007	1	0	13651	1	69739	15094579
+HRV-1A	rounda/tag/rlb/neg	0.08917	28	0.00000	0	7096	314	1	95528	75623901
+Flu-A-H1N1-NC	rounda/tag/rlb/neg	0.08174	47	0.00000	0	13292	575	1	95528	75623901
+HPIV-2	rounda/tag/rlb/neg	0.07899	53	0.00000	0	15654	671	1	95528	75623901
+HPIV-3	rounda/tag/rlb/neg	0.05514	37	0.00000	0	15382	671	1	95528	75623901
+AdV-3	rounda/tag/rlb/neg	0.05123	79	0.00000	0	35072	1542	1	95528	75623901
+RSV-A	rounda/tag/rlb/neg	0.03738	24	0.00000	0	14855	642	1	95528	75623901
+Flu-A-H1N1-NY	rounda/tag/rlb/neg	0.02448	14	0.00000	0	13130	572	1	95528	75623901
+HPIV-1	rounda/tag/rlb/neg	0.01767	12	0.00000	0	15412	679	2	95528	75623901
+HPIV-4	rounda/tag/rlb/neg	0.01497	11	0.00000	0	17132	735	1	95528	75623901
+HCoV-229E	rounda/tag/rlb/neg	0.01376	16	0.00000	0	26841	1163	1	95528	75623901
+Flu-A-H3N2	rounda/tag/rlb/neg	0.01036	6	0.00000	0	13290	579	1	95528	75623901
+AdV-31	rounda/tag/rlb/neg	0.01020	15	0.00000	0	33755	1470	1	95528	75623901
+AdV-1	rounda/tag/rlb/neg	0.00975	15	0.00000	0	35676	1539	1	95528	75623901
+Flu-B	rounda/tag/rlb/neg	0.00000	0	0.00000	0	14222	617	0	95528	75623901
+HMPV	rounda/tag/rlb/neg	0.00000	0	0.00000	0	13149	566	0	95528	75623901
+SARS-CoV-2	rounda/tag/rlb/neg	0.00000	0	0.00000	0	29778	1316	0	95528	75623901
+TOTAL	rounda/tag/rlb/neg	0.02615	357	0.00000	0	0	13651	1	95528	75623901
+HPIV-3	rounda/tag/neb+rlb/1	0.25335	170	0.00000	0	15382	671	1	91801	18276031
+HPIV-2	rounda/tag/neb+rlb/1	0.19076	128	0.00000	0	15654	671	1	91801	18276031
+AdV-1	rounda/tag/neb+rlb/1	0.08902	137	0.00000	0	35676	1539	1	91801	18276031
+AdV-3	rounda/tag/neb+rlb/1	0.08820	136	0.00000	0	35072	1542	1	91801	18276031
+Flu-B	rounda/tag/neb+rlb/1	0.08266	51	0.00000	0	14222	617	1	91801	18276031
+HMPV	rounda/tag/neb+rlb/1	0.07951	45	0.00000	0	13149	566	1	91801	18276031
+Flu-A-H1N1-NY	rounda/tag/neb+rlb/1	0.03846	22	0.00000	0	13130	572	1	91801	18276031
+Flu-A-H1N1-NC	rounda/tag/neb+rlb/1	0.03130	18	0.00000	0	13292	575	1	91801	18276031
+Flu-A-H3N2	rounda/tag/neb+rlb/1	0.02763	16	0.00345	2	13290	579	1	91801	18276031
+RSV-A	rounda/tag/neb+rlb/1	0.02181	14	0.00000	0	14855	642	1	91801	18276031
+AdV-31	rounda/tag/neb+rlb/1	0.01905	28	0.00000	0	33755	1470	1	91801	18276031
+HPIV-1	rounda/tag/neb+rlb/1	0.01620	11	0.00000	0	15412	679	1	91801	18276031
+HPIV-4	rounda/tag/neb+rlb/1	0.01224	9	0.00000	0	17132	735	1	91801	18276031
+HCoV-229E	rounda/tag/neb+rlb/1	0.01118	13	0.00000	0	26841	1163	1	91801	18276031
+HRV-1A	rounda/tag/neb+rlb/1	0.00000	0	0.00000	0	7096	314	0	91801	18276031
+SARS-CoV-2	rounda/tag/neb+rlb/1	0.00000	0	0.00000	0	29778	1316	0	91801	18276031
+TOTAL	rounda/tag/neb+rlb/1	0.05846	798	0.00015	2	0	13651	1	91801	18276031
+HPIV-3	rounda/tag/neb+rlb/2	0.22057	148	0.00000	0	15382	671	1	100710	19926658
+HPIV-2	rounda/tag/neb+rlb/2	0.18331	123	0.00000	0	15654	671	1	100710	19926658
+AdV-3	rounda/tag/neb+rlb/2	0.11154	172	0.00000	0	35072	1542	1	100710	19926658
+AdV-1	rounda/tag/neb+rlb/2	0.09747	150	0.00000	0	35676	1539	1	100710	19926658
+HRV-1A	rounda/tag/neb+rlb/2	0.08917	28	0.00000	0	7096	314	1	100710	19926658
+Flu-A-H3N2	rounda/tag/neb+rlb/2	0.06045	35	0.00345	2	13290	579	1	100710	19926658
+Flu-A-H1N1-NY	rounda/tag/neb+rlb/2	0.05245	30	0.00000	0	13130	572	1	100710	19926658
+AdV-31	rounda/tag/neb+rlb/2	0.05238	77	0.00000	0	33755	1470	1	100710	19926658
+Flu-A-H1N1-NC	rounda/tag/neb+rlb/2	0.03130	18	0.00000	0	13292	575	1	100710	19926658
+HPIV-4	rounda/tag/neb+rlb/2	0.02313	17	0.00000	0	17132	735	1	100710	19926658
+Flu-B	rounda/tag/neb+rlb/2	0.01135	7	0.00000	0	14222	617	1	100710	19926658
+RSV-A	rounda/tag/neb+rlb/2	0.00779	5	0.00000	0	14855	642	1	100710	19926658
+HMPV	rounda/tag/neb+rlb/2	0.00707	4	0.00000	0	13149	566	1	100710	19926658
+HPIV-1	rounda/tag/neb+rlb/2	0.00000	0	0.00000	0	15412	679	0	100710	19926658
+SARS-CoV-2	rounda/tag/neb+rlb/2	0.00000	0	0.00000	0	29778	1316	0	100710	19926658
+HCoV-229E	rounda/tag/neb+rlb/2	0.00000	0	0.00000	0	26841	1163	0	100710	19926658
+TOTAL	rounda/tag/neb+rlb/2	0.05963	814	0.00015	2	0	13651	1	100710	19926658
+HPIV-3	rounda/tag/neb+rlb/neg	0.07601	51	0.00000	0	15382	671	1	1295	859726
+Flu-A-H3N2	rounda/tag/neb+rlb/neg	0.07254	42	0.00000	0	13290	579	2	1295	859726
+RSV-A	rounda/tag/neb+rlb/neg	0.04206	27	0.00000	0	14855	642	1	1295	859726
+HPIV-2	rounda/tag/neb+rlb/neg	0.03875	26	0.00000	0	15654	671	1	1295	859726
+AdV-3	rounda/tag/neb+rlb/neg	0.02335	36	0.00000	0	35072	1542	1	1295	859726
+HPIV-4	rounda/tag/neb+rlb/neg	0.01769	13	0.00000	0	17132	735	1	1295	859726
+HPIV-1	rounda/tag/neb+rlb/neg	0.01620	11	0.00000	0	15412	679	1	1295	859726
+AdV-31	rounda/tag/neb+rlb/neg	0.01156	17	0.00000	0	33755	1470	1	1295	859726
+Flu-A-H1N1-NC	rounda/tag/neb+rlb/neg	0.00522	3	0.00000	0	13292	575	1	1295	859726
+AdV-1	rounda/tag/neb+rlb/neg	0.00000	0	0.00000	0	35676	1539	0	1295	859726
+Flu-A-H1N1-NY	rounda/tag/neb+rlb/neg	0.00000	0	0.00000	0	13130	572	0	1295	859726
+Flu-B	rounda/tag/neb+rlb/neg	0.00000	0	0.00000	0	14222	617	0	1295	859726
+HMPV	rounda/tag/neb+rlb/neg	0.00000	0	0.00000	0	13149	566	0	1295	859726
+HRV-1A	rounda/tag/neb+rlb/neg	0.00000	0	0.00000	0	7096	314	0	1295	859726
+SARS-CoV-2	rounda/tag/neb+rlb/neg	0.00000	0	0.00000	0	29778	1316	0	1295	859726
+HCoV-229E	rounda/tag/neb+rlb/neg	0.00000	0	0.00000	0	26841	1163	0	1295	859726
+TOTAL	rounda/tag/neb+rlb/neg	0.01656	226	0.00000	0	0	13651	1	1295	859726
+HPIV-2	smart9n/full/neb/1	1.00000	671	0.99702	669	15654	671	243	633286	604963031
+AdV-3	smart9n/full/neb/1	0.99546	1535	0.99157	1529	35072	1542	633	633286	604963031
+HPIV-3	smart9n/full/neb/1	0.99404	667	0.99404	667	15382	671	262	633286	604963031
+HMPV	smart9n/full/neb/1	0.98410	557	0.97527	552	13149	566	121	633286	604963031
+HRV-1A	smart9n/full/neb/1	0.96815	304	0.96815	304	7096	314	250	633286	604963031
+Flu-B	smart9n/full/neb/1	0.95300	588	0.93193	575	14222	617	128	633286	604963031
+SARS-CoV-2	smart9n/full/neb/1	0.93921	1236	0.81383	1071	29778	1316	53	633286	604963031
+HCoV-229E	smart9n/full/neb/1	0.90112	1048	0.86071	1001	26841	1163	54	633286	604963031
+RSV-A	smart9n/full/neb/1	0.89408	574	0.71807	461	14855	642	42	633286	604963031
+Flu-A-H1N1-NC	smart9n/full/neb/1	0.88696	510	0.87304	502	13292	575	278	633286	604963031
+Flu-A-H1N1-NY	smart9n/full/neb/1	0.87587	501	0.82867	474	13130	572	200	633286	604963031
+AdV-1	smart9n/full/neb/1	0.86875	1337	0.82456	1269	35676	1539	240	633286	604963031
+HPIV-1	smart9n/full/neb/1	0.81591	554	0.71576	486	15412	679	75	633286	604963031
+Flu-A-H3N2	smart9n/full/neb/1	0.72712	421	0.67703	392	13290	579	200	633286	604963031
+AdV-31	smart9n/full/neb/1	0.60884	895	0.56259	827	33755	1470	440	633286	604963031
+HPIV-4	smart9n/full/neb/1	0.57959	426	0.40408	297	17132	735	18	633286	604963031
+TOTAL	smart9n/full/neb/1	0.86616	11824	0.81137	11076	0	13651	232	633286	604963031
+HPIV-2	smart9n/full/neb/2	1.00000	671	0.99702	669	15654	671	127	397974	361914651
+AdV-3	smart9n/full/neb/2	0.99481	1534	0.98638	1521	35072	1542	347	397974	361914651
+HPIV-3	smart9n/full/neb/2	0.99404	667	0.99404	667	15382	671	129	397974	361914651
+HMPV	smart9n/full/neb/2	0.98587	558	0.93993	532	13149	566	74	397974	361914651
+HRV-1A	smart9n/full/neb/2	0.97452	306	0.95541	300	7096	314	138	397974	361914651
+Flu-B	smart9n/full/neb/2	0.94976	586	0.91734	566	14222	617	60	397974	361914651
+SARS-CoV-2	smart9n/full/neb/2	0.93085	1225	0.71505	941	29778	1316	30	397974	361914651
+HCoV-229E	smart9n/full/neb/2	0.92089	1071	0.81169	944	26841	1163	39	397974	361914651
+Flu-A-H1N1-NC	smart9n/full/neb/2	0.90435	520	0.87652	504	13292	575	169	397974	361914651
+Flu-A-H1N1-NY	smart9n/full/neb/2	0.88112	504	0.84615	484	13130	572	106	397974	361914651
+AdV-1	smart9n/full/neb/2	0.86355	1329	0.82846	1275	35676	1539	158	397974	361914651
+RSV-A	smart9n/full/neb/2	0.80530	517	0.57477	369	14855	642	22	397974	361914651
+Flu-A-H3N2	smart9n/full/neb/2	0.80484	466	0.72712	421	13290	579	102	397974	361914651
+HPIV-1	smart9n/full/neb/2	0.78056	530	0.62592	425	15412	679	30	397974	361914651
+HPIV-4	smart9n/full/neb/2	0.71020	522	0.29388	216	17132	735	8	397974	361914651
+AdV-31	smart9n/full/neb/2	0.59864	880	0.51361	755	33755	1470	304	397974	361914651
+TOTAL	smart9n/full/neb/2	0.87071	11886	0.77569	10589	0	13651	136	397974	361914651
+HPIV-3	smart9n/full/neb/neg	0.72429	486	0.00000	0	15382	671	2	18635	9532418
+AdV-3	smart9n/full/neb/neg	0.62776	968	0.00649	10	35072	1542	2	18635	9532418
+HPIV-2	smart9n/full/neb/neg	0.56334	378	0.00000	0	15654	671	1	18635	9532418
+Flu-A-H1N1-NC	smart9n/full/neb/neg	0.44696	257	0.00000	0	13292	575	2	18635	9532418
+HMPV	smart9n/full/neb/neg	0.34806	197	0.00000	0	13149	566	1	18635	9532418
+AdV-31	smart9n/full/neb/neg	0.31224	459	0.00272	4	33755	1470	2	18635	9532418
+AdV-1	smart9n/full/neb/neg	0.23327	359	0.00130	2	35676	1539	1	18635	9532418
+Flu-A-H3N2	smart9n/full/neb/neg	0.22280	129	0.00173	1	13290	579	2	18635	9532418
+HRV-1A	smart9n/full/neb/neg	0.20701	65	0.00000	0	7096	314	2	18635	9532418
+Flu-A-H1N1-NY	smart9n/full/neb/neg	0.15385	88	0.00000	0	13130	572	2	18635	9532418
+HPIV-1	smart9n/full/neb/neg	0.14875	101	0.00000	0	15412	679	1	18635	9532418
+HCoV-229E	smart9n/full/neb/neg	0.13586	158	0.00000	0	26841	1163	2	18635	9532418
+SARS-CoV-2	smart9n/full/neb/neg	0.13450	177	0.00000	0	29778	1316	2	18635	9532418
+Flu-B	smart9n/full/neb/neg	0.12642	78	0.00000	0	14222	617	1	18635	9532418
+RSV-A	smart9n/full/neb/neg	0.11526	74	0.00000	0	14855	642	1	18635	9532418
+HPIV-4	smart9n/full/neb/neg	0.00816	6	0.00000	0	17132	735	4	18635	9532418
+TOTAL	smart9n/full/neb/neg	0.29155	3980	0.00117	16	0	13651	2	18635	9532418
+HPIV-3	smart9n/full/rlb/1	0.75708	508	0.00894	6	15382	671	2	8026	4065959
+AdV-3	smart9n/full/rlb/1	0.74189	1144	0.00130	2	35072	1542	2	8026	4065959
+HPIV-2	smart9n/full/rlb/1	0.66915	449	0.00000	0	15654	671	2	8026	4065959
+Flu-B	smart9n/full/rlb/1	0.40357	249	0.00000	0	14222	617	2	8026	4065959
+AdV-1	smart9n/full/rlb/1	0.38661	595	0.00390	6	35676	1539	2	8026	4065959
+Flu-A-H3N2	smart9n/full/rlb/1	0.36615	212	0.00173	1	13290	579	2	8026	4065959
+Flu-A-H1N1-NC	smart9n/full/rlb/1	0.36348	209	0.00000	0	13292	575	2	8026	4065959
+RSV-A	smart9n/full/rlb/1	0.32710	210	0.00000	0	14855	642	2	8026	4065959
+AdV-31	smart9n/full/rlb/1	0.31224	459	0.00000	0	33755	1470	2	8026	4065959
+Flu-A-H1N1-NY	smart9n/full/rlb/1	0.27797	159	0.00000	0	13130	572	1	8026	4065959
+HMPV	smart9n/full/rlb/1	0.25972	147	0.00000	0	13149	566	1	8026	4065959
+HRV-1A	smart9n/full/rlb/1	0.22293	70	0.00000	0	7096	314	1	8026	4065959
+HPIV-1	smart9n/full/rlb/1	0.21502	146	0.00000	0	15412	679	2	8026	4065959
+SARS-CoV-2	smart9n/full/rlb/1	0.21125	278	0.00000	0	29778	1316	1	8026	4065959
+HCoV-229E	smart9n/full/rlb/1	0.08684	101	0.00000	0	26841	1163	1	8026	4065959
+HPIV-4	smart9n/full/rlb/1	0.05714	42	0.00000	0	17132	735	1	8026	4065959
+TOTAL	smart9n/full/rlb/1	0.36466	4978	0.00110	15	0	13651	2	8026	4065959
+AdV-3	smart9n/full/rlb/2	0.72633	1120	0.00195	3	35072	1542	2	9253	4344166
+HPIV-3	smart9n/full/rlb/2	0.62146	417	0.00000	0	15382	671	2	9253	4344166
+HPIV-2	smart9n/full/rlb/2	0.60358	405	0.00298	2	15654	671	2	9253	4344166
+HRV-1A	smart9n/full/rlb/2	0.49045	154	0.00000	0	7096	314	2	9253	4344166
+AdV-1	smart9n/full/rlb/2	0.34113	525	0.00390	6	35676	1539	2	9253	4344166
+AdV-31	smart9n/full/rlb/2	0.28571	420	0.00204	3	33755	1470	2	9253	4344166
+Flu-A-H3N2	smart9n/full/rlb/2	0.28325	164	0.00000	0	13290	579	1	9253	4344166
+Flu-A-H1N1-NY	smart9n/full/rlb/2	0.28322	162	0.00000	0	13130	572	1	9253	4344166
+Flu-A-H1N1-NC	smart9n/full/rlb/2	0.24870	143	0.00000	0	13292	575	1	9253	4344166
+HMPV	smart9n/full/rlb/2	0.24382	138	0.00000	0	13149	566	1	9253	4344166
+Flu-B	smart9n/full/rlb/2	0.18476	114	0.00000	0	14222	617	1	9253	4344166
+HPIV-1	smart9n/full/rlb/2	0.13255	90	0.00000	0	15412	679	1	9253	4344166
+HCoV-229E	smart9n/full/rlb/2	0.12124	141	0.00000	0	26841	1163	1	9253	4344166
+HPIV-4	smart9n/full/rlb/2	0.08435	62	0.00000	0	17132	735	1	9253	4344166
+RSV-A	smart9n/full/rlb/2	0.06854	44	0.00000	0	14855	642	2	9253	4344166
+SARS-CoV-2	smart9n/full/rlb/2	0.04255	56	0.00000	0	29778	1316	1	9253	4344166
+TOTAL	smart9n/full/rlb/2	0.30437	4155	0.00103	14	0	13651	2	9253	4344166
+AdV-3	smart9n/full/rlb/neg	0.56031	864	0.00000	0	35072	1542	2	5034	2645851
+HPIV-3	smart9n/full/rlb/neg	0.48435	325	0.00000	0	15382	671	1	5034	2645851
+HPIV-2	smart9n/full/rlb/neg	0.41878	281	0.00000	0	15654	671	1	5034	2645851
+HRV-1A	smart9n/full/rlb/neg	0.41083	129	0.00000	0	7096	314	1	5034	2645851
+AdV-1	smart9n/full/rlb/neg	0.29240	450	0.00000	0	35676	1539	1	5034	2645851
+AdV-31	smart9n/full/rlb/neg	0.28980	426	0.00000	0	33755	1470	2	5034	2645851
+Flu-A-H1N1-NC	smart9n/full/rlb/neg	0.21391	123	0.00000	0	13292	575	1	5034	2645851
+Flu-A-H3N2	smart9n/full/rlb/neg	0.20553	119	0.00000	0	13290	579	1	5034	2645851
+HMPV	smart9n/full/rlb/neg	0.20495	116	0.00000	0	13149	566	1	5034	2645851
+Flu-A-H1N1-NY	smart9n/full/rlb/neg	0.19580	112	0.00000	0	13130	572	1	5034	2645851
+SARS-CoV-2	smart9n/full/rlb/neg	0.17629	232	0.00000	0	29778	1316	1	5034	2645851
+RSV-A	smart9n/full/rlb/neg	0.12461	80	0.00000	0	14855	642	2	5034	2645851
+HPIV-1	smart9n/full/rlb/neg	0.12371	84	0.00000	0	15412	679	1	5034	2645851
+HCoV-229E	smart9n/full/rlb/neg	0.08255	96	0.00000	0	26841	1163	1	5034	2645851
+Flu-B	smart9n/full/rlb/neg	0.07780	48	0.00000	0	14222	617	1	5034	2645851
+HPIV-4	smart9n/full/rlb/neg	0.07755	57	0.00000	0	17132	735	2	5034	2645851
+TOTAL	smart9n/full/rlb/neg	0.25947	3542	0.00000	0	0	13651	1	5034	2645851
+HPIV-2	smart9n/full/neb+rlb/1	0.99106	665	0.62295	418	15654	671	11	48810	35800470
+HPIV-3	smart9n/full/neb+rlb/1	0.98510	661	0.40984	275	15382	671	8	48810	35800470
+AdV-3	smart9n/full/neb+rlb/1	0.98314	1516	0.78405	1209	35072	1542	22	48810	35800470
+HMPV	smart9n/full/neb+rlb/1	0.96996	549	0.31625	179	13149	566	7	48810	35800470
+HRV-1A	smart9n/full/neb+rlb/1	0.95860	301	0.46178	145	7096	314	9	48810	35800470
+Flu-B	smart9n/full/neb+rlb/1	0.89303	551	0.10535	65	14222	617	4	48810	35800470
+Flu-A-H1N1-NC	smart9n/full/neb+rlb/1	0.81217	467	0.40000	230	13292	575	9	48810	35800470
+AdV-1	smart9n/full/neb+rlb/1	0.78363	1206	0.40806	628	35676	1539	10	48810	35800470
+Flu-A-H1N1-NY	smart9n/full/neb+rlb/1	0.75699	433	0.23252	133	13130	572	6	48810	35800470
+SARS-CoV-2	smart9n/full/neb+rlb/1	0.68921	907	0.00760	10	29778	1316	2	48810	35800470
+RSV-A	smart9n/full/neb+rlb/1	0.67445	433	0.12461	80	14855	642	4	48810	35800470
+Flu-A-H3N2	smart9n/full/neb+rlb/1	0.61313	355	0.31952	185	13290	579	10	48810	35800470
+HCoV-229E	smart9n/full/neb+rlb/1	0.57954	674	0.01118	13	26841	1163	2	48810	35800470
+HPIV-1	smart9n/full/neb+rlb/1	0.54639	371	0.05744	39	15412	679	3	48810	35800470
+AdV-31	smart9n/full/neb+rlb/1	0.53401	785	0.35510	522	33755	1470	17	48810	35800470
+HPIV-4	smart9n/full/neb+rlb/1	0.32925	242	0.00816	6	17132	735	1	48810	35800470
+TOTAL	smart9n/full/neb+rlb/1	0.74104	10116	0.30305	4137	0	13651	9	48810	35800470
+HPIV-2	smart9n/full/neb+rlb/2	0.99106	665	0.46051	309	15654	671	9	39465	32506854
+HPIV-3	smart9n/full/neb+rlb/2	0.97765	656	0.43517	292	15382	671	9	39465	32506854
+AdV-3	smart9n/full/neb+rlb/2	0.96952	1495	0.77497	1195	35072	1542	21	39465	32506854
+HRV-1A	smart9n/full/neb+rlb/2	0.92038	289	0.56688	178	7096	314	11	39465	32506854
+HMPV	smart9n/full/neb+rlb/2	0.86396	489	0.14488	82	13149	566	5	39465	32506854
+Flu-B	smart9n/full/neb+rlb/2	0.85413	527	0.15397	95	14222	617	5	39465	32506854
+Flu-A-H1N1-NC	smart9n/full/neb+rlb/2	0.80696	464	0.51652	297	13292	575	13	39465	32506854
+AdV-1	smart9n/full/neb+rlb/2	0.77063	1186	0.39181	603	35676	1539	10	39465	32506854
+RSV-A	smart9n/full/neb+rlb/2	0.72741	467	0.07632	49	14855	642	3	39465	32506854
+Flu-A-H1N1-NY	smart9n/full/neb+rlb/2	0.71853	411	0.30944	177	13130	572	8	39465	32506854
+HCoV-229E	smart9n/full/neb+rlb/2	0.69390	807	0.01118	13	26841	1163	2	39465	32506854
+SARS-CoV-2	smart9n/full/neb+rlb/2	0.64818	853	0.00076	1	29778	1316	2	39465	32506854
+Flu-A-H3N2	smart9n/full/neb+rlb/2	0.60449	350	0.33851	196	13290	579	11	39465	32506854
+AdV-31	smart9n/full/neb+rlb/2	0.56259	827	0.36939	543	33755	1470	17	39465	32506854
+HPIV-1	smart9n/full/neb+rlb/2	0.51988	353	0.05302	36	15412	679	2	39465	32506854
+HPIV-4	smart9n/full/neb+rlb/2	0.23537	173	0.00816	6	17132	735	2	39465	32506854
+TOTAL	smart9n/full/neb+rlb/2	0.73343	10012	0.29829	4072	0	13651	9	39465	32506854
+HPIV-2	smart9n/tag/neb/1	0.99851	670	0.99851	670	15654	671	461	928896	1000249220
+AdV-3	smart9n/tag/neb/1	0.99546	1535	0.98703	1522	35072	1542	1193	928896	1000249220
+HPIV-3	smart9n/tag/neb/1	0.99404	667	0.99404	667	15382	671	478	928896	1000249220
+HMPV	smart9n/tag/neb/1	0.97527	552	0.96643	547	13149	566	249	928896	1000249220
+HRV-1A	smart9n/tag/neb/1	0.96815	304	0.94904	298	7096	314	374	928896	1000249220
+Flu-B	smart9n/tag/neb/1	0.95138	587	0.93355	576	14222	617	188	928896	1000249220
+SARS-CoV-2	smart9n/tag/neb/1	0.92553	1218	0.80927	1065	29778	1316	70	928896	1000249220
+HCoV-229E	smart9n/tag/neb/1	0.92089	1071	0.80138	932	26841	1163	84	928896	1000249220
+Flu-A-H1N1-NC	smart9n/tag/neb/1	0.88696	510	0.82087	472	13292	575	502	928896	1000249220
+RSV-A	smart9n/tag/neb/1	0.88318	567	0.71028	456	14855	642	66	928896	1000249220
+AdV-1	smart9n/tag/neb/1	0.86030	1324	0.81546	1255	35676	1539	417	928896	1000249220
+Flu-A-H1N1-NY	smart9n/tag/neb/1	0.81643	467	0.76399	437	13130	572	373	928896	1000249220
+HPIV-1	smart9n/tag/neb/1	0.80707	548	0.75258	511	15412	679	113	928896	1000249220
+Flu-A-H3N2	smart9n/tag/neb/1	0.73402	425	0.66839	387	13290	579	412	928896	1000249220
+HPIV-4	smart9n/tag/neb/1	0.67211	494	0.43810	322	17132	735	34	928896	1000249220
+AdV-31	smart9n/tag/neb/1	0.65102	957	0.57347	843	33755	1470	648	928896	1000249220
+TOTAL	smart9n/tag/neb/1	0.87144	11896	0.80287	10960	0	13651	404	928896	1000249220
+HPIV-2	smart9n/tag/neb/2	1.00000	671	1.00000	671	15654	671	282	502500	506132521
+AdV-3	smart9n/tag/neb/2	0.99546	1535	0.98898	1525	35072	1542	508	502500	506132521
+HPIV-3	smart9n/tag/neb/2	0.99404	667	0.99404	667	15382	671	250	502500	506132521
+HMPV	smart9n/tag/neb/2	0.97527	552	0.96466	546	13149	566	97	502500	506132521
+Flu-B	smart9n/tag/neb/2	0.95786	591	0.94165	581	14222	617	122	502500	506132521
+HRV-1A	smart9n/tag/neb/2	0.93631	294	0.93312	293	7096	314	222	502500	506132521
+RSV-A	smart9n/tag/neb/2	0.93614	601	0.80062	514	14855	642	55	502500	506132521
+Flu-A-H1N1-NC	smart9n/tag/neb/2	0.92522	532	0.90783	522	13292	575	230	502500	506132521
+SARS-CoV-2	smart9n/tag/neb/2	0.92401	1216	0.82067	1080	29778	1316	44	502500	506132521
+HCoV-229E	smart9n/tag/neb/2	0.89682	1043	0.75150	874	26841	1163	49	502500	506132521
+AdV-1	smart9n/tag/neb/2	0.85705	1319	0.80767	1243	35676	1539	211	502500	506132521
+Flu-A-H1N1-NY	smart9n/tag/neb/2	0.81993	469	0.78846	451	13130	572	176	502500	506132521
+HPIV-1	smart9n/tag/neb/2	0.79529	540	0.77614	527	15412	679	66	502500	506132521
+HPIV-4	smart9n/tag/neb/2	0.74558	548	0.64762	476	17132	735	32	502500	506132521
+Flu-A-H3N2	smart9n/tag/neb/2	0.69603	403	0.67185	389	13290	579	212	502500	506132521
+AdV-31	smart9n/tag/neb/2	0.65714	966	0.56939	837	33755	1470	351	502500	506132521
+TOTAL	smart9n/tag/neb/2	0.87517	11947	0.82016	11196	0	13651	202	502500	506132521
+HPIV-2	smart9n/tag/rlb/1	0.58122	390	0.00000	0	15654	671	2	7568	3481094
+AdV-3	smart9n/tag/rlb/1	0.57069	880	0.00000	0	35072	1542	2	7568	3481094
+HPIV-3	smart9n/tag/rlb/1	0.44262	297	0.00000	0	15382	671	1	7568	3481094
+AdV-1	smart9n/tag/rlb/1	0.34698	534	0.00000	0	35676	1539	1	7568	3481094
+Flu-A-H1N1-NC	smart9n/tag/rlb/1	0.33913	195	0.00000	0	13292	575	2	7568	3481094
+HMPV	smart9n/tag/rlb/1	0.31979	181	0.00000	0	13149	566	1	7568	3481094
+AdV-31	smart9n/tag/rlb/1	0.28435	418	0.00000	0	33755	1470	2	7568	3481094
+Flu-A-H1N1-NY	smart9n/tag/rlb/1	0.27273	156	0.00000	0	13130	572	1	7568	3481094
+Flu-A-H3N2	smart9n/tag/rlb/1	0.26425	153	0.00000	0	13290	579	1	7568	3481094
+HPIV-1	smart9n/tag/rlb/1	0.22828	155	0.00000	0	15412	679	1	7568	3481094
+SARS-CoV-2	smart9n/tag/rlb/1	0.19833	261	0.00000	0	29778	1316	1	7568	3481094
+Flu-B	smart9n/tag/rlb/1	0.15883	98	0.00000	0	14222	617	1	7568	3481094
+HRV-1A	smart9n/tag/rlb/1	0.14013	44	0.00000	0	7096	314	1	7568	3481094
+RSV-A	smart9n/tag/rlb/1	0.05296	34	0.00000	0	14855	642	1	7568	3481094
+HCoV-229E	smart9n/tag/rlb/1	0.04557	53	0.00000	0	26841	1163	1	7568	3481094
+HPIV-4	smart9n/tag/rlb/1	0.00952	7	0.00000	0	17132	735	3	7568	3481094
+TOTAL	smart9n/tag/rlb/1	0.28247	3856	0.00000	0	0	13651	1	7568	3481094
+AdV-3	smart9n/tag/rlb/2	0.61673	951	0.00065	1	35072	1542	2	8721	4494204
+HPIV-3	smart9n/tag/rlb/2	0.60060	403	0.00000	0	15382	671	1	8721	4494204
+HPIV-2	smart9n/tag/rlb/2	0.48733	327	0.00000	0	15654	671	1	8721	4494204
+HMPV	smart9n/tag/rlb/2	0.40813	231	0.00000	0	13149	566	1	8721	4494204
+HRV-1A	smart9n/tag/rlb/2	0.40764	128	0.00000	0	7096	314	1	8721	4494204
+HPIV-1	smart9n/tag/rlb/2	0.34168	232	0.00000	0	15412	679	1	8721	4494204
+Flu-A-H1N1-NC	smart9n/tag/rlb/2	0.32870	189	0.00000	0	13292	575	2	8721	4494204
+AdV-1	smart9n/tag/rlb/2	0.31774	489	0.00000	0	35676	1539	1	8721	4494204
+Flu-A-H1N1-NY	smart9n/tag/rlb/2	0.25524	146	0.00000	0	13130	572	1	8721	4494204
+Flu-A-H3N2	smart9n/tag/rlb/2	0.25216	146	0.00173	1	13290	579	2	8721	4494204
+AdV-31	smart9n/tag/rlb/2	0.24830	365	0.00000	0	33755	1470	1	8721	4494204
+RSV-A	smart9n/tag/rlb/2	0.21651	139	0.00000	0	14855	642	1	8721	4494204
+SARS-CoV-2	smart9n/tag/rlb/2	0.14894	196	0.00000	0	29778	1316	1	8721	4494204
+HPIV-4	smart9n/tag/rlb/2	0.13333	98	0.00000	0	17132	735	1	8721	4494204
+HCoV-229E	smart9n/tag/rlb/2	0.10404	121	0.00000	0	26841	1163	1	8721	4494204
+Flu-B	smart9n/tag/rlb/2	0.03241	20	0.00000	0	14222	617	2	8721	4494204
+TOTAL	smart9n/tag/rlb/2	0.30628	4181	0.00015	2	0	13651	1	8721	4494204
+HPIV-2	smart9n/tag/neb+rlb/1	0.87779	589	0.03130	21	15654	671	3	32827	14502125
+HPIV-3	smart9n/tag/neb+rlb/1	0.86885	583	0.00596	4	15382	671	2	32827	14502125
+AdV-3	smart9n/tag/neb+rlb/1	0.73671	1136	0.03632	56	35072	1542	4	32827	14502125
+HRV-1A	smart9n/tag/neb+rlb/1	0.62420	196	0.00000	0	7096	314	2	32827	14502125
+Flu-A-H1N1-NC	smart9n/tag/neb+rlb/1	0.53391	307	0.00870	5	13292	575	2	32827	14502125
+AdV-1	smart9n/tag/neb+rlb/1	0.46069	709	0.00130	2	35676	1539	2	32827	14502125
+AdV-31	smart9n/tag/neb+rlb/1	0.45510	669	0.01769	26	33755	1470	3	32827	14502125
+Flu-A-H1N1-NY	smart9n/tag/neb+rlb/1	0.38811	222	0.00175	1	13130	572	2	32827	14502125
+HCoV-229E	smart9n/tag/neb+rlb/1	0.38005	442	0.00000	0	26841	1163	1	32827	14502125
+HMPV	smart9n/tag/neb+rlb/1	0.35866	203	0.00000	0	13149	566	2	32827	14502125
+Flu-B	smart9n/tag/neb+rlb/1	0.35170	217	0.00000	0	14222	617	1	32827	14502125
+Flu-A-H3N2	smart9n/tag/neb+rlb/1	0.30570	177	0.00173	1	13290	579	2	32827	14502125
+RSV-A	smart9n/tag/neb+rlb/1	0.25545	164	0.00312	2	14855	642	2	32827	14502125
+HPIV-1	smart9n/tag/neb+rlb/1	0.21944	149	0.00000	0	15412	679	1	32827	14502125
+HPIV-4	smart9n/tag/neb+rlb/1	0.07891	58	0.00000	0	17132	735	1	32827	14502125
+SARS-CoV-2	smart9n/tag/neb+rlb/1	0.07827	103	0.00000	0	29778	1316	1	32827	14502125
+TOTAL	smart9n/tag/neb+rlb/1	0.43396	5924	0.00864	118	0	13651	2	32827	14502125
+AdV-3	smart9n/tag/neb+rlb/2	0.52529	810	0.00195	3	35072	1542	2	19023	7690221
+HPIV-2	smart9n/tag/neb+rlb/2	0.50224	337	0.00447	3	15654	671	2	19023	7690221
+HPIV-3	smart9n/tag/neb+rlb/2	0.49925	335	0.00000	0	15382	671	2	19023	7690221
+Flu-A-H1N1-NC	smart9n/tag/neb+rlb/2	0.40000	230	0.00000	0	13292	575	1	19023	7690221
+HRV-1A	smart9n/tag/neb+rlb/2	0.36624	115	0.00000	0	7096	314	1	19023	7690221
+AdV-31	smart9n/tag/neb+rlb/2	0.27007	397	0.00204	3	33755	1470	2	19023	7690221
+AdV-1	smart9n/tag/neb+rlb/2	0.26576	409	0.00000	0	35676	1539	1	19023	7690221
+Flu-A-H1N1-NY	smart9n/tag/neb+rlb/2	0.25874	148	0.00000	0	13130	572	1	19023	7690221
+SARS-CoV-2	smart9n/tag/neb+rlb/2	0.22644	298	0.00000	0	29778	1316	1	19023	7690221
+Flu-A-H3N2	smart9n/tag/neb+rlb/2	0.21934	127	0.00173	1	13290	579	1	19023	7690221
+Flu-B	smart9n/tag/neb+rlb/2	0.15883	98	0.00000	0	14222	617	1	19023	7690221
+HPIV-1	smart9n/tag/neb+rlb/2	0.15758	107	0.00000	0	15412	679	1	19023	7690221
+HCoV-229E	smart9n/tag/neb+rlb/2	0.15305	178	0.00000	0	26841	1163	1	19023	7690221
+HMPV	smart9n/tag/neb+rlb/2	0.11131	63	0.00000	0	13149	566	1	19023	7690221
+RSV-A	smart9n/tag/neb+rlb/2	0.10436	67	0.00000	0	14855	642	1	19023	7690221
+HPIV-4	smart9n/tag/neb+rlb/2	0.00816	6	0.00000	0	17132	735	4	19023	7690221
+TOTAL	smart9n/tag/neb+rlb/2	0.27287	3725	0.00073	10	0	13651	1	19023	7690221
+HPIV-2	smart9n/full+tag/neb/1	1.00000	671	1.00000	671	15654	671	309	535414	585162508
+AdV-3	smart9n/full+tag/neb/1	0.99611	1536	0.98638	1521	35072	1542	671	535414	585162508
+HPIV-3	smart9n/full+tag/neb/1	0.99404	667	0.99404	667	15382	671	251	535414	585162508
+HMPV	smart9n/full+tag/neb/1	0.98057	555	0.97880	554	13149	566	120	535414	585162508
+HRV-1A	smart9n/full+tag/neb/1	0.97771	307	0.96178	302	7096	314	268	535414	585162508
+SARS-CoV-2	smart9n/full+tag/neb/1	0.96505	1270	0.87766	1155	29778	1316	50	535414	585162508
+Flu-B	smart9n/full+tag/neb/1	0.95300	588	0.91734	566	14222	617	104	535414	585162508
+RSV-A	smart9n/full+tag/neb/1	0.90966	584	0.83489	536	14855	642	41	535414	585162508
+Flu-A-H1N1-NC	smart9n/full+tag/neb/1	0.90783	522	0.79652	458	13292	575	310	535414	585162508
+HCoV-229E	smart9n/full+tag/neb/1	0.90714	1055	0.82287	957	26841	1163	58	535414	585162508
+Flu-A-H1N1-NY	smart9n/full+tag/neb/1	0.88112	504	0.84266	482	13130	572	208	535414	585162508
+AdV-1	smart9n/full+tag/neb/1	0.85835	1321	0.80247	1235	35676	1539	260	535414	585162508
+HPIV-1	smart9n/full+tag/neb/1	0.80707	548	0.78498	533	15412	679	83	535414	585162508
+Flu-A-H3N2	smart9n/full+tag/neb/1	0.79965	463	0.60967	353	13290	579	147	535414	585162508
+AdV-31	smart9n/full+tag/neb/1	0.61565	905	0.54014	794	33755	1470	427	535414	585162508
+HPIV-4	smart9n/full+tag/neb/1	0.57687	424	0.36599	269	17132	735	20	535414	585162508
+TOTAL	smart9n/full+tag/neb/1	0.87320	11920	0.80968	11053	0	13651	239	535414	585162508
+HPIV-2	smart9n/full+tag/neb/2	1.00000	671	1.00000	671	15654	671	603	996820	1000170431
+AdV-3	smart9n/full+tag/neb/2	0.99611	1536	0.99287	1531	35072	1542	1138	996820	1000170431
+HPIV-3	smart9n/full+tag/neb/2	0.99404	667	0.99404	667	15382	671	429	996820	1000170431
+HMPV	smart9n/full+tag/neb/2	0.98587	558	0.97880	554	13149	566	230	996820	1000170431
+HRV-1A	smart9n/full+tag/neb/2	0.97452	306	0.97452	306	7096	314	434	996820	1000170431
+SARS-CoV-2	smart9n/full+tag/neb/2	0.96960	1276	0.91413	1203	29778	1316	84	996820	1000170431
+Flu-B	smart9n/full+tag/neb/2	0.95462	589	0.94327	582	14222	617	189	996820	1000170431
+Flu-A-H1N1-NC	smart9n/full+tag/neb/2	0.93043	535	0.90087	518	13292	575	478	996820	1000170431
+RSV-A	smart9n/full+tag/neb/2	0.92056	591	0.86137	553	14855	642	58	996820	1000170431
+HCoV-229E	smart9n/full+tag/neb/2	0.91316	1062	0.89940	1046	26841	1163	119	996820	1000170431
+Flu-A-H1N1-NY	smart9n/full+tag/neb/2	0.87063	498	0.84615	484	13130	572	326	996820	1000170431
+AdV-1	smart9n/full+tag/neb/2	0.84081	1294	0.79337	1221	35676	1539	504	996820	1000170431
+HPIV-1	smart9n/full+tag/neb/2	0.81296	552	0.72459	492	15412	679	107	996820	1000170431
+Flu-A-H3N2	smart9n/full+tag/neb/2	0.78584	455	0.73230	424	13290	579	390	996820	1000170431
+HPIV-4	smart9n/full+tag/neb/2	0.73741	542	0.59456	437	17132	735	32	996820	1000170431
+AdV-31	smart9n/full+tag/neb/2	0.66327	975	0.60068	883	33755	1470	750	996820	1000170431
+TOTAL	smart9n/full+tag/neb/2	0.88689	12107	0.84763	11571	0	13651	423	996820	1000170431
+HPIV-2	smart9n/full+tag/rlb/1	0.66617	447	0.00596	4	15654	671	2	13374	5425266
+AdV-3	smart9n/full+tag/rlb/1	0.66213	1021	0.00195	3	35072	1542	2	13374	5425266
+HRV-1A	smart9n/full+tag/rlb/1	0.55414	174	0.00000	0	7096	314	1	13374	5425266
+HPIV-3	smart9n/full+tag/rlb/1	0.51267	344	0.00000	0	15382	671	2	13374	5425266
+Flu-A-H1N1-NC	smart9n/full+tag/rlb/1	0.32000	184	0.00000	0	13292	575	2	13374	5425266
+AdV-1	smart9n/full+tag/rlb/1	0.30214	465	0.00000	0	35676	1539	1	13374	5425266
+AdV-31	smart9n/full+tag/rlb/1	0.29660	436	0.00136	2	33755	1470	2	13374	5425266
+Flu-A-H3N2	smart9n/full+tag/rlb/1	0.29534	171	0.00173	1	13290	579	2	13374	5425266
+RSV-A	smart9n/full+tag/rlb/1	0.24143	155	0.00156	1	14855	642	2	13374	5425266
+Flu-B	smart9n/full+tag/rlb/1	0.23339	144	0.00000	0	14222	617	2	13374	5425266
+HPIV-1	smart9n/full+tag/rlb/1	0.21797	148	0.00000	0	15412	679	1	13374	5425266
+Flu-A-H1N1-NY	smart9n/full+tag/rlb/1	0.16783	96	0.00000	0	13130	572	2	13374	5425266
+SARS-CoV-2	smart9n/full+tag/rlb/1	0.15805	208	0.00000	0	29778	1316	1	13374	5425266
+HCoV-229E	smart9n/full+tag/rlb/1	0.11092	129	0.00000	0	26841	1163	1	13374	5425266
+HMPV	smart9n/full+tag/rlb/1	0.08481	48	0.00000	0	13149	566	1	13374	5425266
+HPIV-4	smart9n/full+tag/rlb/1	0.06667	49	0.00000	0	17132	735	1	13374	5425266
+TOTAL	smart9n/full+tag/rlb/1	0.30906	4219	0.00073	10	0	13651	2	13374	5425266
+HPIV-2	smart9n/full+tag/rlb/2	0.84948	570	0.00000	0	15654	671	2	18294	7817369
+AdV-3	smart9n/full+tag/rlb/2	0.80674	1244	0.02464	38	35072	1542	3	18294	7817369
+HPIV-3	smart9n/full+tag/rlb/2	0.66319	445	0.00000	0	15382	671	2	18294	7817369
+HRV-1A	smart9n/full+tag/rlb/2	0.51911	163	0.00000	0	7096	314	2	18294	7817369
+Flu-A-H1N1-NC	smart9n/full+tag/rlb/2	0.47304	272	0.00000	0	13292	575	2	18294	7817369
+AdV-1	smart9n/full+tag/rlb/2	0.45354	698	0.00325	5	35676	1539	2	18294	7817369
+AdV-31	smart9n/full+tag/rlb/2	0.40340	593	0.02313	34	33755	1470	2	18294	7817369
+HMPV	smart9n/full+tag/rlb/2	0.34276	194	0.00000	0	13149	566	2	18294	7817369
+HPIV-1	smart9n/full+tag/rlb/2	0.32842	223	0.00000	0	15412	679	1	18294	7817369
+Flu-A-H3N2	smart9n/full+tag/rlb/2	0.31434	182	0.00173	1	13290	579	2	18294	7817369
+Flu-A-H1N1-NY	smart9n/full+tag/rlb/2	0.31294	179	0.00000	0	13130	572	1	18294	7817369
+HCoV-229E	smart9n/full+tag/rlb/2	0.19862	231	0.00000	0	26841	1163	1	18294	7817369
+SARS-CoV-2	smart9n/full+tag/rlb/2	0.18617	245	0.00000	0	29778	1316	1	18294	7817369
+RSV-A	smart9n/full+tag/rlb/2	0.17445	112	0.00000	0	14855	642	1	18294	7817369
+Flu-B	smart9n/full+tag/rlb/2	0.14100	87	0.00000	0	14222	617	1	18294	7817369
+HPIV-4	smart9n/full+tag/rlb/2	0.09524	70	0.00000	0	17132	735	1	18294	7817369
+TOTAL	smart9n/full+tag/rlb/2	0.40349	5508	0.00571	78	0	13651	2	18294	7817369
+HPIV-3	smart9n/full+tag/neb+rlb/1	0.78390	526	0.00000	0	15382	671	2	37957	15902900
+AdV-3	smart9n/full+tag/neb+rlb/1	0.69844	1077	0.01362	21	35072	1542	3	37957	15902900
+Flu-A-H1N1-NC	smart9n/full+tag/neb+rlb/1	0.57391	330	0.00174	1	13292	575	1	37957	15902900
+HRV-1A	smart9n/full+tag/neb+rlb/1	0.57006	179	0.00000	0	7096	314	2	37957	15902900
+HPIV-2	smart9n/full+tag/neb+rlb/1	0.54098	363	0.00000	0	15654	671	2	37957	15902900
+AdV-1	smart9n/full+tag/neb+rlb/1	0.39766	612	0.00130	2	35676	1539	2	37957	15902900
+HMPV	smart9n/full+tag/neb+rlb/1	0.38339	217	0.00000	0	13149	566	1	37957	15902900
+AdV-31	smart9n/full+tag/neb+rlb/1	0.36735	540	0.00136	2	33755	1470	2	37957	15902900
+Flu-A-H1N1-NY	smart9n/full+tag/neb+rlb/1	0.36364	208	0.00000	0	13130	572	1	37957	15902900
+Flu-A-H3N2	smart9n/full+tag/neb+rlb/1	0.30743	178	0.00345	2	13290	579	2	37957	15902900
+Flu-B	smart9n/full+tag/neb+rlb/1	0.23015	142	0.00000	0	14222	617	1	37957	15902900
+RSV-A	smart9n/full+tag/neb+rlb/1	0.22897	147	0.00000	0	14855	642	1	37957	15902900
+HPIV-1	smart9n/full+tag/neb+rlb/1	0.19882	135	0.00000	0	15412	679	2	37957	15902900
+HCoV-229E	smart9n/full+tag/neb+rlb/1	0.16423	191	0.00000	0	26841	1163	1	37957	15902900
+SARS-CoV-2	smart9n/full+tag/neb+rlb/1	0.14590	192	0.00000	0	29778	1316	1	37957	15902900
+HPIV-4	smart9n/full+tag/neb+rlb/1	0.14014	103	0.00000	0	17132	735	1	37957	15902900
+TOTAL	smart9n/full+tag/neb+rlb/1	0.37653	5140	0.00198	27	0	13651	2	37957	15902900
+HPIV-3	smart9n/full+tag/neb+rlb/2	0.79881	536	0.00000	0	15382	671	2	52051	20928365
+AdV-3	smart9n/full+tag/neb+rlb/2	0.79702	1229	0.04540	70	35072	1542	3	52051	20928365
+HPIV-2	smart9n/full+tag/neb+rlb/2	0.77645	521	0.01788	12	15654	671	2	52051	20928365
+Flu-A-H1N1-NC	smart9n/full+tag/neb+rlb/2	0.50261	289	0.02087	12	13292	575	3	52051	20928365
+HRV-1A	smart9n/full+tag/neb+rlb/2	0.43631	137	0.00000	0	7096	314	2	52051	20928365
+AdV-1	smart9n/full+tag/neb+rlb/2	0.43145	664	0.00715	11	35676	1539	2	52051	20928365
+AdV-31	smart9n/full+tag/neb+rlb/2	0.41293	607	0.00952	14	33755	1470	2	52051	20928365
+HMPV	smart9n/full+tag/neb+rlb/2	0.38869	220	0.00000	0	13149	566	1	52051	20928365
+Flu-B	smart9n/full+tag/neb+rlb/2	0.36305	224	0.00000	0	14222	617	1	52051	20928365
+RSV-A	smart9n/full+tag/neb+rlb/2	0.32243	207	0.00156	1	14855	642	1	52051	20928365
+HPIV-1	smart9n/full+tag/neb+rlb/2	0.30928	210	0.00000	0	15412	679	1	52051	20928365
+SARS-CoV-2	smart9n/full+tag/neb+rlb/2	0.29787	392	0.00000	0	29778	1316	1	52051	20928365
+Flu-A-H3N2	smart9n/full+tag/neb+rlb/2	0.29534	171	0.01900	11	13290	579	2	52051	20928365
+Flu-A-H1N1-NY	smart9n/full+tag/neb+rlb/2	0.27273	156	0.00350	2	13130	572	1	52051	20928365
+HCoV-229E	smart9n/full+tag/neb+rlb/2	0.17799	207	0.00000	0	26841	1163	1	52051	20928365
+HPIV-4	smart9n/full+tag/neb+rlb/2	0.17007	125	0.00136	1	17132	735	1	52051	20928365
+TOTAL	smart9n/full+tag/neb+rlb/2	0.43184	5895	0.00974	133	0	13651	2	52051	20928365
+HPIV-2	roundaspike/full/neb/1	0.99255	666	0.99255	666	15654	671	1098	1622144	1000169361
+HPIV-3	roundaspike/full/neb/1	0.91952	617	0.80626	541	15382	671	694	1622144	1000169361
+HPIV-1	roundaspike/full/neb/1	0.65096	442	0.55376	376	15412	679	240	1622144	1000169361
+Flu-A-H1N1-NY	roundaspike/full/neb/1	0.62587	358	0.58916	337	13130	572	470	1622144	1000169361
+Flu-A-H1N1-NC	roundaspike/full/neb/1	0.61391	353	0.57043	328	13292	575	294	1622144	1000169361
+HRV-1A	roundaspike/full/neb/1	0.61146	192	0.60510	190	7096	314	670	1622144	1000169361
+AdV-3	roundaspike/full/neb/1	0.60830	938	0.53761	829	35072	1542	522	1622144	1000169361
+HMPV	roundaspike/full/neb/1	0.47880	271	0.43816	248	13149	566	181	1622144	1000169361
+Flu-A-H3N2	roundaspike/full/neb/1	0.44732	259	0.41796	242	13290	579	701	1622144	1000169361
+AdV-1	roundaspike/full/neb/1	0.39636	610	0.34503	531	35676	1539	342	1622144	1000169361
+Flu-B	roundaspike/full/neb/1	0.38412	237	0.28039	173	14222	617	291	1622144	1000169361
+RSV-A	roundaspike/full/neb/1	0.36293	233	0.31620	203	14855	642	158	1622144	1000169361
+AdV-31	roundaspike/full/neb/1	0.28435	418	0.25578	376	33755	1470	700	1622144	1000169361
+HPIV-4	roundaspike/full/neb/1	0.15374	113	0.03946	29	17132	735	7	1622144	1000169361
+HCoV-229E	roundaspike/full/neb/1	0.02322	27	0.00774	9	26841	1163	5	1622144	1000169361
+SARS-CoV-2	roundaspike/full/neb/1	0.00000	0	0.00000	0	29778	1316	0	1622144	1000169361
+TOTAL	roundaspike/full/neb/1	0.42004	5734	0.37191	5077	0	13651	379	1622144	1000169361
+Flu-A-H1N1-NY	roundaspike/full/neb/2	0.10664	61	0.00000	0	13130	572	1	2440248	1000120958
+HPIV-1	roundaspike/full/neb/2	0.10162	69	0.00000	0	15412	679	1	2440248	1000120958
+HPIV-2	roundaspike/full/neb/2	0.09836	66	0.00000	0	15654	671	1	2440248	1000120958
+AdV-3	roundaspike/full/neb/2	0.07912	122	0.00000	0	35072	1542	1	2440248	1000120958
+HPIV-3	roundaspike/full/neb/2	0.07154	48	0.00000	0	15382	671	2	2440248	1000120958
+Flu-A-H3N2	roundaspike/full/neb/2	0.06908	40	0.00518	3	13290	579	2	2440248	1000120958
+AdV-1	roundaspike/full/neb/2	0.05783	89	0.00000	0	35676	1539	1	2440248	1000120958
+Flu-A-H1N1-NC	roundaspike/full/neb/2	0.05391	31	0.00000	0	13292	575	1	2440248	1000120958
+AdV-31	roundaspike/full/neb/2	0.03673	54	0.00000	0	33755	1470	1	2440248	1000120958
+HPIV-4	roundaspike/full/neb/2	0.00680	5	0.00000	0	17132	735	1	2440248	1000120958
+Flu-B	roundaspike/full/neb/2	0.00648	4	0.00000	0	14222	617	1	2440248	1000120958
+HMPV	roundaspike/full/neb/2	0.00000	0	0.00000	0	13149	566	0	2440248	1000120958
+HRV-1A	roundaspike/full/neb/2	0.00000	0	0.00000	0	7096	314	0	2440248	1000120958
+RSV-A	roundaspike/full/neb/2	0.00000	0	0.00000	0	14855	642	0	2440248	1000120958
+SARS-CoV-2	roundaspike/full/neb/2	0.00000	0	0.00000	0	29778	1316	0	2440248	1000120958
+HCoV-229E	roundaspike/full/neb/2	0.00000	0	0.00000	0	26841	1163	0	2440248	1000120958
+TOTAL	roundaspike/full/neb/2	0.04315	589	0.00022	3	0	13651	1	2440248	1000120958
+HPIV-2	roundaspike/full/neb/3	0.88823	596	0.48882	328	15654	671	11	1184244	1000233074
+HPIV-3	roundaspike/full/neb/3	0.83159	558	0.31148	209	15382	671	7	1184244	1000233074
+HRV-1A	roundaspike/full/neb/3	0.65287	205	0.17834	56	7096	314	6	1184244	1000233074
+Flu-A-H1N1-NC	roundaspike/full/neb/3	0.58087	334	0.26609	153	13292	575	9	1184244	1000233074
+HPIV-1	roundaspike/full/neb/3	0.47128	320	0.09278	63	15412	679	5	1184244	1000233074
+AdV-3	roundaspike/full/neb/3	0.47017	725	0.22374	345	35072	1542	9	1184244	1000233074
+Flu-A-H1N1-NY	roundaspike/full/neb/3	0.38462	220	0.19406	111	13130	572	10	1184244	1000233074
+Flu-A-H3N2	roundaspike/full/neb/3	0.36960	214	0.17444	101	13290	579	9	1184244	1000233074
+HMPV	roundaspike/full/neb/3	0.34629	196	0.07244	41	13149	566	3	1184244	1000233074
+AdV-1	roundaspike/full/neb/3	0.29435	453	0.10656	164	35676	1539	6	1184244	1000233074
+RSV-A	roundaspike/full/neb/3	0.27414	176	0.07944	51	14855	642	5	1184244	1000233074
+AdV-31	roundaspike/full/neb/3	0.26667	392	0.12313	181	33755	1470	9	1184244	1000233074
+Flu-B	roundaspike/full/neb/3	0.23501	145	0.09724	60	14222	617	5	1184244	1000233074
+HPIV-4	roundaspike/full/neb/3	0.15374	113	0.03401	25	17132	735	4	1184244	1000233074
+HCoV-229E	roundaspike/full/neb/3	0.01548	18	0.00000	0	26841	1163	4	1184244	1000233074
+SARS-CoV-2	roundaspike/full/neb/3	0.00000	0	0.00000	0	29778	1316	0	1184244	1000233074
+TOTAL	roundaspike/full/neb/3	0.34173	4665	0.13823	1887	0	13651	6	1184244	1000233074
+HPIV-2	roundaspike/full/neb/neg	0.07154	48	0.00000	0	15654	671	1	1785	1581099
+Flu-A-H1N1-NY	roundaspike/full/neb/neg	0.05769	33	0.00000	0	13130	572	1	1785	1581099
+HPIV-3	roundaspike/full/neb/neg	0.03130	21	0.00000	0	15382	671	1	1785	1581099
+HPIV-4	roundaspike/full/neb/neg	0.02857	21	0.00000	0	17132	735	1	1785	1581099
+HPIV-1	roundaspike/full/neb/neg	0.02798	19	0.00000	0	15412	679	2	1785	1581099
+Flu-A-H3N2	roundaspike/full/neb/neg	0.02591	15	0.00000	0	13290	579	1	1785	1581099
+Flu-A-H1N1-NC	roundaspike/full/neb/neg	0.02261	13	0.00000	0	13292	575	1	1785	1581099
+AdV-3	roundaspike/full/neb/neg	0.01816	28	0.00000	0	35072	1542	1	1785	1581099
+AdV-1	roundaspike/full/neb/neg	0.00000	0	0.00000	0	35676	1539	0	1785	1581099
+AdV-31	roundaspike/full/neb/neg	0.00000	0	0.00000	0	33755	1470	0	1785	1581099
+Flu-B	roundaspike/full/neb/neg	0.00000	0	0.00000	0	14222	617	0	1785	1581099
+HMPV	roundaspike/full/neb/neg	0.00000	0	0.00000	0	13149	566	0	1785	1581099
+HRV-1A	roundaspike/full/neb/neg	0.00000	0	0.00000	0	7096	314	0	1785	1581099
+RSV-A	roundaspike/full/neb/neg	0.00000	0	0.00000	0	14855	642	0	1785	1581099
+SARS-CoV-2	roundaspike/full/neb/neg	0.00000	0	0.00000	0	29778	1316	0	1785	1581099
+HCoV-229E	roundaspike/full/neb/neg	0.00000	0	0.00000	0	26841	1163	0	1785	1581099
+TOTAL	roundaspike/full/neb/neg	0.01450	198	0.00000	0	0	13651	0	1785	1581099
+HPIV-2	roundaspike/tag/neb/1	0.97765	656	0.97615	655	15654	671	978	1917760	1000211863
+HPIV-3	roundaspike/tag/neb/1	0.90909	610	0.90909	610	15382	671	801	1917760	1000211863
+Flu-A-H1N1-NC	roundaspike/tag/neb/1	0.58435	336	0.53913	310	13292	575	892	1917760	1000211863
+HPIV-1	roundaspike/tag/neb/1	0.54786	372	0.49485	336	15412	679	412	1917760	1000211863
+AdV-3	roundaspike/tag/neb/1	0.50843	784	0.40726	628	35072	1542	182	1917760	1000211863
+HMPV	roundaspike/tag/neb/1	0.48410	274	0.47173	267	13149	566	515	1917760	1000211863
+HRV-1A	roundaspike/tag/neb/1	0.45541	143	0.33439	105	7096	314	574	1917760	1000211863
+Flu-A-H1N1-NY	roundaspike/tag/neb/1	0.39685	227	0.33217	190	13130	572	758	1917760	1000211863
+Flu-A-H3N2	roundaspike/tag/neb/1	0.37824	219	0.24870	144	13290	579	112	1917760	1000211863
+AdV-1	roundaspike/tag/neb/1	0.36257	558	0.26251	404	35676	1539	246	1917760	1000211863
+RSV-A	roundaspike/tag/neb/1	0.32866	211	0.28816	185	14855	642	416	1917760	1000211863
+Flu-B	roundaspike/tag/neb/1	0.28363	175	0.25932	160	14222	617	602	1917760	1000211863
+AdV-31	roundaspike/tag/neb/1	0.25238	371	0.20340	299	33755	1470	186	1917760	1000211863
+HPIV-4	roundaspike/tag/neb/1	0.19320	142	0.18503	136	17132	735	20	1917760	1000211863
+HCoV-229E	roundaspike/tag/neb/1	0.03869	45	0.03697	43	26841	1163	744	1917760	1000211863
+SARS-CoV-2	roundaspike/tag/neb/1	0.01292	17	0.01292	17	29778	1316	4057	1917760	1000211863
+TOTAL	roundaspike/tag/neb/1	0.37653	5140	0.32869	4487	0	13651	787	1917760	1000211863
+HPIV-3	roundaspike/tag/neb/2	0.11177	75	0.00000	0	15382	671	1	2227780	1000282212
+HPIV-2	roundaspike/tag/neb/2	0.08048	54	0.00000	0	15654	671	1	2227780	1000282212
+AdV-3	roundaspike/tag/neb/2	0.08042	124	0.00000	0	35072	1542	1	2227780	1000282212
+Flu-A-H3N2	roundaspike/tag/neb/2	0.05181	30	0.00518	3	13290	579	1	2227780	1000282212
+Flu-A-H1N1-NC	roundaspike/tag/neb/2	0.03826	22	0.00000	0	13292	575	1	2227780	1000282212
+AdV-31	roundaspike/tag/neb/2	0.03810	56	0.00000	0	33755	1470	1	2227780	1000282212
+HPIV-1	roundaspike/tag/neb/2	0.02651	18	0.00000	0	15412	679	1	2227780	1000282212
+AdV-1	roundaspike/tag/neb/2	0.01754	27	0.00000	0	35676	1539	1	2227780	1000282212
+Flu-B	roundaspike/tag/neb/2	0.00972	6	0.00000	0	14222	617	1	2227780	1000282212
+HPIV-4	roundaspike/tag/neb/2	0.00816	6	0.00000	0	17132	735	2	2227780	1000282212
+Flu-A-H1N1-NY	roundaspike/tag/neb/2	0.00000	0	0.00000	0	13130	572	0	2227780	1000282212
+HMPV	roundaspike/tag/neb/2	0.00000	0	0.00000	0	13149	566	0	2227780	1000282212
+HRV-1A	roundaspike/tag/neb/2	0.00000	0	0.00000	0	7096	314	0	2227780	1000282212
+RSV-A	roundaspike/tag/neb/2	0.00000	0	0.00000	0	14855	642	0	2227780	1000282212
+SARS-CoV-2	roundaspike/tag/neb/2	0.00000	0	0.00000	0	29778	1316	0	2227780	1000282212
+HCoV-229E	roundaspike/tag/neb/2	0.00000	0	0.00000	0	26841	1163	0	2227780	1000282212
+TOTAL	roundaspike/tag/neb/2	0.03062	418	0.00022	3	0	13651	1	2227780	1000282212
+HPIV-2	roundaspike/tag/neb/3	0.85395	573	0.46051	309	15654	671	11	1314060	1000137576
+HPIV-3	roundaspike/tag/neb/3	0.60060	403	0.38450	258	15382	671	15	1314060	1000137576
+HMPV	roundaspike/tag/neb/3	0.49823	282	0.14134	80	13149	566	5	1314060	1000137576
+AdV-3	roundaspike/tag/neb/3	0.42283	652	0.23152	357	35072	1542	11	1314060	1000137576
+Flu-A-H1N1-NC	roundaspike/tag/neb/3	0.41565	239	0.28696	165	13292	575	49	1314060	1000137576
+Flu-A-H3N2	roundaspike/tag/neb/3	0.27807	161	0.23143	134	13290	579	55	1314060	1000137576
+Flu-A-H1N1-NY	roundaspike/tag/neb/3	0.21329	122	0.11888	68	13130	572	24	1314060	1000137576
+AdV-31	roundaspike/tag/neb/3	0.20884	307	0.08299	122	33755	1470	7	1314060	1000137576
+Flu-B	roundaspike/tag/neb/3	0.19449	120	0.16856	104	14222	617	14	1314060	1000137576
+HPIV-1	roundaspike/tag/neb/3	0.18851	128	0.07658	52	15412	679	8	1314060	1000137576
+HRV-1A	roundaspike/tag/neb/3	0.17516	55	0.08280	26	7096	314	9	1314060	1000137576
+AdV-1	roundaspike/tag/neb/3	0.14685	226	0.05003	77	35676	1539	8	1314060	1000137576
+HPIV-4	roundaspike/tag/neb/3	0.14286	105	0.07755	57	17132	735	10	1314060	1000137576
+RSV-A	roundaspike/tag/neb/3	0.06075	39	0.05919	38	14855	642	38	1314060	1000137576
+HCoV-229E	roundaspike/tag/neb/3	0.01892	22	0.00000	0	26841	1163	3	1314060	1000137576
+SARS-CoV-2	roundaspike/tag/neb/3	0.00000	0	0.00000	0	29778	1316	0	1314060	1000137576
+TOTAL	roundaspike/tag/neb/3	0.25156	3434	0.13530	1847	0	13651	14	1314060	1000137576
+HPIV-3	roundaspike/tag/neb/neg	0.12519	84	0.00000	0	15382	671	1	1157378	425714183
+HPIV-2	roundaspike/tag/neb/neg	0.10283	69	0.00000	0	15654	671	1	1157378	425714183
+AdV-3	roundaspike/tag/neb/neg	0.01686	26	0.00000	0	35072	1542	1	1157378	425714183
+HPIV-4	roundaspike/tag/neb/neg	0.00816	6	0.00000	0	17132	735	3	1157378	425714183
+Flu-A-H3N2	roundaspike/tag/neb/neg	0.00518	3	0.00518	3	13290	579	348	1157378	425714183
+AdV-1	roundaspike/tag/neb/neg	0.00455	7	0.00000	0	35676	1539	1	1157378	425714183
+Flu-A-H1N1-NY	roundaspike/tag/neb/neg	0.00350	2	0.00000	0	13130	572	1	1157378	425714183
+AdV-31	roundaspike/tag/neb/neg	0.00000	0	0.00000	0	33755	1470	0	1157378	425714183
+Flu-A-H1N1-NC	roundaspike/tag/neb/neg	0.00000	0	0.00000	0	13292	575	0	1157378	425714183
+Flu-B	roundaspike/tag/neb/neg	0.00000	0	0.00000	0	14222	617	0	1157378	425714183
+HMPV	roundaspike/tag/neb/neg	0.00000	0	0.00000	0	13149	566	0	1157378	425714183
+HPIV-1	roundaspike/tag/neb/neg	0.00000	0	0.00000	0	15412	679	0	1157378	425714183
+HRV-1A	roundaspike/tag/neb/neg	0.00000	0	0.00000	0	7096	314	0	1157378	425714183
+RSV-A	roundaspike/tag/neb/neg	0.00000	0	0.00000	0	14855	642	0	1157378	425714183
+SARS-CoV-2	roundaspike/tag/neb/neg	0.00000	0	0.00000	0	29778	1316	0	1157378	425714183
+HCoV-229E	roundaspike/tag/neb/neg	0.00000	0	0.00000	0	26841	1163	0	1157378	425714183
+TOTAL	roundaspike/tag/neb/neg	0.01443	197	0.00022	3	0	13651	15	1157378	425714183
+AdV-3	roundaspike/tag/rlb/1	0.39105	603	0.00000	0	35072	1542	1	28734	7911918
+AdV-1	roundaspike/tag/rlb/1	0.31449	484	0.00000	0	35676	1539	1	28734	7911918
+AdV-31	roundaspike/tag/rlb/1	0.19660	289	0.00000	0	33755	1470	1	28734	7911918
+Flu-A-H1N1-NC	roundaspike/tag/rlb/1	0.11826	68	0.00000	0	13292	575	1	28734	7911918
+Flu-A-H1N1-NY	roundaspike/tag/rlb/1	0.05070	29	0.00000	0	13130	572	1	28734	7911918
+HPIV-2	roundaspike/tag/rlb/1	0.04918	33	0.00000	0	15654	671	1	28734	7911918
+HPIV-3	roundaspike/tag/rlb/1	0.04918	33	0.00000	0	15382	671	1	28734	7911918
+RSV-A	roundaspike/tag/rlb/1	0.04517	29	0.00000	0	14855	642	1	28734	7911918
+Flu-A-H3N2	roundaspike/tag/rlb/1	0.04318	25	0.00000	0	13290	579	1	28734	7911918
+HRV-1A	roundaspike/tag/rlb/1	0.01592	5	0.00000	0	7096	314	1	28734	7911918
+Flu-B	roundaspike/tag/rlb/1	0.00000	0	0.00000	0	14222	617	0	28734	7911918
+HMPV	roundaspike/tag/rlb/1	0.00000	0	0.00000	0	13149	566	0	28734	7911918
+HPIV-1	roundaspike/tag/rlb/1	0.00000	0	0.00000	0	15412	679	0	28734	7911918
+HPIV-4	roundaspike/tag/rlb/1	0.00000	0	0.00000	0	17132	735	0	28734	7911918
+SARS-CoV-2	roundaspike/tag/rlb/1	0.00000	0	0.00000	0	29778	1316	0	28734	7911918
+HCoV-229E	roundaspike/tag/rlb/1	0.00000	0	0.00000	0	26841	1163	0	28734	7911918
+TOTAL	roundaspike/tag/rlb/1	0.11706	1598	0.00000	0	0	13651	1	28734	7911918
+HPIV-3	roundaspike/tag/rlb/2	0.09687	65	0.00000	0	15382	671	2	2175404	1000019495
+HPIV-2	roundaspike/tag/rlb/2	0.07750	52	0.00000	0	15654	671	1	2175404	1000019495
+Flu-A-H1N1-NC	roundaspike/tag/rlb/2	0.07130	41	0.00000	0	13292	575	1	2175404	1000019495
+HRV-1A	roundaspike/tag/rlb/2	0.06369	20	0.00000	0	7096	314	1	2175404	1000019495
+RSV-A	roundaspike/tag/rlb/2	0.05763	37	0.00000	0	14855	642	1	2175404	1000019495
+HPIV-1	roundaspike/tag/rlb/2	0.05007	34	0.00000	0	15412	679	1	2175404	1000019495
+AdV-1	roundaspike/tag/rlb/2	0.03249	50	0.02729	42	35676	1539	66	2175404	1000019495
+AdV-3	roundaspike/tag/rlb/2	0.02270	35	0.00000	0	35072	1542	1	2175404	1000019495
+Flu-A-H3N2	roundaspike/tag/rlb/2	0.02245	13	0.00345	2	13290	579	2	2175404	1000019495
+Flu-A-H1N1-NY	roundaspike/tag/rlb/2	0.01923	11	0.00000	0	13130	572	1	2175404	1000019495
+HPIV-4	roundaspike/tag/rlb/2	0.00816	6	0.00000	0	17132	735	2	2175404	1000019495
+AdV-31	roundaspike/tag/rlb/2	0.00612	9	0.00000	0	33755	1470	1	2175404	1000019495
+Flu-B	roundaspike/tag/rlb/2	0.00000	0	0.00000	0	14222	617	0	2175404	1000019495
+HMPV	roundaspike/tag/rlb/2	0.00000	0	0.00000	0	13149	566	0	2175404	1000019495
+SARS-CoV-2	roundaspike/tag/rlb/2	0.00000	0	0.00000	0	29778	1316	0	2175404	1000019495
+HCoV-229E	roundaspike/tag/rlb/2	0.00000	0	0.00000	0	26841	1163	0	2175404	1000019495
+TOTAL	roundaspike/tag/rlb/2	0.02732	373	0.00322	44	0	13651	8	2175404	1000019495
+HPIV-2	roundaspike/tag/rlb/3	0.13860	93	0.00000	0	15654	671	1	42919	11765586
+HPIV-1	roundaspike/tag/rlb/3	0.03829	26	0.00000	0	15412	679	1	42919	11765586
+RSV-A	roundaspike/tag/rlb/3	0.03738	24	0.00000	0	14855	642	2	42919	11765586
+HPIV-3	roundaspike/tag/rlb/3	0.03726	25	0.00000	0	15382	671	1	42919	11765586
+Flu-B	roundaspike/tag/rlb/3	0.03566	22	0.00000	0	14222	617	1	42919	11765586
+AdV-3	roundaspike/tag/rlb/3	0.02270	35	0.00000	0	35072	1542	1	42919	11765586
+AdV-1	roundaspike/tag/rlb/3	0.02209	34	0.00000	0	35676	1539	1	42919	11765586
+AdV-31	roundaspike/tag/rlb/3	0.01429	21	0.00000	0	33755	1470	1	42919	11765586
+Flu-A-H3N2	roundaspike/tag/rlb/3	0.00345	2	0.00000	0	13290	579	4	42919	11765586
+Flu-A-H1N1-NY	roundaspike/tag/rlb/3	0.00000	0	0.00000	0	13130	572	0	42919	11765586
+Flu-A-H1N1-NC	roundaspike/tag/rlb/3	0.00000	0	0.00000	0	13292	575	0	42919	11765586
+HMPV	roundaspike/tag/rlb/3	0.00000	0	0.00000	0	13149	566	0	42919	11765586
+HPIV-4	roundaspike/tag/rlb/3	0.00000	0	0.00000	0	17132	735	0	42919	11765586
+HRV-1A	roundaspike/tag/rlb/3	0.00000	0	0.00000	0	7096	314	0	42919	11765586
+SARS-CoV-2	roundaspike/tag/rlb/3	0.00000	0	0.00000	0	29778	1316	0	42919	11765586
+HCoV-229E	roundaspike/tag/rlb/3	0.00000	0	0.00000	0	26841	1163	0	42919	11765586
+TOTAL	roundaspike/tag/rlb/3	0.02066	282	0.00000	0	0	13651	1	42919	11765586
+AdV-3	roundaspike/tag/rlb/neg	0.03696	57	0.00000	0	35072	1542	1	1533	1291597
+Flu-A-H1N1-NC	roundaspike/tag/rlb/neg	0.02957	17	0.00000	0	13292	575	1	1533	1291597
+Flu-A-H3N2	roundaspike/tag/rlb/neg	0.02245	13	0.00000	0	13290	579	1	1533	1291597
+HPIV-2	roundaspike/tag/rlb/neg	0.01788	12	0.00000	0	15654	671	2	1533	1291597
+AdV-1	roundaspike/tag/rlb/neg	0.00000	0	0.00000	0	35676	1539	0	1533	1291597
+AdV-31	roundaspike/tag/rlb/neg	0.00000	0	0.00000	0	33755	1470	0	1533	1291597
+Flu-A-H1N1-NY	roundaspike/tag/rlb/neg	0.00000	0	0.00000	0	13130	572	0	1533	1291597
+Flu-B	roundaspike/tag/rlb/neg	0.00000	0	0.00000	0	14222	617	0	1533	1291597
+HMPV	roundaspike/tag/rlb/neg	0.00000	0	0.00000	0	13149	566	0	1533	1291597
+HPIV-1	roundaspike/tag/rlb/neg	0.00000	0	0.00000	0	15412	679	0	1533	1291597
+HPIV-3	roundaspike/tag/rlb/neg	0.00000	0	0.00000	0	15382	671	0	1533	1291597
+HPIV-4	roundaspike/tag/rlb/neg	0.00000	0	0.00000	0	17132	735	0	1533	1291597
+HRV-1A	roundaspike/tag/rlb/neg	0.00000	0	0.00000	0	7096	314	0	1533	1291597
+RSV-A	roundaspike/tag/rlb/neg	0.00000	0	0.00000	0	14855	642	0	1533	1291597
+SARS-CoV-2	roundaspike/tag/rlb/neg	0.00000	0	0.00000	0	29778	1316	0	1533	1291597
+HCoV-229E	roundaspike/tag/rlb/neg	0.00000	0	0.00000	0	26841	1163	0	1533	1291597
+TOTAL	roundaspike/tag/rlb/neg	0.00725	99	0.00000	0	0	13651	0	1533	1291597
+HRV-1A	roundaspike/tag/neb+rlb/1	0.15287	48	0.00000	0	7096	314	1	163196	34751506
+HPIV-2	roundaspike/tag/neb+rlb/1	0.15201	102	0.00000	0	15654	671	1	163196	34751506
+AdV-3	roundaspike/tag/neb+rlb/1	0.06096	94	0.00000	0	35072	1542	1	163196	34751506
+Flu-A-H3N2	roundaspike/tag/neb+rlb/1	0.04318	25	0.00173	1	13290	579	1	163196	34751506
+RSV-A	roundaspike/tag/neb+rlb/1	0.04206	27	0.00000	0	14855	642	1	163196	34751506
+AdV-1	roundaspike/tag/neb+rlb/1	0.04094	63	0.00000	0	35676	1539	1	163196	34751506
+Flu-A-H1N1-NC	roundaspike/tag/neb+rlb/1	0.02957	17	0.00000	0	13292	575	1	163196	34751506
+Flu-A-H1N1-NY	roundaspike/tag/neb+rlb/1	0.02448	14	0.00000	0	13130	572	1	163196	34751506
+HPIV-1	roundaspike/tag/neb+rlb/1	0.02209	15	0.00000	0	15412	679	2	163196	34751506
+AdV-31	roundaspike/tag/neb+rlb/1	0.02177	32	0.00000	0	33755	1470	1	163196	34751506
+HPIV-3	roundaspike/tag/neb+rlb/1	0.01639	11	0.00000	0	15382	671	1	163196	34751506
+HPIV-4	roundaspike/tag/neb+rlb/1	0.01224	9	0.00000	0	17132	735	1	163196	34751506
+Flu-B	roundaspike/tag/neb+rlb/1	0.00648	4	0.00000	0	14222	617	1	163196	34751506
+HMPV	roundaspike/tag/neb+rlb/1	0.00000	0	0.00000	0	13149	566	0	163196	34751506
+SARS-CoV-2	roundaspike/tag/neb+rlb/1	0.00000	0	0.00000	0	29778	1316	0	163196	34751506
+HCoV-229E	roundaspike/tag/neb+rlb/1	0.00000	0	0.00000	0	26841	1163	0	163196	34751506
+TOTAL	roundaspike/tag/neb+rlb/1	0.03377	461	0.00007	1	0	13651	1	163196	34751506
+HPIV-3	roundaspike/tag/neb+rlb/2	0.13413	90	0.00000	0	15382	671	1	2657397	1000165853
+HPIV-2	roundaspike/tag/neb+rlb/2	0.07899	53	0.00000	0	15654	671	1	2657397	1000165853
+AdV-3	roundaspike/tag/neb+rlb/2	0.07328	113	0.00000	0	35072	1542	1	2657397	1000165853
+Flu-A-H3N2	roundaspike/tag/neb+rlb/2	0.06736	39	0.00518	3	13290	579	1	2657397	1000165853
+HPIV-1	roundaspike/tag/neb+rlb/2	0.06038	41	0.00000	0	15412	679	1	2657397	1000165853
+Flu-A-H1N1-NC	roundaspike/tag/neb+rlb/2	0.04870	28	0.00000	0	13292	575	1	2657397	1000165853
+Flu-B	roundaspike/tag/neb+rlb/2	0.04052	25	0.00000	0	14222	617	1	2657397	1000165853
+HRV-1A	roundaspike/tag/neb+rlb/2	0.03185	10	0.00000	0	7096	314	1	2657397	1000165853
+AdV-31	roundaspike/tag/neb+rlb/2	0.03129	46	0.00000	0	33755	1470	1	2657397	1000165853
+AdV-1	roundaspike/tag/neb+rlb/2	0.02664	41	0.00000	0	35676	1539	1	2657397	1000165853
+RSV-A	roundaspike/tag/neb+rlb/2	0.02492	16	0.00000	0	14855	642	1	2657397	1000165853
+HPIV-4	roundaspike/tag/neb+rlb/2	0.02313	17	0.00000	0	17132	735	1	2657397	1000165853
+Flu-A-H1N1-NY	roundaspike/tag/neb+rlb/2	0.00350	2	0.00000	0	13130	572	1	2657397	1000165853
+HMPV	roundaspike/tag/neb+rlb/2	0.00000	0	0.00000	0	13149	566	0	2657397	1000165853
+SARS-CoV-2	roundaspike/tag/neb+rlb/2	0.00000	0	0.00000	0	29778	1316	0	2657397	1000165853
+HCoV-229E	roundaspike/tag/neb+rlb/2	0.00000	0	0.00000	0	26841	1163	0	2657397	1000165853
+TOTAL	roundaspike/tag/neb+rlb/2	0.03817	521	0.00022	3	0	13651	1	2657397	1000165853
+HPIV-3	roundaspike/tag/neb+rlb/3	0.23100	155	0.00000	0	15382	671	1	246495	53336702
+HPIV-2	roundaspike/tag/neb+rlb/3	0.20119	135	0.00000	0	15654	671	1	246495	53336702
+Flu-A-H1N1-NC	roundaspike/tag/neb+rlb/3	0.19652	113	0.00000	0	13292	575	1	246495	53336702
+Flu-A-H1N1-NY	roundaspike/tag/neb+rlb/3	0.10315	59	0.00000	0	13130	572	1	246495	53336702
+AdV-3	roundaspike/tag/neb+rlb/3	0.08431	130	0.00000	0	35072	1542	1	246495	53336702
+RSV-A	roundaspike/tag/neb+rlb/3	0.07477	48	0.00000	0	14855	642	2	246495	53336702
+AdV-31	roundaspike/tag/neb+rlb/3	0.05102	75	0.00000	0	33755	1470	1	246495	53336702
+Flu-A-H3N2	roundaspike/tag/neb+rlb/3	0.04663	27	0.00173	1	13290	579	1	246495	53336702
+AdV-1	roundaspike/tag/neb+rlb/3	0.03769	58	0.00000	0	35676	1539	1	246495	53336702
+Flu-B	roundaspike/tag/neb+rlb/3	0.03404	21	0.00000	0	14222	617	1	246495	53336702
+HPIV-1	roundaspike/tag/neb+rlb/3	0.02504	17	0.00000	0	15412	679	2	246495	53336702
+HRV-1A	roundaspike/tag/neb+rlb/3	0.01592	5	0.00000	0	7096	314	1	246495	53336702
+HPIV-4	roundaspike/tag/neb+rlb/3	0.00680	5	0.00000	0	17132	735	1	246495	53336702
+HMPV	roundaspike/tag/neb+rlb/3	0.00000	0	0.00000	0	13149	566	0	246495	53336702
+SARS-CoV-2	roundaspike/tag/neb+rlb/3	0.00000	0	0.00000	0	29778	1316	0	246495	53336702
+HCoV-229E	roundaspike/tag/neb+rlb/3	0.00000	0	0.00000	0	26841	1163	0	246495	53336702
+TOTAL	roundaspike/tag/neb+rlb/3	0.06212	848	0.00007	1	0	13651	1	246495	53336702
+HPIV-2	roundaspike/tag/neb+rlb/neg	0.14009	94	0.00000	0	15654	671	1	2485296	1000081279
+HPIV-3	roundaspike/tag/neb+rlb/neg	0.08644	58	0.00000	0	15382	671	1	2485296	1000081279
+HPIV-1	roundaspike/tag/neb+rlb/neg	0.04860	33	0.00000	0	15412	679	1	2485296	1000081279
+Flu-B	roundaspike/tag/neb+rlb/neg	0.02107	13	0.00000	0	14222	617	1	2485296	1000081279
+HMPV	roundaspike/tag/neb+rlb/neg	0.01943	11	0.00000	0	13149	566	1	2485296	1000081279
+AdV-3	roundaspike/tag/neb+rlb/neg	0.01816	28	0.00000	0	35072	1542	1	2485296	1000081279
+Flu-A-H3N2	roundaspike/tag/neb+rlb/neg	0.01727	10	0.00345	2	13290	579	1	2485296	1000081279
+AdV-31	roundaspike/tag/neb+rlb/neg	0.01429	21	0.00000	0	33755	1470	1	2485296	1000081279
+Flu-A-H1N1-NC	roundaspike/tag/neb+rlb/neg	0.01391	8	0.00000	0	13292	575	1	2485296	1000081279
+AdV-1	roundaspike/tag/neb+rlb/neg	0.01365	21	0.00000	0	35676	1539	1	2485296	1000081279
+HPIV-4	roundaspike/tag/neb+rlb/neg	0.00816	6	0.00000	0	17132	735	1	2485296	1000081279
+Flu-A-H1N1-NY	roundaspike/tag/neb+rlb/neg	0.00524	3	0.00000	0	13130	572	1	2485296	1000081279
+HRV-1A	roundaspike/tag/neb+rlb/neg	0.00000	0	0.00000	0	7096	314	0	2485296	1000081279
+RSV-A	roundaspike/tag/neb+rlb/neg	0.00000	0	0.00000	0	14855	642	0	2485296	1000081279
+SARS-CoV-2	roundaspike/tag/neb+rlb/neg	0.00000	0	0.00000	0	29778	1316	0	2485296	1000081279
+HCoV-229E	roundaspike/tag/neb+rlb/neg	0.00000	0	0.00000	0	26841	1163	0	2485296	1000081279
+TOTAL	roundaspike/tag/neb+rlb/neg	0.02242	306	0.00015	2	0	13651	1	2485296	1000081279
+HPIV-2	smart9nspike/full/neb/1	1.00000	671	1.00000	671	15654	671	663	1473288	1000071317
+HPIV-3	smart9nspike/full/neb/1	0.99404	667	0.99404	667	15382	671	492	1473288	1000071317
+AdV-3	smart9nspike/full/neb/1	0.98444	1518	0.97665	1506	35072	1542	312	1473288	1000071317
+HMPV	smart9nspike/full/neb/1	0.97880	554	0.97527	552	13149	566	218	1473288	1000071317
+RSV-A	smart9nspike/full/neb/1	0.97508	626	0.92679	595	14855	642	76	1473288	1000071317
+HRV-1A	smart9nspike/full/neb/1	0.96178	302	0.94268	296	7096	314	365	1473288	1000071317
+Flu-B	smart9nspike/full/neb/1	0.95138	587	0.93517	577	14222	617	226	1473288	1000071317
+HCoV-229E	smart9nspike/full/neb/1	0.91917	1069	0.87962	1023	26841	1163	89	1473288	1000071317
+Flu-A-H1N1-NC	smart9nspike/full/neb/1	0.91652	527	0.88870	511	13292	575	696	1473288	1000071317
+HPIV-4	smart9nspike/full/neb/1	0.90068	662	0.81361	598	17132	735	55	1473288	1000071317
+AdV-1	smart9nspike/full/neb/1	0.85510	1316	0.82911	1276	35676	1539	230	1473288	1000071317
+Flu-A-H1N1-NY	smart9nspike/full/neb/1	0.83741	479	0.81119	464	13130	572	329	1473288	1000071317
+HPIV-1	smart9nspike/full/neb/1	0.81149	551	0.79529	540	15412	679	131	1473288	1000071317
+Flu-A-H3N2	smart9nspike/full/neb/1	0.80484	466	0.73057	423	13290	579	364	1473288	1000071317
+AdV-31	smart9nspike/full/neb/1	0.56531	831	0.52789	776	33755	1470	286	1473288	1000071317
+SARS-CoV-2	smart9nspike/full/neb/1	0.49164	647	0.46125	607	29778	1316	38	1473288	1000071317
+TOTAL	smart9nspike/full/neb/1	0.84045	11473	0.81181	11082	0	13651	259	1473288	1000071317
+Flu-A-H1N1-NC	smart9nspike/full/neb/2	0.46435	267	0.00000	0	13292	575	1	1981940	1000272873
+HPIV-3	smart9nspike/full/neb/2	0.41133	276	0.00000	0	15382	671	2	1981940	1000272873
+HPIV-2	smart9nspike/full/neb/2	0.39344	264	0.00000	0	15654	671	1	1981940	1000272873
+HRV-1A	smart9nspike/full/neb/2	0.30255	95	0.00000	0	7096	314	1	1981940	1000272873
+AdV-3	smart9nspike/full/neb/2	0.27691	427	0.00259	4	35072	1542	2	1981940	1000272873
+Flu-A-H3N2	smart9nspike/full/neb/2	0.20207	117	0.00691	4	13290	579	2	1981940	1000272873
+AdV-31	smart9nspike/full/neb/2	0.17687	260	0.00272	4	33755	1470	2	1981940	1000272873
+Flu-A-H1N1-NY	smart9nspike/full/neb/2	0.16434	94	0.00000	0	13130	572	1	1981940	1000272873
+AdV-1	smart9nspike/full/neb/2	0.14555	224	0.00130	2	35676	1539	1	1981940	1000272873
+RSV-A	smart9nspike/full/neb/2	0.14019	90	0.00000	0	14855	642	2	1981940	1000272873
+HPIV-1	smart9nspike/full/neb/2	0.13844	94	0.00000	0	15412	679	1	1981940	1000272873
+HCoV-229E	smart9nspike/full/neb/2	0.08512	99	0.00000	0	26841	1163	1	1981940	1000272873
+HMPV	smart9nspike/full/neb/2	0.08304	47	0.00000	0	13149	566	1	1981940	1000272873
+HPIV-4	smart9nspike/full/neb/2	0.07755	57	0.00000	0	17132	735	1	1981940	1000272873
+Flu-B	smart9nspike/full/neb/2	0.07618	47	0.00000	0	14222	617	1	1981940	1000272873
+SARS-CoV-2	smart9nspike/full/neb/2	0.00000	0	0.00000	0	29778	1316	0	1981940	1000272873
+TOTAL	smart9nspike/full/neb/2	0.18006	2458	0.00095	13	0	13651	1	1981940	1000272873
+HPIV-2	smart9nspike/full/neb/3	0.99851	670	0.90164	605	15654	671	23	1210718	1000049315
+HPIV-3	smart9nspike/full/neb/3	0.99404	667	0.72429	486	15382	671	16	1210718	1000049315
+HMPV	smart9nspike/full/neb/3	0.96466	546	0.38339	217	13149	566	8	1210718	1000049315
+RSV-A	smart9nspike/full/neb/3	0.95794	615	0.21963	141	14855	642	4	1210718	1000049315
+HRV-1A	smart9nspike/full/neb/3	0.94586	297	0.57962	182	7096	314	12	1210718	1000049315
+AdV-3	smart9nspike/full/neb/3	0.92283	1423	0.49805	768	35072	1542	11	1210718	1000049315
+Flu-B	smart9nspike/full/neb/3	0.91896	567	0.31280	193	14222	617	7	1210718	1000049315
+Flu-A-H1N1-NC	smart9nspike/full/neb/3	0.84348	485	0.66783	384	13292	575	21	1210718	1000049315
+HPIV-1	smart9nspike/full/neb/3	0.78203	531	0.17378	118	15412	679	6	1210718	1000049315
+AdV-1	smart9nspike/full/neb/3	0.77388	1191	0.30279	466	35676	1539	7	1210718	1000049315
+Flu-A-H1N1-NY	smart9nspike/full/neb/3	0.77273	442	0.53147	304	13130	572	14	1210718	1000049315
+HPIV-4	smart9nspike/full/neb/3	0.70884	521	0.01497	11	17132	735	2	1210718	1000049315
+Flu-A-H3N2	smart9nspike/full/neb/3	0.69430	402	0.46805	271	13290	579	19	1210718	1000049315
+HCoV-229E	smart9nspike/full/neb/3	0.67842	789	0.00258	3	26841	1163	2	1210718	1000049315
+AdV-31	smart9nspike/full/neb/3	0.49864	733	0.27959	411	33755	1470	12	1210718	1000049315
+SARS-CoV-2	smart9nspike/full/neb/3	0.36246	477	0.00000	0	29778	1316	1	1210718	1000049315
+TOTAL	smart9nspike/full/neb/3	0.75863	10356	0.33404	4560	0	13651	9	1210718	1000049315
+AdV-3	smart9nspike/full/neb/neg	0.13294	205	0.00000	0	35072	1542	1	1517	1082939
+HPIV-3	smart9nspike/full/neb/neg	0.06706	45	0.00000	0	15382	671	1	1517	1082939
+AdV-31	smart9nspike/full/neb/neg	0.05374	79	0.00000	0	33755	1470	2	1517	1082939
+HCoV-229E	smart9nspike/full/neb/neg	0.04987	58	0.00000	0	26841	1163	1	1517	1082939
+HPIV-2	smart9nspike/full/neb/neg	0.04471	30	0.00000	0	15654	671	1	1517	1082939
+AdV-1	smart9nspike/full/neb/neg	0.03574	55	0.00000	0	35676	1539	2	1517	1082939
+Flu-A-H1N1-NC	smart9nspike/full/neb/neg	0.01043	6	0.00000	0	13292	575	1	1517	1082939
+Flu-A-H3N2	smart9nspike/full/neb/neg	0.00345	2	0.00000	0	13290	579	3	1517	1082939
+Flu-A-H1N1-NY	smart9nspike/full/neb/neg	0.00000	0	0.00000	0	13130	572	0	1517	1082939
+Flu-B	smart9nspike/full/neb/neg	0.00000	0	0.00000	0	14222	617	0	1517	1082939
+HMPV	smart9nspike/full/neb/neg	0.00000	0	0.00000	0	13149	566	0	1517	1082939
+HPIV-1	smart9nspike/full/neb/neg	0.00000	0	0.00000	0	15412	679	0	1517	1082939
+HPIV-4	smart9nspike/full/neb/neg	0.00000	0	0.00000	0	17132	735	0	1517	1082939
+HRV-1A	smart9nspike/full/neb/neg	0.00000	0	0.00000	0	7096	314	0	1517	1082939
+RSV-A	smart9nspike/full/neb/neg	0.00000	0	0.00000	0	14855	642	0	1517	1082939
+SARS-CoV-2	smart9nspike/full/neb/neg	0.00000	0	0.00000	0	29778	1316	0	1517	1082939
+TOTAL	smart9nspike/full/neb/neg	0.03516	480	0.00000	0	0	13651	1	1517	1082939
+HPIV-2	smart9nspike/tag/neb/1	0.99851	670	0.99851	670	15654	671	710	1353835	1000153454
+HPIV-3	smart9nspike/tag/neb/1	0.99404	667	0.99404	667	15382	671	624	1353835	1000153454
+HMPV	smart9nspike/tag/neb/1	0.97527	552	0.97527	552	13149	566	250	1353835	1000153454
+RSV-A	smart9nspike/tag/neb/1	0.96417	619	0.92679	595	14855	642	127	1353835	1000153454
+HRV-1A	smart9nspike/tag/neb/1	0.95541	300	0.95541	300	7096	314	294	1353835	1000153454
+AdV-3	smart9nspike/tag/neb/1	0.95525	1473	0.93904	1448	35072	1542	503	1353835	1000153454
+Flu-B	smart9nspike/tag/neb/1	0.92869	573	0.91734	566	14222	617	278	1353835	1000153454
+Flu-A-H1N1-NC	smart9nspike/tag/neb/1	0.90783	522	0.88870	511	13292	575	804	1353835	1000153454
+AdV-1	smart9nspike/tag/neb/1	0.82781	1274	0.78882	1214	35676	1539	271	1353835	1000153454
+HCoV-229E	smart9nspike/tag/neb/1	0.81943	953	0.71539	832	26841	1163	116	1353835	1000153454
+HPIV-4	smart9nspike/tag/neb/1	0.81905	602	0.76463	562	17132	735	70	1353835	1000153454
+Flu-A-H1N1-NY	smart9nspike/tag/neb/1	0.79720	456	0.77273	442	13130	572	489	1353835	1000153454
+Flu-A-H3N2	smart9nspike/tag/neb/1	0.72884	422	0.68394	396	13290	579	644	1353835	1000153454
+HPIV-1	smart9nspike/tag/neb/1	0.68189	463	0.60088	408	15412	679	139	1353835	1000153454
+AdV-31	smart9nspike/tag/neb/1	0.52313	769	0.50136	737	33755	1470	458	1353835	1000153454
+SARS-CoV-2	smart9nspike/tag/neb/1	0.19377	255	0.12918	170	29778	1316	18	1353835	1000153454
+TOTAL	smart9nspike/tag/neb/1	0.77430	10570	0.73767	10070	0	13651	342	1353835	1000153454
+Flu-A-H1N1-NC	smart9nspike/tag/neb/2	0.40522	233	0.00000	0	13292	575	1	2016228	1000469591
+HPIV-3	smart9nspike/tag/neb/2	0.36513	245	0.00000	0	15382	671	1	2016228	1000469591
+HPIV-2	smart9nspike/tag/neb/2	0.30700	206	0.00000	0	15654	671	1	2016228	1000469591
+Flu-A-H3N2	smart9nspike/tag/neb/2	0.26252	152	0.00691	4	13290	579	1	2016228	1000469591
+AdV-3	smart9nspike/tag/neb/2	0.24838	383	0.00454	7	35072	1542	1	2016228	1000469591
+Flu-B	smart9nspike/tag/neb/2	0.24149	149	0.00000	0	14222	617	1	2016228	1000469591
+Flu-A-H1N1-NY	smart9nspike/tag/neb/2	0.21154	121	0.00000	0	13130	572	1	2016228	1000469591
+HPIV-1	smart9nspike/tag/neb/2	0.20177	137	0.00000	0	15412	679	1	2016228	1000469591
+AdV-31	smart9nspike/tag/neb/2	0.14966	220	0.00000	0	33755	1470	2	2016228	1000469591
+AdV-1	smart9nspike/tag/neb/2	0.12995	200	0.00000	0	35676	1539	1	2016228	1000469591
+RSV-A	smart9nspike/tag/neb/2	0.10125	65	0.00000	0	14855	642	2	2016228	1000469591
+HRV-1A	smart9nspike/tag/neb/2	0.09554	30	0.00000	0	7096	314	1	2016228	1000469591
+HMPV	smart9nspike/tag/neb/2	0.05654	32	0.00000	0	13149	566	1	2016228	1000469591
+HPIV-4	smart9nspike/tag/neb/2	0.02993	22	0.00000	0	17132	735	1	2016228	1000469591
+HCoV-229E	smart9nspike/tag/neb/2	0.02408	28	0.00000	0	26841	1163	1	2016228	1000469591
+SARS-CoV-2	smart9nspike/tag/neb/2	0.00000	0	0.00000	0	29778	1316	0	2016228	1000469591
+TOTAL	smart9nspike/tag/neb/2	0.16285	2223	0.00081	11	0	13651	1	2016228	1000469591
+HPIV-2	smart9nspike/tag/neb/3	0.99851	670	0.89568	601	15654	671	21	1277750	1000130130
+HPIV-3	smart9nspike/tag/neb/3	0.99404	667	0.80179	538	15382	671	17	1277750	1000130130
+HRV-1A	smart9nspike/tag/neb/3	0.95223	299	0.50318	158	7096	314	10	1277750	1000130130
+AdV-3	smart9nspike/tag/neb/3	0.90597	1397	0.46433	716	35072	1542	10	1277750	1000130130
+Flu-B	smart9nspike/tag/neb/3	0.90438	558	0.23987	148	14222	617	7	1277750	1000130130
+HMPV	smart9nspike/tag/neb/3	0.90283	511	0.25795	146	13149	566	6	1277750	1000130130
+Flu-A-H1N1-NC	smart9nspike/tag/neb/3	0.86783	499	0.65739	378	13292	575	24	1277750	1000130130
+Flu-A-H1N1-NY	smart9nspike/tag/neb/3	0.85140	487	0.56119	321	13130	572	13	1277750	1000130130
+RSV-A	smart9nspike/tag/neb/3	0.82243	528	0.23988	154	14855	642	5	1277750	1000130130
+HPIV-1	smart9nspike/tag/neb/3	0.76141	517	0.24742	168	15412	679	6	1277750	1000130130
+HCoV-229E	smart9nspike/tag/neb/3	0.70421	819	0.08255	96	26841	1163	3	1277750	1000130130
+AdV-1	smart9nspike/tag/neb/3	0.70240	1081	0.25926	399	35676	1539	7	1277750	1000130130
+Flu-A-H3N2	smart9nspike/tag/neb/3	0.61658	357	0.45078	261	13290	579	23	1277750	1000130130
+HPIV-4	smart9nspike/tag/neb/3	0.58776	432	0.06395	47	17132	735	3	1277750	1000130130
+AdV-31	smart9nspike/tag/neb/3	0.44694	657	0.25986	382	33755	1470	12	1277750	1000130130
+SARS-CoV-2	smart9nspike/tag/neb/3	0.07219	95	0.00000	0	29778	1316	2	1277750	1000130130
+TOTAL	smart9nspike/tag/neb/3	0.70134	9574	0.33060	4513	0	13651	10	1277750	1000130130
+HMPV	smart9nspike/tag/neb/neg	0.04770	27	0.00000	0	13149	566	1	1467	992461
+HPIV-3	smart9nspike/tag/neb/neg	0.04769	32	0.00000	0	15382	671	2	1467	992461
+HPIV-1	smart9nspike/tag/neb/neg	0.02798	19	0.00000	0	15412	679	1	1467	992461
+AdV-1	smart9nspike/tag/neb/neg	0.02339	36	0.00000	0	35676	1539	1	1467	992461
+SARS-CoV-2	smart9nspike/tag/neb/neg	0.01900	25	0.00000	0	29778	1316	2	1467	992461
+AdV-3	smart9nspike/tag/neb/neg	0.01686	26	0.00000	0	35072	1542	1	1467	992461
+Flu-A-H1N1-NC	smart9nspike/tag/neb/neg	0.01565	9	0.00000	0	13292	575	1	1467	992461
+AdV-31	smart9nspike/tag/neb/neg	0.01224	18	0.00000	0	33755	1470	1	1467	992461
+Flu-A-H1N1-NY	smart9nspike/tag/neb/neg	0.01049	6	0.00000	0	13130	572	1	1467	992461
+Flu-A-H3N2	smart9nspike/tag/neb/neg	0.00691	4	0.00000	0	13290	579	1	1467	992461
+Flu-B	smart9nspike/tag/neb/neg	0.00000	0	0.00000	0	14222	617	0	1467	992461
+HPIV-2	smart9nspike/tag/neb/neg	0.00000	0	0.00000	0	15654	671	0	1467	992461
+HPIV-4	smart9nspike/tag/neb/neg	0.00000	0	0.00000	0	17132	735	0	1467	992461
+HRV-1A	smart9nspike/tag/neb/neg	0.00000	0	0.00000	0	7096	314	0	1467	992461
+RSV-A	smart9nspike/tag/neb/neg	0.00000	0	0.00000	0	14855	642	0	1467	992461
+HCoV-229E	smart9nspike/tag/neb/neg	0.00000	0	0.00000	0	26841	1163	0	1467	992461
+TOTAL	smart9nspike/tag/neb/neg	0.01480	202	0.00000	0	0	13651	1	1467	992461
+HPIV-3	smart9nspike/tag/rlb/1	0.19970	134	0.00000	0	15382	671	1	224335	49964998
+HRV-1A	smart9nspike/tag/rlb/1	0.09236	29	0.00000	0	7096	314	1	224335	49964998
+Flu-A-H1N1-NC	smart9nspike/tag/rlb/1	0.07478	43	0.00000	0	13292	575	1	224335	49964998
+HPIV-2	smart9nspike/tag/rlb/1	0.06408	43	0.00000	0	15654	671	1	224335	49964998
+Flu-A-H3N2	smart9nspike/tag/rlb/1	0.03800	22	0.00000	0	13290	579	1	224335	49964998
+AdV-3	smart9nspike/tag/rlb/1	0.02659	41	0.00000	0	35072	1542	1	224335	49964998
+HPIV-1	smart9nspike/tag/rlb/1	0.02651	18	0.00000	0	15412	679	1	224335	49964998
+SARS-CoV-2	smart9nspike/tag/rlb/1	0.02584	34	0.00000	0	29778	1316	1	224335	49964998
+Flu-A-H1N1-NY	smart9nspike/tag/rlb/1	0.02098	12	0.00000	0	13130	572	1	224335	49964998
+AdV-1	smart9nspike/tag/rlb/1	0.01754	27	0.00000	0	35676	1539	1	224335	49964998
+AdV-31	smart9nspike/tag/rlb/1	0.01429	21	0.00000	0	33755	1470	1	224335	49964998
+Flu-B	smart9nspike/tag/rlb/1	0.01297	8	0.00000	0	14222	617	1	224335	49964998
+RSV-A	smart9nspike/tag/rlb/1	0.00779	5	0.00000	0	14855	642	2	224335	49964998
+HPIV-4	smart9nspike/tag/rlb/1	0.00408	3	0.00000	0	17132	735	1	224335	49964998
+HMPV	smart9nspike/tag/rlb/1	0.00000	0	0.00000	0	13149	566	0	224335	49964998
+HCoV-229E	smart9nspike/tag/rlb/1	0.00000	0	0.00000	0	26841	1163	0	224335	49964998
+TOTAL	smart9nspike/tag/rlb/1	0.03223	440	0.00000	0	0	13651	1	224335	49964998
+HPIV-3	smart9nspike/tag/rlb/2	0.25633	172	0.00000	0	15382	671	1	2217810	1000069280
+HMPV	smart9nspike/tag/rlb/2	0.16254	92	0.00000	0	13149	566	1	2217810	1000069280
+Flu-A-H1N1-NC	smart9nspike/tag/rlb/2	0.14783	85	0.00000	0	13292	575	1	2217810	1000069280
+HPIV-2	smart9nspike/tag/rlb/2	0.12519	84	0.00000	0	15654	671	1	2217810	1000069280
+HRV-1A	smart9nspike/tag/rlb/2	0.11783	37	0.00000	0	7096	314	2	2217810	1000069280
+AdV-31	smart9nspike/tag/rlb/2	0.09252	136	0.00000	0	33755	1470	1	2217810	1000069280
+Flu-A-H3N2	smart9nspike/tag/rlb/2	0.09154	53	0.00518	3	13290	579	1	2217810	1000069280
+AdV-1	smart9nspike/tag/rlb/2	0.08707	134	0.00520	8	35676	1539	1	2217810	1000069280
+Flu-A-H1N1-NY	smart9nspike/tag/rlb/2	0.08042	46	0.00000	0	13130	572	1	2217810	1000069280
+AdV-3	smart9nspike/tag/rlb/2	0.07912	122	0.00000	0	35072	1542	1	2217810	1000069280
+SARS-CoV-2	smart9nspike/tag/rlb/2	0.03951	52	0.00000	0	29778	1316	1	2217810	1000069280
+Flu-B	smart9nspike/tag/rlb/2	0.03404	21	0.00000	0	14222	617	1	2217810	1000069280
+HCoV-229E	smart9nspike/tag/rlb/2	0.00774	9	0.00000	0	26841	1163	1	2217810	1000069280
+HPIV-4	smart9nspike/tag/rlb/2	0.00272	2	0.00000	0	17132	735	1	2217810	1000069280
+HPIV-1	smart9nspike/tag/rlb/2	0.00000	0	0.00000	0	15412	679	0	2217810	1000069280
+RSV-A	smart9nspike/tag/rlb/2	0.00000	0	0.00000	0	14855	642	0	2217810	1000069280
+TOTAL	smart9nspike/tag/rlb/2	0.07655	1045	0.00081	11	0	13651	1	2217810	1000069280
+Flu-A-H1N1-NC	smart9nspike/tag/rlb/3	0.13391	77	0.00000	0	13292	575	1	165101	39567114
+HPIV-2	smart9nspike/tag/rlb/3	0.12370	83	0.00000	0	15654	671	2	165101	39567114
+HRV-1A	smart9nspike/tag/rlb/3	0.09236	29	0.00000	0	7096	314	2	165101	39567114
+HPIV-3	smart9nspike/tag/rlb/3	0.05663	38	0.00000	0	15382	671	1	165101	39567114
+Flu-B	smart9nspike/tag/rlb/3	0.05024	31	0.00000	0	14222	617	1	165101	39567114
+Flu-A-H1N1-NY	smart9nspike/tag/rlb/3	0.04895	28	0.00000	0	13130	572	1	165101	39567114
+AdV-3	smart9nspike/tag/rlb/3	0.04540	70	0.00000	0	35072	1542	1	165101	39567114
+Flu-A-H3N2	smart9nspike/tag/rlb/3	0.03972	23	0.00000	0	13290	579	1	165101	39567114
+RSV-A	smart9nspike/tag/rlb/3	0.03583	23	0.00000	0	14855	642	2	165101	39567114
+AdV-31	smart9nspike/tag/rlb/3	0.03265	48	0.00000	0	33755	1470	1	165101	39567114
+SARS-CoV-2	smart9nspike/tag/rlb/3	0.02432	32	0.00000	0	29778	1316	1	165101	39567114
+AdV-1	smart9nspike/tag/rlb/3	0.01559	24	0.00000	0	35676	1539	1	165101	39567114
+HPIV-4	smart9nspike/tag/rlb/3	0.00816	6	0.00000	0	17132	735	2	165101	39567114
+HMPV	smart9nspike/tag/rlb/3	0.00707	4	0.00000	0	13149	566	1	165101	39567114
+HPIV-1	smart9nspike/tag/rlb/3	0.00000	0	0.00000	0	15412	679	0	165101	39567114
+HCoV-229E	smart9nspike/tag/rlb/3	0.00000	0	0.00000	0	26841	1163	0	165101	39567114
+TOTAL	smart9nspike/tag/rlb/3	0.03780	516	0.00000	0	0	13651	1	165101	39567114
+Flu-A-H3N2	smart9nspike/tag/rlb/neg	0.05009	29	0.00000	0	13290	579	1	1325	938069
+Flu-A-H1N1-NC	smart9nspike/tag/rlb/neg	0.04696	27	0.00000	0	13292	575	1	1325	938069
+RSV-A	smart9nspike/tag/rlb/neg	0.02960	19	0.00000	0	14855	642	1	1325	938069
+AdV-1	smart9nspike/tag/rlb/neg	0.02404	37	0.00000	0	35676	1539	1	1325	938069
+AdV-31	smart9nspike/tag/rlb/neg	0.02109	31	0.00000	0	33755	1470	1	1325	938069
+HPIV-2	smart9nspike/tag/rlb/neg	0.01341	9	0.00000	0	15654	671	1	1325	938069
+AdV-3	smart9nspike/tag/rlb/neg	0.01167	18	0.00000	0	35072	1542	1	1325	938069
+Flu-A-H1N1-NY	smart9nspike/tag/rlb/neg	0.00000	0	0.00000	0	13130	572	0	1325	938069
+Flu-B	smart9nspike/tag/rlb/neg	0.00000	0	0.00000	0	14222	617	0	1325	938069
+HMPV	smart9nspike/tag/rlb/neg	0.00000	0	0.00000	0	13149	566	0	1325	938069
+HPIV-1	smart9nspike/tag/rlb/neg	0.00000	0	0.00000	0	15412	679	0	1325	938069
+HPIV-3	smart9nspike/tag/rlb/neg	0.00000	0	0.00000	0	15382	671	0	1325	938069
+HPIV-4	smart9nspike/tag/rlb/neg	0.00000	0	0.00000	0	17132	735	0	1325	938069
+HRV-1A	smart9nspike/tag/rlb/neg	0.00000	0	0.00000	0	7096	314	0	1325	938069
+SARS-CoV-2	smart9nspike/tag/rlb/neg	0.00000	0	0.00000	0	29778	1316	0	1325	938069
+HCoV-229E	smart9nspike/tag/rlb/neg	0.00000	0	0.00000	0	26841	1163	0	1325	938069
+TOTAL	smart9nspike/tag/rlb/neg	0.01245	170	0.00000	0	0	13651	1	1325	938069
+HPIV-2	smart9nspike/tag/neb+rlb/1	0.44262	297	0.00745	5	15654	671	1	610212	127957863
+Flu-A-H1N1-NC	smart9nspike/tag/neb+rlb/1	0.33739	194	0.00000	0	13292	575	1	610212	127957863
+HPIV-3	smart9nspike/tag/neb+rlb/1	0.24441	164	0.00000	0	15382	671	1	610212	127957863
+AdV-3	smart9nspike/tag/neb+rlb/1	0.20947	323	0.00000	0	35072	1542	1	610212	127957863
+RSV-A	smart9nspike/tag/neb+rlb/1	0.17445	112	0.00000	0	14855	642	1	610212	127957863
+Flu-A-H1N1-NY	smart9nspike/tag/neb+rlb/1	0.14510	83	0.00000	0	13130	572	1	610212	127957863
+AdV-1	smart9nspike/tag/neb+rlb/1	0.12151	187	0.00000	0	35676	1539	1	610212	127957863
+AdV-31	smart9nspike/tag/neb+rlb/1	0.11973	176	0.00000	0	33755	1470	1	610212	127957863
+HRV-1A	smart9nspike/tag/neb+rlb/1	0.11465	36	0.00000	0	7096	314	1	610212	127957863
+Flu-A-H3N2	smart9nspike/tag/neb+rlb/1	0.11399	66	0.00345	2	13290	579	1	610212	127957863
+HPIV-4	smart9nspike/tag/neb+rlb/1	0.09388	69	0.00000	0	17132	735	2	610212	127957863
+HMPV	smart9nspike/tag/neb+rlb/1	0.07774	44	0.00000	0	13149	566	1	610212	127957863
+Flu-B	smart9nspike/tag/neb+rlb/1	0.06807	42	0.00000	0	14222	617	1	610212	127957863
+HPIV-1	smart9nspike/tag/neb+rlb/1	0.04860	33	0.00000	0	15412	679	1	610212	127957863
+SARS-CoV-2	smart9nspike/tag/neb+rlb/1	0.03495	46	0.00000	0	29778	1316	1	610212	127957863
+HCoV-229E	smart9nspike/tag/neb+rlb/1	0.00516	6	0.00000	0	26841	1163	1	610212	127957863
+TOTAL	smart9nspike/tag/neb+rlb/1	0.13757	1878	0.00051	7	0	13651	1	610212	127957863
+RSV-A	smart9nspike/tag/neb+rlb/2	0.25545	164	0.00000	0	14855	642	1	2631662	1000233016
+AdV-3	smart9nspike/tag/neb+rlb/2	0.12840	198	0.00000	0	35072	1542	1	2631662	1000233016
+HPIV-3	smart9nspike/tag/neb+rlb/2	0.12519	84	0.00000	0	15382	671	1	2631662	1000233016
+HMPV	smart9nspike/tag/neb+rlb/2	0.12014	68	0.00000	0	13149	566	1	2631662	1000233016
+Flu-A-H1N1-NY	smart9nspike/tag/neb+rlb/2	0.10490	60	0.00000	0	13130	572	1	2631662	1000233016
+Flu-A-H1N1-NC	smart9nspike/tag/neb+rlb/2	0.10435	60	0.00000	0	13292	575	2	2631662	1000233016
+HPIV-2	smart9nspike/tag/neb+rlb/2	0.10283	69	0.00000	0	15654	671	1	2631662	1000233016
+HPIV-4	smart9nspike/tag/neb+rlb/2	0.10068	74	0.00000	0	17132	735	1	2631662	1000233016
+HRV-1A	smart9nspike/tag/neb+rlb/2	0.09873	31	0.00000	0	7096	314	1	2631662	1000233016
+HPIV-1	smart9nspike/tag/neb+rlb/2	0.08395	57	0.00000	0	15412	679	2	2631662	1000233016
+Flu-A-H3N2	smart9nspike/tag/neb+rlb/2	0.07599	44	0.00691	4	13290	579	1	2631662	1000233016
+AdV-31	smart9nspike/tag/neb+rlb/2	0.07551	111	0.00000	0	33755	1470	1	2631662	1000233016
+Flu-B	smart9nspike/tag/neb+rlb/2	0.06483	40	0.00000	0	14222	617	1	2631662	1000233016
+HCoV-229E	smart9nspike/tag/neb+rlb/2	0.03783	44	0.00000	0	26841	1163	1	2631662	1000233016
+AdV-1	smart9nspike/tag/neb+rlb/2	0.03509	54	0.00000	0	35676	1539	1	2631662	1000233016
+SARS-CoV-2	smart9nspike/tag/neb+rlb/2	0.00000	0	0.00000	0	29778	1316	0	2631662	1000233016
+TOTAL	smart9nspike/tag/neb+rlb/2	0.08483	1158	0.00029	4	0	13651	1	2631662	1000233016
+HPIV-2	smart9nspike/tag/neb+rlb/3	0.56334	378	0.02683	18	15654	671	2	1099477	274945972
+Flu-A-H1N1-NC	smart9nspike/tag/neb+rlb/3	0.51652	297	0.00000	0	13292	575	2	1099477	274945972
+HPIV-3	smart9nspike/tag/neb+rlb/3	0.47541	319	0.00000	0	15382	671	1	1099477	274945972
+Flu-A-H3N2	smart9nspike/tag/neb+rlb/3	0.32988	191	0.00864	5	13290	579	2	1099477	274945972
+Flu-A-H1N1-NY	smart9nspike/tag/neb+rlb/3	0.32168	184	0.00000	0	13130	572	1	1099477	274945972
+Flu-B	smart9nspike/tag/neb+rlb/3	0.31605	195	0.00000	0	14222	617	1	1099477	274945972
+AdV-3	smart9nspike/tag/neb+rlb/3	0.31323	483	0.01492	23	35072	1542	2	1099477	274945972
+HRV-1A	smart9nspike/tag/neb+rlb/3	0.31210	98	0.00000	0	7096	314	1	1099477	274945972
+RSV-A	smart9nspike/tag/neb+rlb/3	0.28193	181	0.00312	2	14855	642	2	1099477	274945972
+AdV-1	smart9nspike/tag/neb+rlb/3	0.25146	387	0.00325	5	35676	1539	1	1099477	274945972
+HMPV	smart9nspike/tag/neb+rlb/3	0.20495	116	0.00000	0	13149	566	1	1099477	274945972
+HPIV-1	smart9nspike/tag/neb+rlb/3	0.20471	139	0.00000	0	15412	679	2	1099477	274945972
+AdV-31	smart9nspike/tag/neb+rlb/3	0.16735	246	0.01633	24	33755	1470	2	1099477	274945972
+SARS-CoV-2	smart9nspike/tag/neb+rlb/3	0.04559	60	0.00000	0	29778	1316	1	1099477	274945972
+HPIV-4	smart9nspike/tag/neb+rlb/3	0.03537	26	0.00000	0	17132	735	1	1099477	274945972
+HCoV-229E	smart9nspike/tag/neb+rlb/3	0.03525	41	0.00000	0	26841	1163	2	1099477	274945972
+TOTAL	smart9nspike/tag/neb+rlb/3	0.24474	3341	0.00564	77	0	13651	2	1099477	274945972
+HPIV-2	smart9nspike/tag/neb+rlb/neg	0.25782	173	0.00000	0	15654	671	2	1233	911181
+Flu-A-H1N1-NC	smart9nspike/tag/neb+rlb/neg	0.07130	41	0.00000	0	13292	575	1	1233	911181
+Flu-A-H3N2	smart9nspike/tag/neb+rlb/neg	0.05872	34	0.00000	0	13290	579	1	1233	911181
+HPIV-3	smart9nspike/tag/neb+rlb/neg	0.05067	34	0.00000	0	15382	671	1	1233	911181
+HMPV	smart9nspike/tag/neb+rlb/neg	0.04947	28	0.00000	0	13149	566	1	1233	911181
+HPIV-4	smart9nspike/tag/neb+rlb/neg	0.03946	29	0.00000	0	17132	735	1	1233	911181
+RSV-A	smart9nspike/tag/neb+rlb/neg	0.02960	19	0.00000	0	14855	642	1	1233	911181
+AdV-3	smart9nspike/tag/neb+rlb/neg	0.02724	42	0.00000	0	35072	1542	1	1233	911181
+Flu-A-H1N1-NY	smart9nspike/tag/neb+rlb/neg	0.02622	15	0.00000	0	13130	572	1	1233	911181
+Flu-B	smart9nspike/tag/neb+rlb/neg	0.01621	10	0.00000	0	14222	617	1	1233	911181
+HCoV-229E	smart9nspike/tag/neb+rlb/neg	0.00860	10	0.00000	0	26841	1163	1	1233	911181
+AdV-31	smart9nspike/tag/neb+rlb/neg	0.00680	10	0.00000	0	33755	1470	2	1233	911181
+AdV-1	smart9nspike/tag/neb+rlb/neg	0.00000	0	0.00000	0	35676	1539	0	1233	911181
+HPIV-1	smart9nspike/tag/neb+rlb/neg	0.00000	0	0.00000	0	15412	679	0	1233	911181
+HRV-1A	smart9nspike/tag/neb+rlb/neg	0.00000	0	0.00000	0	7096	314	0	1233	911181
+SARS-CoV-2	smart9nspike/tag/neb+rlb/neg	0.00000	0	0.00000	0	29778	1316	0	1233	911181
+TOTAL	smart9nspike/tag/neb+rlb/neg	0.03260	445	0.00000	0	0	13651	1	1233	911181
+Flu-A-H1N1-NY	roundacleanup/tag/neb/1/clean	0.11538	66	0.00000	0	13130	572	2	1255455	118039112
+Flu-A-H3N2	roundacleanup/tag/neb/1/clean	0.08808	51	0.00345	2	13290	579	1	1255455	118039112
+HPIV-3	roundacleanup/tag/neb/1/clean	0.08644	58	0.00000	0	15382	671	2	1255455	118039112
+Flu-A-H1N1-NC	roundacleanup/tag/neb/1/clean	0.08348	48	0.00000	0	13292	575	2	1255455	118039112
+AdV-3	roundacleanup/tag/neb/1/clean	0.06161	95	0.00000	0	35072	1542	1	1255455	118039112
+HRV-1A	roundacleanup/tag/neb/1/clean	0.06051	19	0.00000	0	7096	314	2	1255455	118039112
+HPIV-2	roundacleanup/tag/neb/1/clean	0.02832	19	0.00000	0	15654	671	2	1255455	118039112
+AdV-1	roundacleanup/tag/neb/1/clean	0.02534	39	0.00000	0	35676	1539	1	1255455	118039112
+AdV-31	roundacleanup/tag/neb/1/clean	0.01429	21	0.00000	0	33755	1470	1	1255455	118039112
+Flu-B	roundacleanup/tag/neb/1/clean	0.00972	6	0.00000	0	14222	617	1	1255455	118039112
+HPIV-1	roundacleanup/tag/neb/1/clean	0.00295	2	0.00000	0	15412	679	1	1255455	118039112
+SARS-CoV-2	roundacleanup/tag/neb/1/clean	0.00152	2	0.00000	0	29778	1316	1	1255455	118039112
+HMPV	roundacleanup/tag/neb/1/clean	0.00000	0	0.00000	0	13149	566	0	1255455	118039112
+HPIV-4	roundacleanup/tag/neb/1/clean	0.00000	0	0.00000	0	17132	735	0	1255455	118039112
+RSV-A	roundacleanup/tag/neb/1/clean	0.00000	0	0.00000	0	14855	642	0	1255455	118039112
+HCoV-229E	roundacleanup/tag/neb/1/clean	0.00000	0	0.00000	0	26841	1163	0	1255455	118039112
+TOTAL	roundacleanup/tag/neb/1/clean	0.03121	426	0.00015	2	0	13651	1	1255455	118039112
+AdV-3	roundacleanup/tag/neb/2/clean	0.15824	244	0.00000	0	35072	1542	1	1481248	137738266
+Flu-A-H3N2	roundacleanup/tag/neb/2/clean	0.10708	62	0.00345	2	13290	579	1	1481248	137738266
+HPIV-2	roundacleanup/tag/neb/2/clean	0.09538	64	0.00000	0	15654	671	1	1481248	137738266
+HMPV	roundacleanup/tag/neb/2/clean	0.09011	51	0.00000	0	13149	566	2	1481248	137738266
+HPIV-3	roundacleanup/tag/neb/2/clean	0.08942	60	0.00000	0	15382	671	2	1481248	137738266
+Flu-A-H1N1-NC	roundacleanup/tag/neb/2/clean	0.08870	51	0.00000	0	13292	575	1	1481248	137738266
+Flu-A-H1N1-NY	roundacleanup/tag/neb/2/clean	0.08042	46	0.00000	0	13130	572	1	1481248	137738266
+AdV-31	roundacleanup/tag/neb/2/clean	0.06054	89	0.00000	0	33755	1470	2	1481248	137738266
+AdV-1	roundacleanup/tag/neb/2/clean	0.05198	80	0.00065	1	35676	1539	2	1481248	137738266
+Flu-B	roundacleanup/tag/neb/2/clean	0.03241	20	0.00000	0	14222	617	1	1481248	137738266
+HPIV-4	roundacleanup/tag/neb/2/clean	0.01769	13	0.00000	0	17132	735	2	1481248	137738266
+HCoV-229E	roundacleanup/tag/neb/2/clean	0.01548	18	0.00000	0	26841	1163	2	1481248	137738266
+RSV-A	roundacleanup/tag/neb/2/clean	0.00467	3	0.00000	0	14855	642	1	1481248	137738266
+HPIV-1	roundacleanup/tag/neb/2/clean	0.00000	0	0.00000	0	15412	679	0	1481248	137738266
+HRV-1A	roundacleanup/tag/neb/2/clean	0.00000	0	0.00000	0	7096	314	0	1481248	137738266
+SARS-CoV-2	roundacleanup/tag/neb/2/clean	0.00000	0	0.00000	0	29778	1316	0	1481248	137738266
+TOTAL	roundacleanup/tag/neb/2/clean	0.05868	801	0.00022	3	0	13651	1	1481248	137738266
+HPIV-3	roundacleanup/tag/neb/3/clean	0.19821	133	0.00000	0	15382	671	2	819857	78138231
+HRV-1A	roundacleanup/tag/neb/3/clean	0.11465	36	0.00000	0	7096	314	2	819857	78138231
+HPIV-2	roundacleanup/tag/neb/3/clean	0.06706	45	0.00000	0	15654	671	1	819857	78138231
+AdV-3	roundacleanup/tag/neb/3/clean	0.06096	94	0.00000	0	35072	1542	1	819857	78138231
+Flu-A-H1N1-NY	roundacleanup/tag/neb/3/clean	0.02797	16	0.00000	0	13130	572	1	819857	78138231
+HMPV	roundacleanup/tag/neb/3/clean	0.02650	15	0.00000	0	13149	566	1	819857	78138231
+Flu-A-H1N1-NC	roundacleanup/tag/neb/3/clean	0.02435	14	0.00000	0	13292	575	1	819857	78138231
+AdV-1	roundacleanup/tag/neb/3/clean	0.02209	34	0.00000	0	35676	1539	1	819857	78138231
+AdV-31	roundacleanup/tag/neb/3/clean	0.01769	26	0.00000	0	33755	1470	1	819857	78138231
+HPIV-4	roundacleanup/tag/neb/3/clean	0.01633	12	0.00000	0	17132	735	1	819857	78138231
+Flu-A-H3N2	roundacleanup/tag/neb/3/clean	0.00518	3	0.00518	3	13290	579	62	819857	78138231
+HPIV-1	roundacleanup/tag/neb/3/clean	0.00442	3	0.00000	0	15412	679	1	819857	78138231
+HCoV-229E	roundacleanup/tag/neb/3/clean	0.00258	3	0.00000	0	26841	1163	1	819857	78138231
+Flu-B	roundacleanup/tag/neb/3/clean	0.00162	1	0.00000	0	14222	617	2	819857	78138231
+RSV-A	roundacleanup/tag/neb/3/clean	0.00000	0	0.00000	0	14855	642	0	819857	78138231
+SARS-CoV-2	roundacleanup/tag/neb/3/clean	0.00000	0	0.00000	0	29778	1316	0	819857	78138231
+TOTAL	roundacleanup/tag/neb/3/clean	0.03187	435	0.00022	3	0	13651	4	819857	78138231
+HPIV-3	roundacleanup/tag/neb/1	0.57377	385	0.49925	335	15382	671	48	4139256	504026854
+HRV-1A	roundacleanup/tag/neb/1	0.56051	176	0.53822	169	7096	314	38	4139256	504026854
+AdV-3	roundacleanup/tag/neb/1	0.50713	782	0.45266	698	35072	1542	76	4139256	504026854
+HPIV-2	roundacleanup/tag/neb/1	0.41878	281	0.28167	189	15654	671	31	4139256	504026854
+Flu-A-H1N1-NY	roundacleanup/tag/neb/1	0.40559	232	0.31469	180	13130	572	60	4139256	504026854
+HMPV	roundacleanup/tag/neb/1	0.37279	211	0.31625	179	13149	566	17	4139256	504026854
+AdV-1	roundacleanup/tag/neb/1	0.35673	549	0.30994	477	35676	1539	52	4139256	504026854
+Flu-A-H3N2	roundacleanup/tag/neb/1	0.32124	186	0.24525	142	13290	579	47	4139256	504026854
+AdV-31	roundacleanup/tag/neb/1	0.27143	399	0.24830	365	33755	1470	62	4139256	504026854
+Flu-A-H1N1-NC	roundacleanup/tag/neb/1	0.27130	156	0.18087	104	13292	575	72	4139256	504026854
+HPIV-1	roundacleanup/tag/neb/1	0.24006	163	0.17526	119	15412	679	23	4139256	504026854
+Flu-B	roundacleanup/tag/neb/1	0.16370	101	0.08266	51	14222	617	10	4139256	504026854
+RSV-A	roundacleanup/tag/neb/1	0.05140	33	0.05140	33	14855	642	1650	4139256	504026854
+HCoV-229E	roundacleanup/tag/neb/1	0.03955	46	0.01634	19	26841	1163	6	4139256	504026854
+SARS-CoV-2	roundacleanup/tag/neb/1	0.01900	25	0.01900	25	29778	1316	35	4139256	504026854
+HPIV-4	roundacleanup/tag/neb/1	0.01361	10	0.01224	9	17132	735	63	4139256	504026854
+TOTAL	roundacleanup/tag/neb/1	0.27361	3735	0.22650	3092	0	13651	121	4139256	504026854
+HPIV-3	roundacleanup/tag/neb/2	0.94188	632	0.94039	631	15382	671	64	7590232	1000199391
+HRV-1A	roundacleanup/tag/neb/2	0.59236	186	0.42675	134	7096	314	81	7590232	1000199391
+Flu-A-H1N1-NY	roundacleanup/tag/neb/2	0.52797	302	0.45455	260	13130	572	88	7590232	1000199391
+HPIV-2	roundacleanup/tag/neb/2	0.47988	322	0.37705	253	15654	671	88	7590232	1000199391
+Flu-A-H1N1-NC	roundacleanup/tag/neb/2	0.44696	257	0.37391	215	13292	575	110	7590232	1000199391
+AdV-3	roundacleanup/tag/neb/2	0.41310	637	0.30869	476	35072	1542	183	7590232	1000199391
+Flu-A-H3N2	roundacleanup/tag/neb/2	0.33333	193	0.27634	160	13290	579	111	7590232	1000199391
+AdV-1	roundacleanup/tag/neb/2	0.27875	429	0.17804	274	35676	1539	56	7590232	1000199391
+HMPV	roundacleanup/tag/neb/2	0.27562	156	0.22615	128	13149	566	98	7590232	1000199391
+AdV-31	roundacleanup/tag/neb/2	0.24014	353	0.18912	278	33755	1470	131	7590232	1000199391
+HPIV-1	roundacleanup/tag/neb/2	0.20324	138	0.13991	95	15412	679	52	7590232	1000199391
+Flu-B	roundacleanup/tag/neb/2	0.16532	102	0.12642	78	14222	617	303	7590232	1000199391
+HCoV-229E	roundacleanup/tag/neb/2	0.12124	141	0.12124	141	26841	1163	52	7590232	1000199391
+RSV-A	roundacleanup/tag/neb/2	0.09034	58	0.03271	21	14855	642	2	7590232	1000199391
+HPIV-4	roundacleanup/tag/neb/2	0.05986	44	0.05986	44	17132	735	132	7590232	1000199391
+SARS-CoV-2	roundacleanup/tag/neb/2	0.04179	55	0.04103	54	29778	1316	61	7590232	1000199391
+TOTAL	roundacleanup/tag/neb/2	0.29339	4005	0.23727	3239	0	13651	101	7590232	1000199391
+HPIV-3	roundacleanup/tag/neb/3	0.59613	400	0.42921	288	15382	671	28	8264544	1000199169
+AdV-3	roundacleanup/tag/neb/3	0.42348	653	0.33917	523	35072	1542	125	8264544	1000199169
+HPIV-1	roundacleanup/tag/neb/3	0.42268	287	0.19440	132	15412	679	2	8264544	1000199169
+Flu-A-H1N1-NC	roundacleanup/tag/neb/3	0.38087	219	0.34957	201	13292	575	136	8264544	1000199169
+HRV-1A	roundacleanup/tag/neb/3	0.37580	118	0.23567	74	7096	314	138	8264544	1000199169
+Flu-A-H3N2	roundacleanup/tag/neb/3	0.36097	209	0.30052	174	13290	579	120	8264544	1000199169
+AdV-1	roundacleanup/tag/neb/3	0.34113	525	0.16959	261	35676	1539	9	8264544	1000199169
+Flu-A-H1N1-NY	roundacleanup/tag/neb/3	0.33741	193	0.31643	181	13130	572	261	8264544	1000199169
+HMPV	roundacleanup/tag/neb/3	0.31802	180	0.28092	159	13149	566	42	8264544	1000199169
+AdV-31	roundacleanup/tag/neb/3	0.25510	375	0.18912	278	33755	1470	41	8264544	1000199169
+HPIV-2	roundacleanup/tag/neb/3	0.19225	129	0.12817	86	15654	671	54	8264544	1000199169
+HPIV-4	roundacleanup/tag/neb/3	0.13469	99	0.13061	96	17132	735	30	8264544	1000199169
+Flu-B	roundacleanup/tag/neb/3	0.09887	61	0.07942	49	14222	617	100	8264544	1000199169
+RSV-A	roundacleanup/tag/neb/3	0.07944	51	0.07944	51	14855	642	245	8264544	1000199169
+HCoV-229E	roundacleanup/tag/neb/3	0.06191	72	0.04643	54	26841	1163	62	8264544	1000199169
+SARS-CoV-2	roundacleanup/tag/neb/3	0.02888	38	0.02812	37	29778	1316	22	8264544	1000199169
+TOTAL	roundacleanup/tag/neb/3	0.26438	3609	0.19369	2644	0	13651	75	8264544	1000199169
+HPIV-3	roundacleanup/tag/neb/neg	0.32340	217	0.00000	0	15382	671	2	18452	1392531
+HPIV-4	roundacleanup/tag/neb/neg	0.10612	78	0.00000	0	17132	735	2	18452	1392531
+Flu-A-H1N1-NY	roundacleanup/tag/neb/neg	0.07867	45	0.00000	0	13130	572	1	18452	1392531
+AdV-3	roundacleanup/tag/neb/neg	0.07847	121	0.00000	0	35072	1542	1	18452	1392531
+HRV-1A	roundacleanup/tag/neb/neg	0.07006	22	0.00000	0	7096	314	1	18452	1392531
+Flu-A-H3N2	roundacleanup/tag/neb/neg	0.05181	30	0.00000	0	13290	579	1	18452	1392531
+Flu-A-H1N1-NC	roundacleanup/tag/neb/neg	0.04174	24	0.00000	0	13292	575	1	18452	1392531
+HMPV	roundacleanup/tag/neb/neg	0.03180	18	0.00000	0	13149	566	2	18452	1392531
+AdV-31	roundacleanup/tag/neb/neg	0.02177	32	0.00000	0	33755	1470	1	18452	1392531
+SARS-CoV-2	roundacleanup/tag/neb/neg	0.01140	15	0.00000	0	29778	1316	1	18452	1392531
+HCoV-229E	roundacleanup/tag/neb/neg	0.00258	3	0.00000	0	26841	1163	1	18452	1392531
+AdV-1	roundacleanup/tag/neb/neg	0.00195	3	0.00000	0	35676	1539	2	18452	1392531
+Flu-B	roundacleanup/tag/neb/neg	0.00000	0	0.00000	0	14222	617	0	18452	1392531
+HPIV-1	roundacleanup/tag/neb/neg	0.00000	0	0.00000	0	15412	679	0	18452	1392531
+HPIV-2	roundacleanup/tag/neb/neg	0.00000	0	0.00000	0	15654	671	0	18452	1392531
+RSV-A	roundacleanup/tag/neb/neg	0.00000	0	0.00000	0	14855	642	0	18452	1392531
+TOTAL	roundacleanup/tag/neb/neg	0.04454	608	0.00000	0	0	13651	1	18452	1392531
+HRV-1A	roundacleanup/tag/rlb/1/clean	0.13376	42	0.00000	0	7096	314	1	63423	4852792
+AdV-3	roundacleanup/tag/rlb/1/clean	0.10506	162	0.00000	0	35072	1542	1	63423	4852792
+HPIV-2	roundacleanup/tag/rlb/1/clean	0.09687	65	0.00000	0	15654	671	2	63423	4852792
+HPIV-3	roundacleanup/tag/rlb/1/clean	0.09538	64	0.00000	0	15382	671	2	63423	4852792
+Flu-A-H1N1-NC	roundacleanup/tag/rlb/1/clean	0.08522	49	0.00000	0	13292	575	2	63423	4852792
+Flu-A-H1N1-NY	roundacleanup/tag/rlb/1/clean	0.07168	41	0.00000	0	13130	572	2	63423	4852792
+AdV-31	roundacleanup/tag/rlb/1/clean	0.06871	101	0.00000	0	33755	1470	1	63423	4852792
+HMPV	roundacleanup/tag/rlb/1/clean	0.06714	38	0.00000	0	13149	566	2	63423	4852792
+AdV-1	roundacleanup/tag/rlb/1/clean	0.04418	68	0.00000	0	35676	1539	1	63423	4852792
+SARS-CoV-2	roundacleanup/tag/rlb/1/clean	0.04255	56	0.00000	0	29778	1316	1	63423	4852792
+RSV-A	roundacleanup/tag/rlb/1/clean	0.03894	25	0.00000	0	14855	642	2	63423	4852792
+Flu-A-H3N2	roundacleanup/tag/rlb/1/clean	0.02591	15	0.00000	0	13290	579	2	63423	4852792
+HCoV-229E	roundacleanup/tag/rlb/1/clean	0.01462	17	0.00000	0	26841	1163	1	63423	4852792
+HPIV-1	roundacleanup/tag/rlb/1/clean	0.01031	7	0.00000	0	15412	679	1	63423	4852792
+Flu-B	roundacleanup/tag/rlb/1/clean	0.00000	0	0.00000	0	14222	617	0	63423	4852792
+HPIV-4	roundacleanup/tag/rlb/1/clean	0.00000	0	0.00000	0	17132	735	0	63423	4852792
+TOTAL	roundacleanup/tag/rlb/1/clean	0.05494	750	0.00000	0	0	13651	1	63423	4852792
+HRV-1A	roundacleanup/tag/rlb/2/clean	0.12102	38	0.00000	0	7096	314	2	30075	2174163
+Flu-A-H1N1-NY	roundacleanup/tag/rlb/2/clean	0.11713	67	0.00000	0	13130	572	2	30075	2174163
+AdV-3	roundacleanup/tag/rlb/2/clean	0.09468	146	0.00000	0	35072	1542	1	30075	2174163
+Flu-A-H3N2	roundacleanup/tag/rlb/2/clean	0.07599	44	0.00000	0	13290	579	2	30075	2174163
+HPIV-2	roundacleanup/tag/rlb/2/clean	0.07452	50	0.00000	0	15654	671	1	30075	2174163
+SARS-CoV-2	roundacleanup/tag/rlb/2/clean	0.03799	50	0.00000	0	29778	1316	1	30075	2174163
+AdV-1	roundacleanup/tag/rlb/2/clean	0.02469	38	0.00000	0	35676	1539	1	30075	2174163
+Flu-A-H1N1-NC	roundacleanup/tag/rlb/2/clean	0.01913	11	0.00000	0	13292	575	1	30075	2174163
+AdV-31	roundacleanup/tag/rlb/2/clean	0.01497	22	0.00000	0	33755	1470	1	30075	2174163
+HCoV-229E	roundacleanup/tag/rlb/2/clean	0.00774	9	0.00000	0	26841	1163	2	30075	2174163
+Flu-B	roundacleanup/tag/rlb/2/clean	0.00486	3	0.00000	0	14222	617	1	30075	2174163
+HMPV	roundacleanup/tag/rlb/2/clean	0.00000	0	0.00000	0	13149	566	0	30075	2174163
+HPIV-1	roundacleanup/tag/rlb/2/clean	0.00000	0	0.00000	0	15412	679	0	30075	2174163
+HPIV-3	roundacleanup/tag/rlb/2/clean	0.00000	0	0.00000	0	15382	671	0	30075	2174163
+HPIV-4	roundacleanup/tag/rlb/2/clean	0.00000	0	0.00000	0	17132	735	0	30075	2174163
+RSV-A	roundacleanup/tag/rlb/2/clean	0.00000	0	0.00000	0	14855	642	0	30075	2174163
+TOTAL	roundacleanup/tag/rlb/2/clean	0.03502	478	0.00000	0	0	13651	1	30075	2174163
+HPIV-3	roundacleanup/tag/rlb/3/clean	0.26826	180	0.00000	0	15382	671	2	124469	9753987
+Flu-A-H1N1-NY	roundacleanup/tag/rlb/3/clean	0.15035	86	0.00000	0	13130	572	1	124469	9753987
+AdV-3	roundacleanup/tag/rlb/3/clean	0.13878	214	0.00000	0	35072	1542	1	124469	9753987
+AdV-1	roundacleanup/tag/rlb/3/clean	0.06303	97	0.00000	0	35676	1539	1	124469	9753987
+HMPV	roundacleanup/tag/rlb/3/clean	0.05300	30	0.00000	0	13149	566	2	124469	9753987
+Flu-A-H3N2	roundacleanup/tag/rlb/3/clean	0.05181	30	0.00000	0	13290	579	1	124469	9753987
+AdV-31	roundacleanup/tag/rlb/3/clean	0.05170	76	0.00000	0	33755	1470	1	124469	9753987
+HPIV-2	roundacleanup/tag/rlb/3/clean	0.04173	28	0.00000	0	15654	671	1	124469	9753987
+HCoV-229E	roundacleanup/tag/rlb/3/clean	0.04127	48	0.00000	0	26841	1163	1	124469	9753987
+HRV-1A	roundacleanup/tag/rlb/3/clean	0.03503	11	0.00000	0	7096	314	2	124469	9753987
+Flu-A-H1N1-NC	roundacleanup/tag/rlb/3/clean	0.03130	18	0.00000	0	13292	575	1	124469	9753987
+HPIV-1	roundacleanup/tag/rlb/3/clean	0.01767	12	0.00000	0	15412	679	2	124469	9753987
+SARS-CoV-2	roundacleanup/tag/rlb/3/clean	0.00988	13	0.00000	0	29778	1316	1	124469	9753987
+Flu-B	roundacleanup/tag/rlb/3/clean	0.00000	0	0.00000	0	14222	617	0	124469	9753987
+HPIV-4	roundacleanup/tag/rlb/3/clean	0.00000	0	0.00000	0	17132	735	0	124469	9753987
+RSV-A	roundacleanup/tag/rlb/3/clean	0.00000	0	0.00000	0	14855	642	0	124469	9753987
+TOTAL	roundacleanup/tag/rlb/3/clean	0.06175	843	0.00000	0	0	13651	1	124469	9753987
+HPIV-3	roundacleanup/tag/rlb/1	0.31446	211	0.00000	0	15382	671	2	78315	6135900
+HMPV	roundacleanup/tag/rlb/1	0.20318	115	0.00000	0	13149	566	1	78315	6135900
+Flu-A-H1N1-NY	roundacleanup/tag/rlb/1	0.15734	90	0.00000	0	13130	572	2	78315	6135900
+AdV-3	roundacleanup/tag/rlb/1	0.14591	225	0.00000	0	35072	1542	2	78315	6135900
+HRV-1A	roundacleanup/tag/rlb/1	0.10510	33	0.00000	0	7096	314	2	78315	6135900
+AdV-31	roundacleanup/tag/rlb/1	0.08367	123	0.00000	0	33755	1470	2	78315	6135900
+HPIV-1	roundacleanup/tag/rlb/1	0.05302	36	0.00000	0	15412	679	1	78315	6135900
+AdV-1	roundacleanup/tag/rlb/1	0.04288	66	0.00000	0	35676	1539	1	78315	6135900
+Flu-A-H3N2	roundacleanup/tag/rlb/1	0.02936	17	0.00000	0	13290	579	2	78315	6135900
+HPIV-2	roundacleanup/tag/rlb/1	0.02832	19	0.00000	0	15654	671	1	78315	6135900
+SARS-CoV-2	roundacleanup/tag/rlb/1	0.01140	15	0.00000	0	29778	1316	1	78315	6135900
+Flu-A-H1N1-NC	roundacleanup/tag/rlb/1	0.01043	6	0.00000	0	13292	575	2	78315	6135900
+Flu-B	roundacleanup/tag/rlb/1	0.00000	0	0.00000	0	14222	617	0	78315	6135900
+HPIV-4	roundacleanup/tag/rlb/1	0.00000	0	0.00000	0	17132	735	0	78315	6135900
+RSV-A	roundacleanup/tag/rlb/1	0.00000	0	0.00000	0	14855	642	0	78315	6135900
+HCoV-229E	roundacleanup/tag/rlb/1	0.00000	0	0.00000	0	26841	1163	0	78315	6135900
+TOTAL	roundacleanup/tag/rlb/1	0.07003	956	0.00000	0	0	13651	1	78315	6135900
+HPIV-3	roundacleanup/tag/rlb/2	0.26677	179	0.00000	0	15382	671	2	270161	21611709
+AdV-3	roundacleanup/tag/rlb/2	0.21595	333	0.00000	0	35072	1542	2	270161	21611709
+HPIV-2	roundacleanup/tag/rlb/2	0.14605	98	0.00000	0	15654	671	2	270161	21611709
+HRV-1A	roundacleanup/tag/rlb/2	0.13694	43	0.00000	0	7096	314	2	270161	21611709
+HPIV-1	roundacleanup/tag/rlb/2	0.10457	71	0.00000	0	15412	679	3	270161	21611709
+Flu-A-H3N2	roundacleanup/tag/rlb/2	0.08981	52	0.00173	1	13290	579	1	270161	21611709
+Flu-A-H1N1-NC	roundacleanup/tag/rlb/2	0.07478	43	0.00000	0	13292	575	1	270161	21611709
+AdV-31	roundacleanup/tag/rlb/2	0.07415	109	0.00000	0	33755	1470	2	270161	21611709
+HMPV	roundacleanup/tag/rlb/2	0.07244	41	0.00000	0	13149	566	2	270161	21611709
+Flu-A-H1N1-NY	roundacleanup/tag/rlb/2	0.07168	41	0.00000	0	13130	572	1	270161	21611709
+AdV-1	roundacleanup/tag/rlb/2	0.04288	66	0.00000	0	35676	1539	2	270161	21611709
+RSV-A	roundacleanup/tag/rlb/2	0.02804	18	0.00000	0	14855	642	1	270161	21611709
+SARS-CoV-2	roundacleanup/tag/rlb/2	0.02204	29	0.00000	0	29778	1316	1	270161	21611709
+Flu-B	roundacleanup/tag/rlb/2	0.01459	9	0.00000	0	14222	617	2	270161	21611709
+HCoV-229E	roundacleanup/tag/rlb/2	0.01204	14	0.00000	0	26841	1163	1	270161	21611709
+HPIV-4	roundacleanup/tag/rlb/2	0.00408	3	0.00000	0	17132	735	1	270161	21611709
+TOTAL	roundacleanup/tag/rlb/2	0.08417	1149	0.00007	1	0	13651	2	270161	21611709
+HPIV-3	roundacleanup/tag/rlb/3	0.24888	167	0.00000	0	15382	671	2	120827	9866436
+HMPV	roundacleanup/tag/rlb/3	0.18021	102	0.00000	0	13149	566	1	120827	9866436
+AdV-3	roundacleanup/tag/rlb/3	0.14851	229	0.00000	0	35072	1542	2	120827	9866436
+Flu-A-H1N1-NC	roundacleanup/tag/rlb/3	0.13739	79	0.00000	0	13292	575	2	120827	9866436
+HPIV-2	roundacleanup/tag/rlb/3	0.12668	85	0.00000	0	15654	671	2	120827	9866436
+Flu-A-H1N1-NY	roundacleanup/tag/rlb/3	0.10315	59	0.00000	0	13130	572	2	120827	9866436
+AdV-31	roundacleanup/tag/rlb/3	0.08027	118	0.00000	0	33755	1470	2	120827	9866436
+AdV-1	roundacleanup/tag/rlb/3	0.04548	70	0.00000	0	35676	1539	1	120827	9866436
+Flu-A-H3N2	roundacleanup/tag/rlb/3	0.02245	13	0.00173	1	13290	579	1	120827	9866436
+RSV-A	roundacleanup/tag/rlb/3	0.01869	12	0.00000	0	14855	642	1	120827	9866436
+HCoV-229E	roundacleanup/tag/rlb/3	0.01462	17	0.00000	0	26841	1163	1	120827	9866436
+HRV-1A	roundacleanup/tag/rlb/3	0.01274	4	0.00000	0	7096	314	2	120827	9866436
+HPIV-4	roundacleanup/tag/rlb/3	0.00816	6	0.00000	0	17132	735	2	120827	9866436
+Flu-B	roundacleanup/tag/rlb/3	0.00648	4	0.00000	0	14222	617	2	120827	9866436
+HPIV-1	roundacleanup/tag/rlb/3	0.00000	0	0.00000	0	15412	679	0	120827	9866436
+SARS-CoV-2	roundacleanup/tag/rlb/3	0.00000	0	0.00000	0	29778	1316	0	120827	9866436
+TOTAL	roundacleanup/tag/rlb/3	0.07069	965	0.00007	1	0	13651	1	120827	9866436
+HPIV-3	roundacleanup/tag/rlb/neg	0.29210	196	0.00000	0	15382	671	2	13694	1045504
+Flu-A-H1N1-NY	roundacleanup/tag/rlb/neg	0.17832	102	0.00000	0	13130	572	1	13694	1045504
+Flu-A-H3N2	roundacleanup/tag/rlb/neg	0.09154	53	0.00000	0	13290	579	1	13694	1045504
+Flu-A-H1N1-NC	roundacleanup/tag/rlb/neg	0.07130	41	0.00000	0	13292	575	1	13694	1045504
+HMPV	roundacleanup/tag/rlb/neg	0.06537	37	0.00000	0	13149	566	1	13694	1045504
+AdV-3	roundacleanup/tag/rlb/neg	0.05707	88	0.00000	0	35072	1542	1	13694	1045504
+HPIV-2	roundacleanup/tag/rlb/neg	0.02832	19	0.00000	0	15654	671	1	13694	1045504
+RSV-A	roundacleanup/tag/rlb/neg	0.01558	10	0.00000	0	14855	642	1	13694	1045504
+AdV-31	roundacleanup/tag/rlb/neg	0.01497	22	0.00000	0	33755	1470	1	13694	1045504
+AdV-1	roundacleanup/tag/rlb/neg	0.01429	22	0.00000	0	35676	1539	1	13694	1045504
+HPIV-1	roundacleanup/tag/rlb/neg	0.00884	6	0.00000	0	15412	679	2	13694	1045504
+SARS-CoV-2	roundacleanup/tag/rlb/neg	0.00608	8	0.00000	0	29778	1316	2	13694	1045504
+Flu-B	roundacleanup/tag/rlb/neg	0.00162	1	0.00000	0	14222	617	1	13694	1045504
+HPIV-4	roundacleanup/tag/rlb/neg	0.00000	0	0.00000	0	17132	735	0	13694	1045504
+HRV-1A	roundacleanup/tag/rlb/neg	0.00000	0	0.00000	0	7096	314	0	13694	1045504
+HCoV-229E	roundacleanup/tag/rlb/neg	0.00000	0	0.00000	0	26841	1163	0	13694	1045504
+TOTAL	roundacleanup/tag/rlb/neg	0.04432	605	0.00000	0	0	13651	1	13694	1045504
+HPIV-3	roundacleanup/tag/neb+rlb/1/clean	0.44113	296	0.00000	0	15382	671	1	4179523	533565488
+Flu-A-H1N1-NY	roundacleanup/tag/neb+rlb/1/clean	0.19406	111	0.00000	0	13130	572	2	4179523	533565488
+AdV-3	roundacleanup/tag/neb+rlb/1/clean	0.16342	252	0.00000	0	35072	1542	2	4179523	533565488
+Flu-A-H1N1-NC	roundacleanup/tag/neb+rlb/1/clean	0.16000	92	0.00000	0	13292	575	2	4179523	533565488
+HPIV-2	roundacleanup/tag/neb+rlb/1/clean	0.13413	90	0.00000	0	15654	671	2	4179523	533565488
+Flu-A-H3N2	roundacleanup/tag/neb+rlb/1/clean	0.12263	71	0.00518	3	13290	579	1	4179523	533565488
+HRV-1A	roundacleanup/tag/neb+rlb/1/clean	0.08917	28	0.00000	0	7096	314	2	4179523	533565488
+AdV-31	roundacleanup/tag/neb+rlb/1/clean	0.07483	110	0.00000	0	33755	1470	2	4179523	533565488
+AdV-1	roundacleanup/tag/neb+rlb/1/clean	0.06888	106	0.00000	0	35676	1539	1	4179523	533565488
+HMPV	roundacleanup/tag/neb+rlb/1/clean	0.04770	27	0.00000	0	13149	566	1	4179523	533565488
+SARS-CoV-2	roundacleanup/tag/neb+rlb/1/clean	0.04635	61	0.00000	0	29778	1316	2	4179523	533565488
+Flu-B	roundacleanup/tag/neb+rlb/1/clean	0.04376	27	0.00000	0	14222	617	1	4179523	533565488
+HPIV-1	roundacleanup/tag/neb+rlb/1/clean	0.03829	26	0.00000	0	15412	679	1	4179523	533565488
+HPIV-4	roundacleanup/tag/neb+rlb/1/clean	0.02993	22	0.00000	0	17132	735	1	4179523	533565488
+RSV-A	roundacleanup/tag/neb+rlb/1/clean	0.01869	12	0.00000	0	14855	642	1	4179523	533565488
+HCoV-229E	roundacleanup/tag/neb+rlb/1/clean	0.00000	0	0.00000	0	26841	1163	0	4179523	533565488
+TOTAL	roundacleanup/tag/neb+rlb/1/clean	0.09750	1331	0.00022	3	0	13651	1	4179523	533565488
+HPIV-3	roundacleanup/tag/neb+rlb/2/clean	0.38897	261	0.00000	0	15382	671	2	4653729	588324734
+AdV-3	roundacleanup/tag/neb+rlb/2/clean	0.24514	378	0.00000	0	35072	1542	2	4653729	588324734
+Flu-A-H1N1-NC	roundacleanup/tag/neb+rlb/2/clean	0.22087	127	0.00000	0	13292	575	1	4653729	588324734
+HRV-1A	roundacleanup/tag/neb+rlb/2/clean	0.21019	66	0.00000	0	7096	314	1	4653729	588324734
+Flu-A-H1N1-NY	roundacleanup/tag/neb+rlb/2/clean	0.18706	107	0.00000	0	13130	572	1	4653729	588324734
+HPIV-2	roundacleanup/tag/neb+rlb/2/clean	0.17586	118	0.00000	0	15654	671	1	4653729	588324734
+AdV-1	roundacleanup/tag/neb+rlb/2/clean	0.13710	211	0.00000	0	35676	1539	1	4653729	588324734
+HMPV	roundacleanup/tag/neb+rlb/2/clean	0.13428	76	0.00000	0	13149	566	1	4653729	588324734
+AdV-31	roundacleanup/tag/neb+rlb/2/clean	0.13401	197	0.00000	0	33755	1470	2	4653729	588324734
+Flu-A-H3N2	roundacleanup/tag/neb+rlb/2/clean	0.09326	54	0.00518	3	13290	579	1	4653729	588324734
+HPIV-1	roundacleanup/tag/neb+rlb/2/clean	0.03976	27	0.00000	0	15412	679	1	4653729	588324734
+SARS-CoV-2	roundacleanup/tag/neb+rlb/2/clean	0.03723	49	0.00000	0	29778	1316	1	4653729	588324734
+RSV-A	roundacleanup/tag/neb+rlb/2/clean	0.03115	20	0.00000	0	14855	642	1	4653729	588324734
+Flu-B	roundacleanup/tag/neb+rlb/2/clean	0.02107	13	0.00000	0	14222	617	2	4653729	588324734
+HPIV-4	roundacleanup/tag/neb+rlb/2/clean	0.00000	0	0.00000	0	17132	735	0	4653729	588324734
+HCoV-229E	roundacleanup/tag/neb+rlb/2/clean	0.00000	0	0.00000	0	26841	1163	0	4653729	588324734
+TOTAL	roundacleanup/tag/neb+rlb/2/clean	0.12483	1704	0.00022	3	0	13651	1	4653729	588324734
+AdV-3	roundacleanup/tag/neb+rlb/3/clean	0.17575	271	0.00000	0	35072	1542	1	5152327	625767183
+HRV-1A	roundacleanup/tag/neb+rlb/3/clean	0.16879	53	0.00000	0	7096	314	1	5152327	625767183
+HPIV-2	roundacleanup/tag/neb+rlb/3/clean	0.16841	113	0.00000	0	15654	671	2	5152327	625767183
+HPIV-3	roundacleanup/tag/neb+rlb/3/clean	0.16841	113	0.00000	0	15382	671	1	5152327	625767183
+Flu-A-H1N1-NY	roundacleanup/tag/neb+rlb/3/clean	0.12238	70	0.00000	0	13130	572	2	5152327	625767183
+AdV-1	roundacleanup/tag/neb+rlb/3/clean	0.10851	167	0.00000	0	35676	1539	1	5152327	625767183
+Flu-A-H3N2	roundacleanup/tag/neb+rlb/3/clean	0.09499	55	0.00518	3	13290	579	1	5152327	625767183
+AdV-31	roundacleanup/tag/neb+rlb/3/clean	0.09048	133	0.00000	0	33755	1470	1	5152327	625767183
+Flu-A-H1N1-NC	roundacleanup/tag/neb+rlb/3/clean	0.07652	44	0.00000	0	13292	575	1	5152327	625767183
+HMPV	roundacleanup/tag/neb+rlb/3/clean	0.05654	32	0.00000	0	13149	566	2	5152327	625767183
+HCoV-229E	roundacleanup/tag/neb+rlb/3/clean	0.01376	16	0.00000	0	26841	1163	2	5152327	625767183
+SARS-CoV-2	roundacleanup/tag/neb+rlb/3/clean	0.01216	16	0.00000	0	29778	1316	2	5152327	625767183
+RSV-A	roundacleanup/tag/neb+rlb/3/clean	0.00467	3	0.00000	0	14855	642	1	5152327	625767183
+Flu-B	roundacleanup/tag/neb+rlb/3/clean	0.00000	0	0.00000	0	14222	617	0	5152327	625767183
+HPIV-1	roundacleanup/tag/neb+rlb/3/clean	0.00000	0	0.00000	0	15412	679	0	5152327	625767183
+HPIV-4	roundacleanup/tag/neb+rlb/3/clean	0.00000	0	0.00000	0	17132	735	0	5152327	625767183
+TOTAL	roundacleanup/tag/neb+rlb/3/clean	0.07955	1086	0.00022	3	0	13651	1	5152327	625767183
+HRV-1A	roundacleanup/tag/neb+rlb/1	0.23567	74	0.00000	0	7096	314	1	5290108	656510768
+HPIV-3	roundacleanup/tag/neb+rlb/1	0.17735	119	0.00000	0	15382	671	2	5290108	656510768
+HMPV	roundacleanup/tag/neb+rlb/1	0.14311	81	0.00000	0	13149	566	1	5290108	656510768
+AdV-3	roundacleanup/tag/neb+rlb/1	0.11868	183	0.00000	0	35072	1542	2	5290108	656510768
+HPIV-4	roundacleanup/tag/neb+rlb/1	0.10884	80	0.00000	0	17132	735	1	5290108	656510768
+Flu-A-H1N1-NY	roundacleanup/tag/neb+rlb/1	0.10315	59	0.00000	0	13130	572	1	5290108	656510768
+AdV-1	roundacleanup/tag/neb+rlb/1	0.09292	143	0.00000	0	35676	1539	1	5290108	656510768
+Flu-A-H3N2	roundacleanup/tag/neb+rlb/1	0.08117	47	0.00518	3	13290	579	1	5290108	656510768
+AdV-31	roundacleanup/tag/neb+rlb/1	0.06667	98	0.00000	0	33755	1470	2	5290108	656510768
+Flu-A-H1N1-NC	roundacleanup/tag/neb+rlb/1	0.05565	32	0.00000	0	13292	575	2	5290108	656510768
+HPIV-2	roundacleanup/tag/neb+rlb/1	0.04471	30	0.00000	0	15654	671	3	5290108	656510768
+Flu-B	roundacleanup/tag/neb+rlb/1	0.04214	26	0.00000	0	14222	617	1	5290108	656510768
+SARS-CoV-2	roundacleanup/tag/neb+rlb/1	0.03799	50	0.00000	0	29778	1316	2	5290108	656510768
+HPIV-1	roundacleanup/tag/neb+rlb/1	0.02356	16	0.00000	0	15412	679	1	5290108	656510768
+RSV-A	roundacleanup/tag/neb+rlb/1	0.00000	0	0.00000	0	14855	642	0	5290108	656510768
+HCoV-229E	roundacleanup/tag/neb+rlb/1	0.00000	0	0.00000	0	26841	1163	0	5290108	656510768
+TOTAL	roundacleanup/tag/neb+rlb/1	0.07604	1038	0.00022	3	0	13651	1	5290108	656510768
+HPIV-3	roundacleanup/tag/neb+rlb/2	0.12519	84	0.00000	0	15382	671	2	4834915	589860967
+AdV-3	roundacleanup/tag/neb+rlb/2	0.12127	187	0.00000	0	35072	1542	1	4834915	589860967
+Flu-A-H1N1-NY	roundacleanup/tag/neb+rlb/2	0.12063	69	0.00000	0	13130	572	1	4834915	589860967
+HPIV-2	roundacleanup/tag/neb+rlb/2	0.09389	63	0.00000	0	15654	671	2	4834915	589860967
+AdV-31	roundacleanup/tag/neb+rlb/2	0.07075	104	0.00000	0	33755	1470	1	4834915	589860967
+Flu-A-H1N1-NC	roundacleanup/tag/neb+rlb/2	0.06609	38	0.00000	0	13292	575	1	4834915	589860967
+AdV-1	roundacleanup/tag/neb+rlb/2	0.05588	86	0.00000	0	35676	1539	1	4834915	589860967
+HMPV	roundacleanup/tag/neb+rlb/2	0.04770	27	0.00000	0	13149	566	2	4834915	589860967
+Flu-A-H3N2	roundacleanup/tag/neb+rlb/2	0.03972	23	0.00518	3	13290	579	1	4834915	589860967
+SARS-CoV-2	roundacleanup/tag/neb+rlb/2	0.01520	20	0.00000	0	29778	1316	1	4834915	589860967
+Flu-B	roundacleanup/tag/neb+rlb/2	0.00972	6	0.00000	0	14222	617	1	4834915	589860967
+HPIV-1	roundacleanup/tag/neb+rlb/2	0.00442	3	0.00000	0	15412	679	1	4834915	589860967
+HPIV-4	roundacleanup/tag/neb+rlb/2	0.00000	0	0.00000	0	17132	735	0	4834915	589860967
+HRV-1A	roundacleanup/tag/neb+rlb/2	0.00000	0	0.00000	0	7096	314	0	4834915	589860967
+RSV-A	roundacleanup/tag/neb+rlb/2	0.00000	0	0.00000	0	14855	642	0	4834915	589860967
+HCoV-229E	roundacleanup/tag/neb+rlb/2	0.00000	0	0.00000	0	26841	1163	0	4834915	589860967
+TOTAL	roundacleanup/tag/neb+rlb/2	0.05201	710	0.00022	3	0	13651	1	4834915	589860967
+HRV-1A	roundacleanup/tag/neb+rlb/3	0.53185	167	0.00000	0	7096	314	2	6394667	777669842
+Flu-A-H1N1-NY	roundacleanup/tag/neb+rlb/3	0.42133	241	0.00524	3	13130	572	2	6394667	777669842
+HPIV-3	roundacleanup/tag/neb+rlb/3	0.38897	261	0.00745	5	15382	671	4	6394667	777669842
+HMPV	roundacleanup/tag/neb+rlb/3	0.36926	209	0.00000	0	13149	566	2	6394667	777669842
+Flu-A-H1N1-NC	roundacleanup/tag/neb+rlb/3	0.30435	175	0.00522	3	13292	575	2	6394667	777669842
+AdV-3	roundacleanup/tag/neb+rlb/3	0.25357	391	0.01686	26	35072	1542	3	6394667	777669842
+Flu-A-H3N2	roundacleanup/tag/neb+rlb/3	0.24525	142	0.00518	3	13290	579	2	6394667	777669842
+HPIV-2	roundacleanup/tag/neb+rlb/3	0.21461	144	0.00000	0	15654	671	2	6394667	777669842
+AdV-1	roundacleanup/tag/neb+rlb/3	0.15984	246	0.00130	2	35676	1539	1	6394667	777669842
+HPIV-1	roundacleanup/tag/neb+rlb/3	0.15317	104	0.00000	0	15412	679	1	6394667	777669842
+AdV-31	roundacleanup/tag/neb+rlb/3	0.11020	162	0.00136	2	33755	1470	2	6394667	777669842
+HPIV-4	roundacleanup/tag/neb+rlb/3	0.10204	75	0.00000	0	17132	735	1	6394667	777669842
+HCoV-229E	roundacleanup/tag/neb+rlb/3	0.08684	101	0.00000	0	26841	1163	1	6394667	777669842
+Flu-B	roundacleanup/tag/neb+rlb/3	0.05997	37	0.00000	0	14222	617	1	6394667	777669842
+RSV-A	roundacleanup/tag/neb+rlb/3	0.04829	31	0.00000	0	14855	642	5	6394667	777669842
+SARS-CoV-2	roundacleanup/tag/neb+rlb/3	0.04027	53	0.00000	0	29778	1316	3	6394667	777669842
+TOTAL	roundacleanup/tag/neb+rlb/3	0.18599	2539	0.00315	43	0	13651	2	6394667	777669842
+Flu-A-H1N1-NY	roundacleanup/tag/neb+rlb/neg	0.08392	48	0.00000	0	13130	572	1	10907	842563
+AdV-3	roundacleanup/tag/neb+rlb/neg	0.05577	86	0.00000	0	35072	1542	1	10907	842563
+AdV-31	roundacleanup/tag/neb+rlb/neg	0.03810	56	0.00000	0	33755	1470	2	10907	842563
+Flu-A-H3N2	roundacleanup/tag/neb+rlb/neg	0.02591	15	0.00000	0	13290	579	1	10907	842563
+HPIV-2	roundacleanup/tag/neb+rlb/neg	0.02385	16	0.00000	0	15654	671	1	10907	842563
+AdV-1	roundacleanup/tag/neb+rlb/neg	0.01754	27	0.00000	0	35676	1539	2	10907	842563
+HCoV-229E	roundacleanup/tag/neb+rlb/neg	0.01032	12	0.00000	0	26841	1163	2	10907	842563
+HPIV-3	roundacleanup/tag/neb+rlb/neg	0.00894	6	0.00000	0	15382	671	2	10907	842563
+Flu-A-H1N1-NC	roundacleanup/tag/neb+rlb/neg	0.00000	0	0.00000	0	13292	575	0	10907	842563
+Flu-B	roundacleanup/tag/neb+rlb/neg	0.00000	0	0.00000	0	14222	617	0	10907	842563
+HMPV	roundacleanup/tag/neb+rlb/neg	0.00000	0	0.00000	0	13149	566	0	10907	842563
+HPIV-1	roundacleanup/tag/neb+rlb/neg	0.00000	0	0.00000	0	15412	679	0	10907	842563
+HPIV-4	roundacleanup/tag/neb+rlb/neg	0.00000	0	0.00000	0	17132	735	0	10907	842563
+HRV-1A	roundacleanup/tag/neb+rlb/neg	0.00000	0	0.00000	0	7096	314	0	10907	842563
+RSV-A	roundacleanup/tag/neb+rlb/neg	0.00000	0	0.00000	0	14855	642	0	10907	842563
+SARS-CoV-2	roundacleanup/tag/neb+rlb/neg	0.00000	0	0.00000	0	29778	1316	0	10907	842563
+TOTAL	roundacleanup/tag/neb+rlb/neg	0.01949	266	0.00000	0	0	13651	1	10907	842563
+HPIV-2	dualprimersmart9n/full/neb/1	1.00000	671	1.00000	671	15654	671	715	1459547	1000079087
+HPIV-3	dualprimersmart9n/full/neb/1	0.99404	667	0.99404	667	15382	671	668	1459547	1000079087
+AdV-3	dualprimersmart9n/full/neb/1	0.98962	1526	0.95331	1470	35072	1542	310	1459547	1000079087
+HMPV	dualprimersmart9n/full/neb/1	0.98763	559	0.98233	556	13149	566	227	1459547	1000079087
+RSV-A	dualprimersmart9n/full/neb/1	0.97508	626	0.97196	624	14855	642	136	1459547	1000079087
+HRV-1A	dualprimersmart9n/full/neb/1	0.97452	306	0.97452	306	7096	314	484	1459547	1000079087
+Flu-B	dualprimersmart9n/full/neb/1	0.95624	590	0.95300	588	14222	617	363	1459547	1000079087
+HCoV-229E	dualprimersmart9n/full/neb/1	0.94755	1102	0.94067	1094	26841	1163	85	1459547	1000079087
+Flu-A-H1N1-NC	dualprimersmart9n/full/neb/1	0.93565	538	0.91130	524	13292	575	838	1459547	1000079087
+HPIV-4	dualprimersmart9n/full/neb/1	0.91837	675	0.90884	668	17132	735	162	1459547	1000079087
+Flu-A-H1N1-NY	dualprimersmart9n/full/neb/1	0.88462	506	0.81643	467	13130	572	359	1459547	1000079087
+AdV-1	dualprimersmart9n/full/neb/1	0.85250	1312	0.78038	1201	35676	1539	166	1459547	1000079087
+SARS-CoV-2	dualprimersmart9n/full/neb/1	0.84195	1108	0.52812	695	29778	1316	14	1459547	1000079087
+Flu-A-H3N2	dualprimersmart9n/full/neb/1	0.82729	479	0.79793	462	13290	579	400	1459547	1000079087
+HPIV-1	dualprimersmart9n/full/neb/1	0.81296	552	0.80560	547	15412	679	191	1459547	1000079087
+AdV-31	dualprimersmart9n/full/neb/1	0.58027	853	0.51497	757	33755	1470	289	1459547	1000079087
+TOTAL	dualprimersmart9n/full/neb/1	0.88418	12070	0.82749	11296	0	13651	290	1459547	1000079087
+HPIV-2	dualprimersmart9n/full/neb/2	1.00000	671	0.99851	670	15654	671	359	631915	422451521
+HPIV-3	dualprimersmart9n/full/neb/2	0.99702	669	0.99404	667	15382	671	314	631915	422451521
+HRV-1A	dualprimersmart9n/full/neb/2	0.98089	308	0.96178	302	7096	314	236	631915	422451521
+HMPV	dualprimersmart9n/full/neb/2	0.97880	554	0.97703	553	13149	566	106	631915	422451521
+RSV-A	dualprimersmart9n/full/neb/2	0.97664	627	0.95327	612	14855	642	51	631915	422451521
+AdV-3	dualprimersmart9n/full/neb/2	0.97406	1502	0.88716	1368	35072	1542	144	631915	422451521
+Flu-B	dualprimersmart9n/full/neb/2	0.95462	589	0.95300	588	14222	617	182	631915	422451521
+HCoV-229E	dualprimersmart9n/full/neb/2	0.94411	1098	0.87446	1017	26841	1163	40	631915	422451521
+HPIV-4	dualprimersmart9n/full/neb/2	0.91565	673	0.90748	667	17132	735	76	631915	422451521
+Flu-A-H1N1-NC	dualprimersmart9n/full/neb/2	0.91304	525	0.89739	516	13292	575	382	631915	422451521
+Flu-A-H1N1-NY	dualprimersmart9n/full/neb/2	0.88287	505	0.85315	488	13130	572	151	631915	422451521
+AdV-1	dualprimersmart9n/full/neb/2	0.83691	1288	0.74984	1154	35676	1539	86	631915	422451521
+HPIV-1	dualprimersmart9n/full/neb/2	0.81149	551	0.80412	546	15412	679	93	631915	422451521
+Flu-A-H3N2	dualprimersmart9n/full/neb/2	0.80311	465	0.73057	423	13290	579	202	631915	422451521
+SARS-CoV-2	dualprimersmart9n/full/neb/2	0.67477	888	0.23176	305	29778	1316	7	631915	422451521
+AdV-31	dualprimersmart9n/full/neb/2	0.59048	868	0.49728	731	33755	1470	132	631915	422451521
+TOTAL	dualprimersmart9n/full/neb/2	0.86301	11781	0.77694	10606	0	13651	137	631915	422451521
+HPIV-2	dualprimersmart9n/full/neb/3	0.99851	670	0.99851	670	15654	671	358	737872	467950454
+HPIV-3	dualprimersmart9n/full/neb/3	0.99404	667	0.99404	667	15382	671	310	737872	467950454
+HMPV	dualprimersmart9n/full/neb/3	0.98410	557	0.97350	551	13149	566	106	737872	467950454
+RSV-A	dualprimersmart9n/full/neb/3	0.97508	626	0.96885	622	14855	642	66	737872	467950454
+AdV-3	dualprimersmart9n/full/neb/3	0.96693	1491	0.89689	1383	35072	1542	164	737872	467950454
+HRV-1A	dualprimersmart9n/full/neb/3	0.96178	302	0.95860	301	7096	314	256	737872	467950454
+Flu-B	dualprimersmart9n/full/neb/3	0.95624	590	0.95300	588	14222	617	182	737872	467950454
+HCoV-229E	dualprimersmart9n/full/neb/3	0.94755	1102	0.88736	1032	26841	1163	39	737872	467950454
+Flu-A-H1N1-NC	dualprimersmart9n/full/neb/3	0.93565	538	0.91130	524	13292	575	404	737872	467950454
+HPIV-4	dualprimersmart9n/full/neb/3	0.91293	671	0.91020	669	17132	735	93	737872	467950454
+Flu-A-H1N1-NY	dualprimersmart9n/full/neb/3	0.89336	511	0.85664	490	13130	572	163	737872	467950454
+AdV-1	dualprimersmart9n/full/neb/3	0.85640	1318	0.73814	1136	35676	1539	70	737872	467950454
+HPIV-1	dualprimersmart9n/full/neb/3	0.81001	550	0.80412	546	15412	679	89	737872	467950454
+Flu-A-H3N2	dualprimersmart9n/full/neb/3	0.80829	468	0.74439	431	13290	579	213	737872	467950454
+SARS-CoV-2	dualprimersmart9n/full/neb/3	0.72872	959	0.31003	408	29778	1316	8	737872	467950454
+AdV-31	dualprimersmart9n/full/neb/3	0.55306	813	0.48435	712	33755	1470	152	737872	467950454
+TOTAL	dualprimersmart9n/full/neb/3	0.86682	11833	0.78602	10730	0	13651	144	737872	467950454
+HPIV-2	dualprimersmart9n/full/neb/neg	1.00000	671	0.96125	645	15654	671	28	13697	14393993
+HPIV-3	dualprimersmart9n/full/neb/neg	0.99553	668	0.93294	626	15382	671	27	13697	14393993
+HMPV	dualprimersmart9n/full/neb/neg	0.94523	535	0.28622	162	13149	566	7	13697	14393993
+RSV-A	dualprimersmart9n/full/neb/neg	0.94393	606	0.08723	56	14855	642	4	13697	14393993
+HRV-1A	dualprimersmart9n/full/neb/neg	0.91720	288	0.61146	192	7096	314	12	13697	14393993
+Flu-B	dualprimersmart9n/full/neb/neg	0.88817	548	0.29498	182	14222	617	7	13697	14393993
+HPIV-4	dualprimersmart9n/full/neb/neg	0.87755	645	0.15374	113	17132	735	6	13697	14393993
+Flu-A-H1N1-NC	dualprimersmart9n/full/neb/neg	0.83130	478	0.60348	347	13292	575	18	13697	14393993
+AdV-3	dualprimersmart9n/full/neb/neg	0.79377	1224	0.41245	636	35072	1542	10	13697	14393993
+Flu-A-H1N1-NY	dualprimersmart9n/full/neb/neg	0.79371	454	0.25350	145	13130	572	6	13697	14393993
+HPIV-1	dualprimersmart9n/full/neb/neg	0.78792	535	0.24153	164	15412	679	6	13697	14393993
+HCoV-229E	dualprimersmart9n/full/neb/neg	0.74635	868	0.02494	29	26841	1163	2	13697	14393993
+AdV-1	dualprimersmart9n/full/neb/neg	0.64198	988	0.19168	295	35676	1539	6	13697	14393993
+Flu-A-H3N2	dualprimersmart9n/full/neb/neg	0.62003	359	0.35751	207	13290	579	12	13697	14393993
+AdV-31	dualprimersmart9n/full/neb/neg	0.43401	638	0.22653	333	33755	1470	10	13697	14393993
+SARS-CoV-2	dualprimersmart9n/full/neb/neg	0.22188	292	0.00000	0	29778	1316	2	13697	14393993
+TOTAL	dualprimersmart9n/full/neb/neg	0.71768	9797	0.30269	4132	0	13651	9	13697	14393993
+HPIV-2	dualprimersmart9n/full/neb+rlb/1	0.99702	669	0.96870	650	15654	671	21	169347	60345094
+HPIV-3	dualprimersmart9n/full/neb+rlb/1	0.99404	667	0.95231	639	15382	671	21	169347	60345094
+HRV-1A	dualprimersmart9n/full/neb+rlb/1	0.95860	301	0.51911	163	7096	314	10	169347	60345094
+HMPV	dualprimersmart9n/full/neb+rlb/1	0.95053	538	0.14134	80	13149	566	6	169347	60345094
+Flu-B	dualprimersmart9n/full/neb+rlb/1	0.86386	533	0.10373	64	14222	617	5	169347	60345094
+Flu-A-H1N1-NC	dualprimersmart9n/full/neb+rlb/1	0.85217	490	0.51130	294	13292	575	12	169347	60345094
+HPIV-4	dualprimersmart9n/full/neb+rlb/1	0.84218	619	0.14422	106	17132	735	5	169347	60345094
+AdV-3	dualprimersmart9n/full/neb+rlb/1	0.78923	1217	0.33658	519	35072	1542	7	169347	60345094
+RSV-A	dualprimersmart9n/full/neb+rlb/1	0.75857	487	0.08567	55	14855	642	4	169347	60345094
+Flu-A-H1N1-NY	dualprimersmart9n/full/neb+rlb/1	0.75524	432	0.14685	84	13130	572	6	169347	60345094
+HPIV-1	dualprimersmart9n/full/neb+rlb/1	0.75110	510	0.13402	91	15412	679	5	169347	60345094
+HCoV-229E	dualprimersmart9n/full/neb+rlb/1	0.61651	717	0.00258	3	26841	1163	2	169347	60345094
+AdV-1	dualprimersmart9n/full/neb+rlb/1	0.58869	906	0.16504	254	35676	1539	5	169347	60345094
+Flu-A-H3N2	dualprimersmart9n/full/neb+rlb/1	0.55959	324	0.24698	143	13290	579	9	169347	60345094
+AdV-31	dualprimersmart9n/full/neb+rlb/1	0.43741	643	0.19864	292	33755	1470	8	169347	60345094
+SARS-CoV-2	dualprimersmart9n/full/neb+rlb/1	0.25304	333	0.00000	0	29778	1316	2	169347	60345094
+TOTAL	dualprimersmart9n/full/neb+rlb/1	0.68757	9386	0.25178	3437	0	13651	7	169347	60345094
+HPIV-2	dualprimersmart9n/full/neb+rlb/2	0.99404	667	0.79583	534	15654	671	15	93875	31929251
+HPIV-3	dualprimersmart9n/full/neb+rlb/2	0.99106	665	0.60209	404	15382	671	11	93875	31929251
+HRV-1A	dualprimersmart9n/full/neb+rlb/2	0.87261	274	0.17197	54	7096	314	5	93875	31929251
+HMPV	dualprimersmart9n/full/neb+rlb/2	0.84276	477	0.03357	19	13149	566	4	93875	31929251
+Flu-B	dualprimersmart9n/full/neb+rlb/2	0.80713	498	0.04538	28	14222	617	3	93875	31929251
+HPIV-1	dualprimersmart9n/full/neb+rlb/2	0.75994	516	0.02209	15	15412	679	3	93875	31929251
+Flu-A-H1N1-NC	dualprimersmart9n/full/neb+rlb/2	0.75304	433	0.32522	187	13292	575	8	93875	31929251
+RSV-A	dualprimersmart9n/full/neb+rlb/2	0.72741	467	0.06542	42	14855	642	2	93875	31929251
+HPIV-4	dualprimersmart9n/full/neb+rlb/2	0.72245	531	0.01769	13	17132	735	3	93875	31929251
+AdV-3	dualprimersmart9n/full/neb+rlb/2	0.71595	1104	0.17056	263	35072	1542	4	93875	31929251
+Flu-A-H1N1-NY	dualprimersmart9n/full/neb+rlb/2	0.59615	341	0.01049	6	13130	572	3	93875	31929251
+Flu-A-H3N2	dualprimersmart9n/full/neb+rlb/2	0.58204	337	0.16753	97	13290	579	5	93875	31929251
+AdV-1	dualprimersmart9n/full/neb+rlb/2	0.51202	788	0.04159	64	35676	1539	3	93875	31929251
+HCoV-229E	dualprimersmart9n/full/neb+rlb/2	0.39897	464	0.00000	0	26841	1163	2	93875	31929251
+AdV-31	dualprimersmart9n/full/neb+rlb/2	0.39184	576	0.08980	132	33755	1470	4	93875	31929251
+SARS-CoV-2	dualprimersmart9n/full/neb+rlb/2	0.20669	272	0.00000	0	29778	1316	2	93875	31929251
+TOTAL	dualprimersmart9n/full/neb+rlb/2	0.61607	8410	0.13603	1857	0	13651	4	93875	31929251
+HPIV-3	dualprimersmart9n/full/neb+rlb/3	0.71684	481	0.00149	1	15382	671	3	72522	21240260
+HPIV-2	dualprimersmart9n/full/neb+rlb/3	0.65872	442	0.03428	23	15654	671	2	72522	21240260
+Flu-A-H1N1-NC	dualprimersmart9n/full/neb+rlb/3	0.44522	256	0.00348	2	13292	575	3	72522	21240260
+AdV-3	dualprimersmart9n/full/neb+rlb/3	0.37678	581	0.00584	9	35072	1542	2	72522	21240260
+Flu-B	dualprimersmart9n/full/neb+rlb/3	0.36143	223	0.00000	0	14222	617	1	72522	21240260
+HMPV	dualprimersmart9n/full/neb+rlb/3	0.35866	203	0.00000	0	13149	566	2	72522	21240260
+Flu-A-H3N2	dualprimersmart9n/full/neb+rlb/3	0.28670	166	0.00691	4	13290	579	2	72522	21240260
+RSV-A	dualprimersmart9n/full/neb+rlb/3	0.27414	176	0.00000	0	14855	642	2	72522	21240260
+Flu-A-H1N1-NY	dualprimersmart9n/full/neb+rlb/3	0.25175	144	0.00000	0	13130	572	1	72522	21240260
+HPIV-1	dualprimersmart9n/full/neb+rlb/3	0.22386	152	0.00000	0	15412	679	1	72522	21240260
+AdV-31	dualprimersmart9n/full/neb+rlb/3	0.21837	321	0.00612	9	33755	1470	2	72522	21240260
+HRV-1A	dualprimersmart9n/full/neb+rlb/3	0.21338	67	0.00000	0	7096	314	2	72522	21240260
+AdV-1	dualprimersmart9n/full/neb+rlb/3	0.15595	240	0.00065	1	35676	1539	2	72522	21240260
+HCoV-229E	dualprimersmart9n/full/neb+rlb/3	0.12984	151	0.00000	0	26841	1163	2	72522	21240260
+HPIV-4	dualprimersmart9n/full/neb+rlb/3	0.09796	72	0.00272	2	17132	735	1	72522	21240260
+SARS-CoV-2	dualprimersmart9n/full/neb+rlb/3	0.04635	61	0.00000	0	29778	1316	2	72522	21240260
+TOTAL	dualprimersmart9n/full/neb+rlb/3	0.27368	3736	0.00366	50	0	13651	2	72522	21240260
+HPIV-2	dualprimersmart9n/full/neb+rlb/neg	0.98361	660	0.26528	178	15654	671	6	4218	3829065
+HPIV-3	dualprimersmart9n/full/neb+rlb/neg	0.98212	659	0.19076	128	15382	671	7	4218	3829065
+HRV-1A	dualprimersmart9n/full/neb+rlb/neg	0.86943	273	0.00000	0	7096	314	2	4218	3829065
+Flu-A-H1N1-NC	dualprimersmart9n/full/neb+rlb/neg	0.79130	455	0.21043	121	13292	575	6	4218	3829065
+HMPV	dualprimersmart9n/full/neb+rlb/neg	0.75088	425	0.00000	0	13149	566	2	4218	3829065
+Flu-B	dualprimersmart9n/full/neb+rlb/neg	0.59643	368	0.00000	0	14222	617	2	4218	3829065
+Flu-A-H1N1-NY	dualprimersmart9n/full/neb+rlb/neg	0.59615	341	0.02098	12	13130	572	3	4218	3829065
+AdV-3	dualprimersmart9n/full/neb+rlb/neg	0.54799	845	0.07523	116	35072	1542	4	4218	3829065
+HPIV-1	dualprimersmart9n/full/neb+rlb/neg	0.53166	361	0.00000	0	15412	679	2	4218	3829065
+Flu-A-H3N2	dualprimersmart9n/full/neb+rlb/neg	0.52677	305	0.08981	52	13290	579	4	4218	3829065
+RSV-A	dualprimersmart9n/full/neb+rlb/neg	0.50000	321	0.00000	0	14855	642	2	4218	3829065
+HPIV-4	dualprimersmart9n/full/neb+rlb/neg	0.48435	356	0.00816	6	17132	735	2	4218	3829065
+AdV-1	dualprimersmart9n/full/neb+rlb/neg	0.44055	678	0.00910	14	35676	1539	2	4218	3829065
+AdV-31	dualprimersmart9n/full/neb+rlb/neg	0.33469	492	0.04966	73	33755	1470	4	4218	3829065
+HCoV-229E	dualprimersmart9n/full/neb+rlb/neg	0.12124	141	0.00000	0	26841	1163	2	4218	3829065
+SARS-CoV-2	dualprimersmart9n/full/neb+rlb/neg	0.05395	71	0.00000	0	29778	1316	2	4218	3829065
+TOTAL	dualprimersmart9n/full/neb+rlb/neg	0.49454	6751	0.05128	700	0	13651	3	4218	3829065
